@@ -1,0 +1,2009 @@
+{
+    "list": [
+        {
+            "name": "世界公园",
+            "location": {
+                "lat": 39.816772,
+                "lng": 116.293994
+            },
+            "address": "北京市丰台区丰葆路158号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "0174a8e582b9cd8fbea2407b",
+            "telephone": "(010)83613680,(010)83613681",
+            "detail": 1,
+            "uid": "0174a8e582b9cd8fbea2407b"
+        },
+        {
+            "name": "香山公园",
+            "location": {
+                "lat": 39.996194,
+                "lng": 116.195044
+            },
+            "address": "北京市海淀区买卖街40号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "",
+            "telephone": "(010)62591222",
+            "detail": 1,
+            "uid": "6d282c407a4ef37a1676434f"
+        },
+        {
+            "name": "北京动物园",
+            "location": {
+                "lat": 39.947735,
+                "lng": 116.343376
+            },
+            "address": "北京市西城区西直门外大街137号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "4bb049d91598944799005000",
+            "telephone": "(010)68314411,(010)68390274",
+            "detail": 1,
+            "uid": "4bb049d91598944799005000"
+        },
+        {
+            "name": "凤凰岭自然风景区",
+            "location": {
+                "lat": 40.112884,
+                "lng": 116.091588
+            },
+            "address": "北京市海淀区苏家坨镇凤凰岭路19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "",
+            "telephone": "(010)62455933",
+            "detail": 1,
+            "uid": "fe488656344d24f859bbbc63"
+        },
+        {
+            "name": "圆明园遗址公园",
+            "location": {
+                "lat": 40.012658,
+                "lng": 116.309804
+            },
+            "address": "北京市海淀区清华西路28号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "62d852adf09e449a2fb17ef5",
+            "telephone": "(010)62543673",
+            "detail": 1,
+            "uid": "62d852adf09e449a2fb17ef5"
+        },
+        {
+            "name": "北海公园",
+            "location": {
+                "lat": 39.932909,
+                "lng": 116.39548
+            },
+            "address": "北京市西城区文津街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "49d959381b59a043c61e5102",
+            "telephone": "(010)64033225",
+            "detail": 1,
+            "uid": "49d959381b59a043c61e5102"
+        },
+        {
+            "name": "北京欢乐谷",
+            "location": {
+                "lat": 39.873848,
+                "lng": 116.501366
+            },
+            "address": "北京市朝阳区东四环小武基北路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "91c13f93bcdcccfa20f0179a",
+            "telephone": "(010)67389898",
+            "detail": 1,
+            "uid": "91c13f93bcdcccfa20f0179a"
+        },
+        {
+            "name": "雁栖湖景区",
+            "location": {
+                "lat": 40.398683,
+                "lng": 116.673574
+            },
+            "address": "北京市怀柔区雁水路3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "street_id": "5c2dc21daf5986076fc02c26",
+            "telephone": "(010)69661696",
+            "detail": 1,
+            "uid": "5c2dc21daf5986076fc02c26"
+        },
+        {
+            "name": "北京园博园",
+            "location": {
+                "lat": 39.881733,
+                "lng": 116.197194
+            },
+            "address": "北京市丰台区射击场路15号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "12288d5ffd5f1c24283a9f68",
+            "telephone": "(010)63915561",
+            "detail": 1,
+            "uid": "14076deea795edf402294f07"
+        },
+        {
+            "name": "青龙湖公园",
+            "location": {
+                "lat": 39.80284,
+                "lng": 116.094786
+            },
+            "address": "北京市丰台区王佐镇怪村西",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)83310645",
+            "detail": 0,
+            "uid": "35debf29046fdf44a6da3977"
+        },
+        {
+            "name": "天坛公园",
+            "location": {
+                "lat": 39.888243,
+                "lng": 116.417246
+            },
+            "address": "北京市东城区天坛东里甲1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)67028866",
+            "detail": 0,
+            "uid": "45ef9a2b5508cbfda2d230e6"
+        },
+        {
+            "name": "八达岭长城",
+            "location": {
+                "lat": 40.362639,
+                "lng": 116.024067
+            },
+            "address": "北京市延庆区G6京藏高速58号出口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)69122222",
+            "detail": 0,
+            "uid": "2fd2beabe34a80517adbd220"
+        },
+        {
+            "name": "古北水镇",
+            "location": {
+                "lat": 40.661046,
+                "lng": 117.284632
+            },
+            "address": "北京市密云区古北口镇司马台村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)81009999",
+            "detail": 0,
+            "uid": "bab5afea082a15f15fbe8634"
+        },
+        {
+            "name": "颐和园",
+            "location": {
+                "lat": 40.004869,
+                "lng": 116.278749
+            },
+            "address": "北京市海淀区新建宫门路19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)62881144",
+            "detail": 0,
+            "uid": "2a7a25ecf9cf13636d3e1bad"
+        },
+        {
+            "name": "南锣鼓巷",
+            "location": {
+                "lat": 39.943562,
+                "lng": 116.408878
+            },
+            "address": "北京市东城区南锣鼓巷胡同",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "bb3fd06fc7b47fba86420eac"
+        },
+        {
+            "name": "明十三陵",
+            "location": {
+                "lat": 40.263544,
+                "lng": 116.231846
+            },
+            "address": "北京市昌平区十三陵镇昌赤路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)60761424",
+            "detail": 0,
+            "uid": "0a46dc0f83a2265e30621266"
+        },
+        {
+            "name": "北宫国家森林公园",
+            "location": {
+                "lat": 39.871839,
+                "lng": 116.12471
+            },
+            "address": "北京市丰台区长辛店镇大灰厂东路55号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)83840830",
+            "detail": 0,
+            "uid": "f60a15ed8f5278ecbb17e704"
+        },
+        {
+            "name": "鬼笑石",
+            "location": {
+                "lat": 39.985331,
+                "lng": 116.193957
+            },
+            "address": "北京市海淀区西山国家森林公园内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "e71c0b8fefe4063757bfffd0"
+        },
+        {
+            "name": "北京工体富国海底世界",
+            "location": {
+                "lat": 39.934037,
+                "lng": 116.453587
+            },
+            "address": "工人体育场南路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)65935263",
+            "detail": 0,
+            "uid": "05ffe57ce36641c031f71dce"
+        },
+        {
+            "name": "奥林匹克森林公园",
+            "location": {
+                "lat": 40.025231,
+                "lng": 116.396797
+            },
+            "address": "北京市朝阳区科荟路33号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)64529090,(010)64529060",
+            "detail": 0,
+            "uid": "03d7e5971f3675483c9a5e9e"
+        },
+        {
+            "name": "朝阳公园",
+            "location": {
+                "lat": 39.949861,
+                "lng": 116.489233
+            },
+            "address": "北京市朝阳区朝阳公园南路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "8c3adf1c6f135ad74d554726",
+            "telephone": "(010)65953490",
+            "detail": 1,
+            "uid": "5cf5d3b0bf74a8f6f82d6110"
+        },
+        {
+            "name": "北京大观园",
+            "location": {
+                "lat": 39.877174,
+                "lng": 116.362736
+            },
+            "address": "北京市西城区南菜园街12号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "15a93810b646cea415c8f6b9",
+            "telephone": "(010)63544993",
+            "detail": 1,
+            "uid": "15a93810b646cea415c8f6b9"
+        },
+        {
+            "name": "八大处公园",
+            "location": {
+                "lat": 39.968527,
+                "lng": 116.190196
+            },
+            "address": "北京市石景山区八大处路3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "4edf9fbf7699998dcc06a44d",
+            "telephone": "(010)88964661",
+            "detail": 1,
+            "uid": "4edf9fbf7699998dcc06a44d"
+        },
+        {
+            "name": "天安门广场",
+            "location": {
+                "lat": 39.909652,
+                "lng": 116.404177
+            },
+            "address": "北京市东城区东长安街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "c9b5fb91d49345bc5d0d0262",
+            "detail": 1,
+            "uid": "c9b5fb91d49345bc5d0d0262"
+        },
+        {
+            "name": "蟒山国家森林公园",
+            "location": {
+                "lat": 40.270755,
+                "lng": 116.299772
+            },
+            "address": "蟒山路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "66f0f14202aa37838605bfdb",
+            "telephone": "(010)60713847",
+            "detail": 1,
+            "uid": "66f0f14202aa37838605bfdb"
+        },
+        {
+            "name": "恭王府",
+            "location": {
+                "lat": 39.943381,
+                "lng": 116.392599
+            },
+            "address": "北京市西城区前海西街17号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "bb1d38e4ec95cc4d0c0a7002",
+            "telephone": "(010)83288149",
+            "detail": 1,
+            "uid": "bb1d38e4ec95cc4d0c0a7002"
+        },
+        {
+            "name": "什刹海公园",
+            "location": {
+                "lat": 39.947583,
+                "lng": 116.391128
+            },
+            "address": "北京市西城区地安门西大街49号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "c21db9e5111538fe00ff2d32",
+            "detail": 1,
+            "uid": "c21db9e5111538fe00ff2d32"
+        },
+        {
+            "name": "野鸭湖湿地公园",
+            "location": {
+                "lat": 40.416672,
+                "lng": 115.864188
+            },
+            "address": "北京市延庆区康野路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "",
+            "telephone": "(010)69131458",
+            "detail": 1,
+            "uid": "f757e6eee36b7a17260bd02b"
+        },
+        {
+            "name": "地坛公园",
+            "location": {
+                "lat": 39.959903,
+                "lng": 116.421358
+            },
+            "address": "北京市东城区安定门外大街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "26d62eb4ba8e27176240a90d",
+            "telephone": "(010)64214657",
+            "detail": 1,
+            "uid": "26d62eb4ba8e27176240a90d"
+        },
+        {
+            "name": "玉渊潭公园",
+            "location": {
+                "lat": 39.922467,
+                "lng": 116.326526
+            },
+            "address": "北京市海淀区西三环中路10号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "3810c87916332c8b9d09f7b2",
+            "telephone": "(010)88653800",
+            "detail": 1,
+            "uid": "3810c87916332c8b9d09f7b2"
+        },
+        {
+            "name": "北京野生动物园",
+            "location": {
+                "lat": 39.502455,
+                "lng": 116.342197
+            },
+            "address": "北京市大兴区榆垡镇万亩森林",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "",
+            "telephone": "(010)89216606",
+            "detail": 1,
+            "uid": "e85e2527b6f7615395f08cf8"
+        },
+        {
+            "name": "北京青龙峡风景区",
+            "location": {
+                "lat": 40.467871,
+                "lng": 116.689259
+            },
+            "address": "北京市怀柔区怀北镇大水峪村北500米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)89696694,(010)89696781",
+            "detail": 0,
+            "uid": "eac84be756d2ba49d12dd64f"
+        },
+        {
+            "name": "陶然亭公园",
+            "location": {
+                "lat": 39.88066,
+                "lng": 116.388442
+            },
+            "address": "北京市西城区太平街19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)63511596,(010)63532385",
+            "detail": 0,
+            "uid": "fa01e9378b06f14a774ff1f0"
+        },
+        {
+            "name": "红螺寺",
+            "location": {
+                "lat": 40.389444,
+                "lng": 116.634066
+            },
+            "address": "北京市怀柔区红螺东路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)60681175,(010)60681639",
+            "detail": 0,
+            "uid": "605884e7c61e3573871541a3"
+        },
+        {
+            "name": "十渡风景区",
+            "location": {
+                "lat": 39.644403,
+                "lng": 115.606398
+            },
+            "address": "北京市房山区十渡镇九渡大街9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "64ff3be1653dd1bb90114cc4"
+        },
+        {
+            "name": "雍和宫",
+            "location": {
+                "lat": 39.953628,
+                "lng": 116.423633
+            },
+            "address": "北京市东城区雍和宫大街12号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)84191919",
+            "detail": 0,
+            "uid": "92bc1f0a948a5c38a0acc418"
+        },
+        {
+            "name": "通州大运河森林公园",
+            "location": {
+                "lat": 39.8824,
+                "lng": 116.748887
+            },
+            "address": "北京市通州区宋梁路南段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)61569200",
+            "detail": 0,
+            "uid": "b3f6f9b15dbf37754c6d46e2"
+        },
+        {
+            "name": "北京植物园",
+            "location": {
+                "lat": 40.007561,
+                "lng": 116.216186
+            },
+            "address": "北京市海淀区香山卧佛寺路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)82598771",
+            "detail": 0,
+            "uid": "550fd5f9c8d53478931fc9c4"
+        },
+        {
+            "name": "北京海洋馆",
+            "location": {
+                "lat": 39.950277,
+                "lng": 116.347542
+            },
+            "address": "北京市海淀区高粱桥斜街乙18号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)62176655",
+            "detail": 0,
+            "uid": "f446091859ff806bb11e363b"
+        },
+        {
+            "name": "龙庆峡风景区",
+            "location": {
+                "lat": 40.557765,
+                "lng": 116.009927
+            },
+            "address": "北京市延庆区古城村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)69191020,(010)69191034",
+            "detail": 0,
+            "uid": "9f97b1c506534806b64f5425"
+        },
+        {
+            "name": "北京国际鲜花港",
+            "location": {
+                "lat": 40.187688,
+                "lng": 116.803564
+            },
+            "address": "杨镇鲜花港南路9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "",
+            "telephone": "(010)61417123",
+            "detail": 1,
+            "uid": "0ed20a15533384e957bffffc"
+        },
+        {
+            "name": "天安门",
+            "location": {
+                "lat": 39.915119,
+                "lng": 116.403963
+            },
+            "address": "北京市东城区长安街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "65e1ee886c885190f60e77ff",
+            "detail": 1,
+            "uid": "65e1ee886c885190f60e77ff"
+        },
+        {
+            "name": "温都水城",
+            "location": {
+                "lat": 40.110264,
+                "lng": 116.377017
+            },
+            "address": "北京市昌平区北七家镇王府街55号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "eb43f92cdf072e9e734b87cb",
+            "telephone": "(010)81788888",
+            "detail": 1,
+            "uid": "eb43f92cdf072e9e734b87cb"
+        },
+        {
+            "name": "紫竹院公园",
+            "location": {
+                "lat": 39.948437,
+                "lng": 116.32483
+            },
+            "address": "北京市海淀区中关村南大街35号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "49c6ce91c412a12c8d772700",
+            "detail": 1,
+            "uid": "49c6ce91c412a12c8d772700"
+        },
+        {
+            "name": "金海湖景区",
+            "location": {
+                "lat": 40.187348,
+                "lng": 117.310896
+            },
+            "address": "北京市平谷区金海湖镇平蓟路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "",
+            "telephone": "(010)69992011,(010)69993943",
+            "detail": 1,
+            "uid": "ff4933daf92894fa631c67ba"
+        },
+        {
+            "name": "百里山水画廊",
+            "location": {
+                "lat": 40.70653,
+                "lng": 116.326242
+            },
+            "address": "千家店镇东店村153号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "telephone": "(010)60188559",
+            "detail": 1,
+            "uid": "5fa7fcd0c086e8d67069d3d6"
+        },
+        {
+            "name": "妙峰山森林公园",
+            "location": {
+                "lat": 40.070943,
+                "lng": 116.032934
+            },
+            "address": "北京市门头沟区涧沟村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "",
+            "detail": 1,
+            "uid": "9e2dbbf6bf959e9e16a19044"
+        },
+        {
+            "name": "蓝调薰衣草庄园",
+            "location": {
+                "lat": 39.971582,
+                "lng": 116.614759
+            },
+            "address": "北京市朝阳区金盏乡楼梓庄村马家沟",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "b102a2c7d87209c89cec2b7c",
+            "telephone": "(010)65765858",
+            "detail": 1,
+            "uid": "b102a2c7d87209c89cec2b7c"
+        },
+        {
+            "name": "北京世界花卉大观园",
+            "location": {
+                "lat": 39.840957,
+                "lng": 116.359769
+            },
+            "address": "北京市丰台区南四环中路235号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "baae3dde2007d4ada6da399e",
+            "telephone": "(010)87500840",
+            "detail": 1,
+            "uid": "baae3dde2007d4ada6da399e"
+        },
+        {
+            "name": "黑龙潭自然风景区",
+            "location": {
+                "lat": 40.569355,
+                "lng": 116.793737
+            },
+            "address": "北京市密云区石城镇大关桥",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "",
+            "telephone": "(010)61016289",
+            "detail": 1,
+            "uid": "cb4fd146d0833c419c9d6895"
+        },
+        {
+            "name": "后海公园",
+            "location": {
+                "lat": 39.94858,
+                "lng": 116.388718
+            },
+            "address": "北京市西城区羊房胡同",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "7aea43b721dd95e17d29bda4",
+            "detail": 1,
+            "uid": "7aea43b721dd95e17d29bda4"
+        },
+        {
+            "name": "慕田峪长城国家级旅游景区",
+            "location": {
+                "lat": 40.437442,
+                "lng": 116.571611
+            },
+            "address": "北京市怀柔区渤海镇慕田峪村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)61626022",
+            "detail": 0,
+            "uid": "2fd2beabe34980517adbd221"
+        },
+        {
+            "name": "龙潭公园",
+            "location": {
+                "lat": 39.885848,
+                "lng": 116.444742
+            },
+            "address": "北京市东城区龙潭路8号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)67144336",
+            "detail": 0,
+            "uid": "090059e354c3dd9114b54b97"
+        },
+        {
+            "name": "百望山",
+            "location": {
+                "lat": 40.036088,
+                "lng": 116.262167
+            },
+            "address": "北京市海淀区黑山扈北口19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)62584356,(010)62884356",
+            "detail": 0,
+            "uid": "77d9a96b1125d0e37dc87626"
+        },
+        {
+            "name": "京东石林峡景区",
+            "location": {
+                "lat": 40.268794,
+                "lng": 117.24851
+            },
+            "address": "北京市平谷区黄松峪乡雕窝村73号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)60987678",
+            "detail": 0,
+            "uid": "ef8195229cd670868bdb7311"
+        },
+        {
+            "name": "将府公园",
+            "location": {
+                "lat": 39.977849,
+                "lng": 116.518823
+            },
+            "address": "北京市朝阳区将台东路甲16号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)64360177",
+            "detail": 0,
+            "uid": "4ce10ce6f43a04a1451a3289"
+        },
+        {
+            "name": "房山世界地质公园石花洞景区",
+            "location": {
+                "lat": 39.803892,
+                "lng": 115.949587
+            },
+            "address": "北京市房山区河北镇南车营村111号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)60312243",
+            "detail": 0,
+            "uid": "bda430068962fdacfa0cadbc"
+        },
+        {
+            "name": "南海子公园",
+            "location": {
+                "lat": 39.779661,
+                "lng": 116.475291
+            },
+            "address": "北京市大兴区黄亦路16号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "f1f5cac51d653e8137b06ce4"
+        },
+        {
+            "name": "八大胡同",
+            "location": {
+                "lat": 39.899213,
+                "lng": 116.399229
+            },
+            "address": "北京市西城区珠市口西大街北侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "cfb586d90d8069fcc71b755f"
+        },
+        {
+            "name": "黄花城水长城",
+            "location": {
+                "lat": 40.419287,
+                "lng": 116.307167
+            },
+            "address": "北京市怀柔区九渡河镇西水峪村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)61652929",
+            "detail": 0,
+            "uid": "d7fd2ad3fbaf0c540bccdd74"
+        },
+        {
+            "name": "北京南宫旅游景区",
+            "location": {
+                "lat": 39.8009,
+                "lng": 116.158507
+            },
+            "address": "王佐镇南宫南路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "83c8d282d2f54cd386420e64",
+            "telephone": "(010)83319541,(010)83316030",
+            "detail": 1,
+            "uid": "83c8d282d2f54cd386420e64"
+        },
+        {
+            "name": "汉石桥湿地",
+            "location": {
+                "lat": 40.13014,
+                "lng": 116.816552
+            },
+            "address": "北京市顺义区木燕路灵石59号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "49d95938b210493dc61e51f3",
+            "telephone": "(010)61411200",
+            "detail": 1,
+            "uid": "49d95938b210493dc61e51f3"
+        },
+        {
+            "name": "日坛公园",
+            "location": {
+                "lat": 39.921342,
+                "lng": 116.450437
+            },
+            "address": "北京朝阳门外日坛北路6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "3dc9befd7c6f810fbea240fe",
+            "telephone": "(010)85616301",
+            "detail": 1,
+            "uid": "3dc9befd7c6f810fbea240fe"
+        },
+        {
+            "name": "八达岭野生动物世界",
+            "location": {
+                "lat": 40.356971,
+                "lng": 116.003446
+            },
+            "address": "北京市延庆区京藏高速公路58号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "d991e11609e8d02b1f389423",
+            "telephone": "(010)69122591",
+            "detail": 1,
+            "uid": "d991e11609e8d02b1f389423"
+        },
+        {
+            "name": "顺义奥林匹克水上公园",
+            "location": {
+                "lat": 40.179555,
+                "lng": 116.698838
+            },
+            "address": "北京市顺义区白马路19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "",
+            "telephone": "(010)89482008",
+            "detail": 1,
+            "uid": "70825efb79688f6c354aaea5"
+        },
+        {
+            "name": "京东大溶洞旅游区",
+            "location": {
+                "lat": 40.232876,
+                "lng": 117.253178
+            },
+            "address": "黄松峪黑豆峪村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "(010)60971708",
+            "detail": 1,
+            "uid": "044ab76b0afb4508abf72914"
+        },
+        {
+            "name": "北京西山国家森林公园(昌华园区)",
+            "location": {
+                "lat": 39.978535,
+                "lng": 116.209193
+            },
+            "address": "闵庄路与香山南路交叉口西行100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "1d4bc84384a3c926eedfca70",
+            "telephone": "(010)62720251",
+            "detail": 1,
+            "uid": "1d4bc84384a3c926eedfca70"
+        },
+        {
+            "name": "景山公园",
+            "location": {
+                "lat": 39.93227,
+                "lng": 116.402818
+            },
+            "address": "北京市西城区景山西街44号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "",
+            "telephone": "(010)64038098",
+            "detail": 1,
+            "uid": "4b622bba5f9b4d2781a12e0a"
+        },
+        {
+            "name": "京东大峡谷",
+            "location": {
+                "lat": 40.251143,
+                "lng": 117.176848
+            },
+            "address": "北京市平谷区山东庄镇鱼子山村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "",
+            "telephone": "(010)60968317",
+            "detail": 1,
+            "uid": "992c91eaf6397e2f0a5cb366"
+        },
+        {
+            "name": "中央电视塔",
+            "location": {
+                "lat": 39.925278,
+                "lng": 116.313408
+            },
+            "address": "北京市海淀区西三环中路11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "2949a58c58499370a1d230e5",
+            "telephone": "(010)68450715",
+            "detail": 1,
+            "uid": "2949a58c58499370a1d230e5"
+        },
+        {
+            "name": "前门",
+            "location": {
+                "lat": 39.905524,
+                "lng": 116.404588
+            },
+            "address": "北京市东城区前门西大街甲1号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "dfe7d4e88ccc3f7f4e3a5974",
+            "detail": 1,
+            "uid": "dfe7d4e88ccc3f7f4e3a5974"
+        },
+        {
+            "name": "北京奥林匹克公园",
+            "location": {
+                "lat": 39.999245,
+                "lng": 116.399206
+            },
+            "address": "北京市朝阳区北辰东路15号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "b0d56a319eed80a6bbbd6306",
+            "detail": 1,
+            "uid": "70b1a02aae7f384c97ec8491"
+        },
+        {
+            "name": "中山公园",
+            "location": {
+                "lat": 39.916702,
+                "lng": 116.400582
+            },
+            "address": "北京市东城区中华路4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)66055431",
+            "detail": 0,
+            "uid": "e2c734e489d8d15d15a190d1"
+        },
+        {
+            "name": "清凉谷风景区",
+            "location": {
+                "lat": 40.639792,
+                "lng": 116.760289
+            },
+            "address": "北京市密云区石城镇四合堂村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)69015455",
+            "detail": 0,
+            "uid": "79cceb360e08ad891f580095"
+        },
+        {
+            "name": "太平洋海底世界博览馆",
+            "location": {
+                "lat": 39.924905,
+                "lng": 116.312857
+            },
+            "address": "北京市海淀区西三环中路11号中央电视塔下面",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)68461197,(010)68714695",
+            "detail": 0,
+            "uid": "e0845493c50389c921f017f6"
+        },
+        {
+            "name": "圣莲山风景区",
+            "location": {
+                "lat": 39.847532,
+                "lng": 115.737588
+            },
+            "address": "北京市房山区史家营乡柳林水村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)60319023",
+            "detail": 0,
+            "uid": "593850fb2d22fe5ddf1e52c7"
+        },
+        {
+            "name": "北京呀路古热带植物园",
+            "location": {
+                "lat": 39.664748,
+                "lng": 116.600178
+            },
+            "address": "长子营镇104国道朱庄路口东行200米路北",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)80218180",
+            "detail": 0,
+            "uid": "919f4b738ec47e25f7231002"
+        },
+        {
+            "name": "海淀公园",
+            "location": {
+                "lat": 39.99242,
+                "lng": 116.302269
+            },
+            "address": "北京市海淀区新建宫门路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)62850569",
+            "detail": 0,
+            "uid": "92df8c20d3c448cf52e5c5f5"
+        },
+        {
+            "name": "密云水库",
+            "location": {
+                "lat": 40.523288,
+                "lng": 116.920432
+            },
+            "address": "北京市密云区恒河西山",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "988a4c46ce45f7758b2fb579"
+        },
+        {
+            "name": "北京石景山游乐园",
+            "location": {
+                "lat": 39.917811,
+                "lng": 116.215518
+            },
+            "address": "北京市石景山区石景山路25号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "telephone": "(010)68876016,(010)88925159",
+            "detail": 0,
+            "uid": "50569b92946486fb5cd4fe48"
+        },
+        {
+            "name": "清华园",
+            "location": {
+                "lat": 40.006829,
+                "lng": 116.331007
+            },
+            "address": "北京市海淀区双清路30号(清华大学内)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "844a750e925cf1b9636858ab",
+            "telephone": "(010)62793001",
+            "detail": 1,
+            "uid": "844a750e925cf1b9636858ab"
+        },
+        {
+            "name": "琉璃厂古文化街",
+            "location": {
+                "lat": 39.9015,
+                "lng": 116.391394
+            },
+            "address": "北京市西城区南新华街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "4732c6dc9053687178f79698",
+            "detail": 1,
+            "uid": "844a750e243807a06268585e"
+        },
+        {
+            "name": "九谷口自然风景区",
+            "location": {
+                "lat": 40.450379,
+                "lng": 116.668525
+            },
+            "address": "北京市怀柔区怀北镇河防口村548号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "street_id": "bf29b702a9959f9909b93a77",
+            "telephone": "(010)89696677",
+            "detail": 1,
+            "uid": "bf29b702a9959f9909b93a77"
+        },
+        {
+            "name": "灵山自然风景区",
+            "location": {
+                "lat": 40.045961,
+                "lng": 115.508638
+            },
+            "address": "北京市门头沟区灵山路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "detail": 1,
+            "uid": "c4e0013f68d6ab9097ec845e"
+        },
+        {
+            "name": "银山塔林",
+            "location": {
+                "lat": 40.320998,
+                "lng": 116.335109
+            },
+            "address": "北京市昌平区延寿镇西湖村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "telephone": "(010)89726426,(010)60761005",
+            "detail": 1,
+            "uid": "8548e873f818c0edf03cbabc"
+        },
+        {
+            "name": "丫髻山碧霞元君祠遗址",
+            "location": {
+                "lat": 40.279344,
+                "lng": 116.988201
+            },
+            "address": "北京市平谷区刘家店乡北吉山村西北山",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "fede955c02ea07a49d9d6835",
+            "detail": 1,
+            "uid": "fede955c02ea07a49d9d6835"
+        },
+        {
+            "name": "元大都城垣遗址公园",
+            "location": {
+                "lat": 39.982403,
+                "lng": 116.409246
+            },
+            "address": "北京市朝阳区健安东路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "3a0fbba8e9bb1a419fe321ad",
+            "telephone": "(010)84648252",
+            "detail": 1,
+            "uid": "3a0fbba8e9bb1a419fe321ad"
+        },
+        {
+            "name": "昭陵",
+            "location": {
+                "lat": 40.296831,
+                "lng": 116.224533
+            },
+            "address": "北京市昌平区十三陵特区昭陵路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "f4460918e83f536ab11e367b",
+            "telephone": "(010)60763104,(010)60761435",
+            "detail": 1,
+            "uid": "f4460918e83f536ab11e367b"
+        },
+        {
+            "name": "司马台长城游览区",
+            "location": {
+                "lat": 40.663649,
+                "lng": 117.292856
+            },
+            "address": "北京市密云区古北水镇司马台村北",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "",
+            "telephone": "(010)81009999",
+            "detail": 1,
+            "uid": "bff8fa7d15e3f1a0c9213d95"
+        },
+        {
+            "name": "北京世园公园",
+            "location": {
+                "lat": 40.450315,
+                "lng": 115.957449
+            },
+            "address": "北京市延庆区220省道西侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "",
+            "telephone": "(010)50858888",
+            "detail": 1,
+            "uid": "97906fe80de1bf2cfaf0cb87"
+        },
+        {
+            "name": "神泉峡风景区",
+            "location": {
+                "lat": 40.053569,
+                "lng": 115.981179
+            },
+            "address": "妙峰山镇炭厂村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "telephone": "(010)61884638",
+            "detail": 1,
+            "uid": "e85e2527199b802d95f08c1a"
+        },
+        {
+            "name": "毛主席纪念堂",
+            "location": {
+                "lat": 39.908892,
+                "lng": 116.404162
+            },
+            "address": "前门东大街11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "46fb7cadd046b93229fc48f3",
+            "telephone": "(010)65120909",
+            "detail": 1,
+            "uid": "46fb7cadd046b93229fc48f3"
+        },
+        {
+            "name": "白云观",
+            "location": {
+                "lat": 39.90652,
+                "lng": 116.350158
+            },
+            "address": "北京市西城区白云观街9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "5c2dc21d178e6e046fc02c75",
+            "telephone": "(010)63463531",
+            "detail": 1,
+            "uid": "5c2dc21d178e6e046fc02c75"
+        },
+        {
+            "name": "午门",
+            "location": {
+                "lat": 39.92011,
+                "lng": 116.403705
+            },
+            "address": "北京市东城区景山前街4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "e85e2527153d842d94f08cb8",
+            "detail": 1,
+            "uid": "e85e2527153d842d94f08cb8"
+        },
+        {
+            "name": "中国人民抗日战争纪念馆",
+            "location": {
+                "lat": 39.857753,
+                "lng": 116.232474
+            },
+            "address": "北京市丰台区卢沟桥宛平城内街101号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "5ec201faf05332672eb90851",
+            "telephone": "(010)63777088,(010)63777188",
+            "detail": 1,
+            "uid": "5ec201faf05332672eb90851"
+        },
+        {
+            "name": "八达岭水关长城",
+            "location": {
+                "lat": 40.344692,
+                "lng": 116.044509
+            },
+            "address": "北京市延庆区八达岭镇石佛寺村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)81181038",
+            "detail": 0,
+            "uid": "beabdbf4e155d19b7069d327"
+        },
+        {
+            "name": "月坛公园",
+            "location": {
+                "lat": 39.922132,
+                "lng": 116.358874
+            },
+            "address": "月坛北街6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)68020940",
+            "detail": 0,
+            "uid": "06881d62cb48756c7069d3f4"
+        },
+        {
+            "name": "松山森林景区",
+            "location": {
+                "lat": 40.515289,
+                "lng": 115.836964
+            },
+            "address": "北京市延庆区张山营镇京礼高速",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "fa01e9378a4cf04a774ff12a"
+        },
+        {
+            "name": "北京孔庙",
+            "location": {
+                "lat": 39.952772,
+                "lng": 116.420854
+            },
+            "address": "北京市东城区国子监街13号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)64075259",
+            "detail": 0,
+            "uid": "50f7d1461f3508c472210bd2"
+        },
+        {
+            "name": "明城墙遗址公园",
+            "location": {
+                "lat": 39.90721,
+                "lng": 116.434545
+            },
+            "address": "北京市东城区崇文门东大街9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)65270574",
+            "detail": 0,
+            "uid": "6ee01020b9c09aef52e5c5d1"
+        },
+        {
+            "name": "鼓楼",
+            "location": {
+                "lat": 39.947053,
+                "lng": 116.402292
+            },
+            "address": "北京市东城区钟楼湾胡同临字9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "f633606a69b0e84e0b69d940",
+            "telephone": "(010)84027870",
+            "detail": 1,
+            "uid": "f633606a69b0e84e0b69d940"
+        },
+        {
+            "name": "东华门",
+            "location": {
+                "lat": 39.921357,
+                "lng": 116.407778
+            },
+            "address": "北京市东城区景山前街4号故宫博物院内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "41572e00fcb0edcab45f1e72",
+            "detail": 1,
+            "uid": "41572e00fcb0edcab45f1e72"
+        },
+        {
+            "name": "南宫世界地热博览园",
+            "location": {
+                "lat": 39.799083,
+                "lng": 116.160726
+            },
+            "address": "王佐镇南宫南路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "",
+            "telephone": "(010)83318649",
+            "detail": 1,
+            "uid": "3a0fbba8e9131a419ee32105"
+        },
+        {
+            "name": "天安门广场-国旗",
+            "location": {
+                "lat": 39.91328,
+                "lng": 116.403931
+            },
+            "address": "景山前街4号天安门广场内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "4ae2adcf574bcd2b38221c66",
+            "detail": 1,
+            "uid": "4ae2adcf574bcd2b38221c66"
+        },
+        {
+            "name": "韩建翠溪谷儿童世界",
+            "location": {
+                "lat": 39.776583,
+                "lng": 115.991215
+            },
+            "address": "北京市房山区青龙湖镇南观路口公交站北100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "13521115875",
+            "detail": 1,
+            "uid": "e524221ccab92cb3725e802b"
+        },
+        {
+            "name": "三里河公园",
+            "location": {
+                "lat": 39.900561,
+                "lng": 116.411777
+            },
+            "address": "北京市东城区南芦草园胡同与群智胡同交叉口东50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "660c392abe08f032a8175a72",
+            "detail": 1,
+            "uid": "660c392abe08f032a8175a72"
+        },
+        {
+            "name": "官园公园",
+            "location": {
+                "lat": 39.941994,
+                "lng": 116.367528
+            },
+            "address": "后广平胡同36号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "d7fd2ad30304a4550bccddd9",
+            "detail": 1,
+            "uid": "d7fd2ad30304a4550bccddd9"
+        },
+        {
+            "name": "运河苑温泉度假村",
+            "location": {
+                "lat": 39.951145,
+                "lng": 116.784915
+            },
+            "address": "北京市通州区宋庄镇白庙村(近京哈高速白庙出口)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "602c4a12987e8cf3373a71d9",
+            "telephone": "(010)89579999",
+            "detail": 1,
+            "uid": "602c4a12987e8cf3373a71d9"
+        },
+        {
+            "name": "元土城遗址公园",
+            "location": {
+                "lat": 39.981348,
+                "lng": 116.368049
+            },
+            "address": "北京市海淀区北土城西路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "a82e1df2c2355310d1f49e9a",
+            "detail": 1,
+            "uid": "a82e1df2c2355310d1f49e9a"
+        },
+        {
+            "name": "双秀公园",
+            "location": {
+                "lat": 39.972598,
+                "lng": 116.381297
+            },
+            "address": "北京市西城区北三环中路20号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "ac50d021a66d8ce503ff2d9c",
+            "telephone": "(010)62011695",
+            "detail": 1,
+            "uid": "ac50d021a66d8ce503ff2d9c"
+        },
+        {
+            "name": "弘慈广济寺",
+            "location": {
+                "lat": 39.930881,
+                "lng": 116.378782
+            },
+            "address": "北京市西城区阜成门内大街25号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "3a5edbc947f1d554d4851f3d",
+            "detail": 1,
+            "uid": "3a5edbc947f1d554d4851f3d"
+        },
+        {
+            "name": "窦店清真寺",
+            "location": {
+                "lat": 39.644176,
+                "lng": 116.072338
+            },
+            "address": "北京市房山区窦店镇窦店村(迎宾楼饭庄)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "(010)80303608",
+            "detail": 1,
+            "uid": "7f0a230a3cc95e9e3be4a68d"
+        },
+        {
+            "name": "故宫博物院",
+            "location": {
+                "lat": 39.924091,
+                "lng": 116.403414
+            },
+            "address": "北京市东城区景山前街4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "06d2dffda107b0ef89f15db6",
+            "telephone": "(010)85007114",
+            "detail": 1,
+            "uid": "06d2dffda107b0ef89f15db6"
+        },
+        {
+            "name": "首都博物馆",
+            "location": {
+                "lat": 39.912174,
+                "lng": 116.348822
+            },
+            "address": "北京市西城区复兴门外大街16号(近白云路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "a5097bfa3a635763f03cba06",
+            "telephone": "(010)63393339",
+            "detail": 1,
+            "uid": "a5097bfa3a635763f03cba06"
+        },
+        {
+            "name": "北京798艺术中心",
+            "location": {
+                "lat": 39.991142,
+                "lng": 116.502303
+            },
+            "address": "北京市朝阳区酒仙桥路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "c3dd4ae78d59cb723586f4ea",
+            "telephone": "(010)59789114",
+            "detail": 1,
+            "uid": "934e1fcc10ee0881eedfca5b"
+        },
+        {
+            "name": "中国国家博物馆",
+            "location": {
+                "lat": 39.91146,
+                "lng": 116.408016
+            },
+            "address": "北京市东城区东长安街16号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "db1f39d42752aa6ff5c59cd1",
+            "telephone": "(010)65116400",
+            "detail": 1,
+            "uid": "db1f39d42752aa6ff5c59cd1"
+        },
+        {
+            "name": "中国人民革命军事博物馆",
+            "location": {
+                "lat": 39.914976,
+                "lng": 116.330207
+            },
+            "address": "北京市海淀区复兴路9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "5ce2637d2824d051af31e5b6",
+            "telephone": "(010)66866244,(010)66866248",
+            "detail": 1,
+            "uid": "5ce2637d2824d051af31e5b6"
+        },
+        {
+            "name": "自然博物馆",
+            "location": {
+                "lat": 39.889525,
+                "lng": 116.406116
+            },
+            "address": "天桥南大街126号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)67027702",
+            "detail": 0,
+            "uid": "17bb760f2e99a0e596ca07e2"
+        },
+        {
+            "name": "红砖美术馆",
+            "location": {
+                "lat": 40.04854,
+                "lng": 116.506323
+            },
+            "address": "北京市朝阳区崔各庄乡何各庄村顺白路马泉营西路路口西100米路北",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "abdf529477ef4d3dc3364405",
+            "telephone": "(010)84576669",
+            "detail": 1,
+            "uid": "abdf529477ef4d3dc3364405"
+        },
+        {
+            "name": "北京汽车博物馆",
+            "location": {
+                "lat": 39.834959,
+                "lng": 116.308469
+            },
+            "address": "丰台区南四环西路126号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)63756666",
+            "detail": 0,
+            "uid": "35d6b4d391445bb1e81e97f3"
+        },
+        {
+            "name": "中国航空博物馆",
+            "location": {
+                "lat": 40.192095,
+                "lng": 116.372885
+            },
+            "address": "北京市昌平区小汤山镇顺沙路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "108b1ceafad4fdac3586f467",
+            "telephone": "(010)61784882",
+            "detail": 1,
+            "uid": "108b1ceafad4fdac3586f467"
+        },
+        {
+            "name": "孔庙和国子监博物馆",
+            "location": {
+                "lat": 39.95288,
+                "lng": 116.420267
+            },
+            "address": "北京市东城区国子监街15号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "41572e00530f08b4b45f1ed2",
+            "telephone": "(010)84027224",
+            "detail": 1,
+            "uid": "41572e00530f08b4b45f1ed2"
+        },
+        {
+            "name": "中国铁道博物馆(东郊展馆)",
+            "location": {
+                "lat": 40.003628,
+                "lng": 116.522415
+            },
+            "address": "北京市朝阳区酒仙桥北路1号院北侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "58dab29e6dd4c8e74d776ef9",
+            "telephone": "(010)64381317",
+            "detail": 1,
+            "uid": "58dab29e6dd4c8e74d776ef9"
+        },
+        {
+            "name": "中国美术馆",
+            "location": {
+                "lat": 39.931473,
+                "lng": 116.415449
+            },
+            "address": "北京市东城区五四大街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "d6df91c1b141f36af7b916d2",
+            "telephone": "(010)64011816",
+            "detail": 1,
+            "uid": "d6df91c1b141f36af7b916d2"
+        },
+        {
+            "name": "国家会议中心",
+            "location": {
+                "lat": 40.006295,
+                "lng": 116.396466
+            },
+            "address": "天辰东路7号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "468b192c298c6271c1f1cfc7",
+            "telephone": "(010)84373300",
+            "detail": 1,
+            "uid": "468b192c298c6271c1f1cfc7"
+        },
+        {
+            "name": "周口店北京人遗址博物馆",
+            "location": {
+                "lat": 39.693589,
+                "lng": 115.943241
+            },
+            "address": "周口店大街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "70854d1b7a737860601c6753",
+            "detail": 1,
+            "uid": "70854d1b7a737860601c6753"
+        },
+        {
+            "name": "人民大会堂",
+            "location": {
+                "lat": 39.911394,
+                "lng": 116.400238
+            },
+            "address": "北京市西城区西长安街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "8ea4ed55f71deb3fa10464a1",
+            "detail": 1,
+            "uid": "8ea4ed55f71deb3fa10464a1"
+        },
+        {
+            "name": "北京天文馆",
+            "location": {
+                "lat": 39.943273,
+                "lng": 116.343208
+            },
+            "address": "北京市西城区西直门外大街138号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "c07eeb26458765a89ff77916",
+            "telephone": "(010)68312517",
+            "detail": 1,
+            "uid": "c07eeb26458765a89ff77916"
+        },
+        {
+            "name": "观复博物馆",
+            "location": {
+                "lat": 40.013309,
+                "lng": 116.540397
+            },
+            "address": "北京市朝阳区大山子张万坟金南路18号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "f29fb5d80cc2c51259bbbc58",
+            "telephone": "(010)64362308,(010)64338887",
+            "detail": 1,
+            "uid": "f29fb5d80cc2c51259bbbc58"
+        },
+        {
+            "name": "中国国际展览中心(静安庄馆)",
+            "location": {
+                "lat": 39.967896,
+                "lng": 116.449744
+            },
+            "address": "北京市朝阳区北三环东路6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "4b5d14aa6f8dc5c514b54b37",
+            "telephone": "(010)84600000",
+            "detail": 1,
+            "uid": "a2c614afef90b65116c905b8"
+        },
+        {
+            "name": "御仙都(金四季购物中心店)",
+            "location": {
+                "lat": 39.95198,
+                "lng": 116.277147
+            },
+            "address": "北京市海淀区西四环北路117号金四季购物中心F1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "25cc3d7db487e806f8f0cb54",
+            "telephone": "(010)88495185,(010)88495181",
+            "detail": 1,
+            "uid": "25cc3d7db487e806f8f0cb54"
+        },
+        {
+            "name": "清华大学-艺术博物馆",
+            "location": {
+                "lat": 40.00764,
+                "lng": 116.342213
+            },
+            "address": "双清路30号清华大学",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "98b68e6b8b3944e00c0a7007",
+            "telephone": "(010)62781012",
+            "detail": 1,
+            "uid": "98b68e6b8b3944e00c0a7007"
+        },
+        {
+            "name": "西什库天主教堂",
+            "location": {
+                "lat": 39.931328,
+                "lng": 116.385221
+            },
+            "address": "北京市西城区西什库大街33号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "63ed683533bfb54490114cd5",
+            "telephone": "(010)66175198",
+            "detail": 1,
+            "uid": "63ed683533bfb54490114cd5"
+        },
+        {
+            "name": "北京展览馆",
+            "location": {
+                "lat": 39.946119,
+                "lng": 116.350668
+            },
+            "address": "北京市西城区西直门外大街135号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "34f68ab03764520a8f55ec00",
+            "telephone": "(010)57960055",
+            "detail": 1,
+            "uid": "34f68ab03764520a8f55ec00"
+        },
+        {
+            "name": "北京会议中心",
+            "location": {
+                "lat": 40.025583,
+                "lng": 116.437792
+            },
+            "address": "北京市朝阳区来广营西路88号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "1cea15a9b8a7fbdc07fef501",
+            "telephone": "(010)84901199",
+            "detail": 1,
+            "uid": "1cea15a9b8a7fbdc07fef501"
+        },
+        {
+            "name": "韩美林艺术馆",
+            "location": {
+                "lat": 39.881485,
+                "lng": 116.683479
+            },
+            "address": "北京市通州区梨园镇九棵树东路68号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "18165334570fc407fb2d61f1",
+            "telephone": "(010)59751888",
+            "detail": 1,
+            "uid": "18165334570fc407fb2d61f1"
+        },
+        {
+            "name": "中国电影博物馆",
+            "location": {
+                "lat": 40.002177,
+                "lng": 116.527508
+            },
+            "address": "北京市朝阳区南影路9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "492833248b0228a643024537",
+            "telephone": "(010)84355959",
+            "detail": 1,
+            "uid": "492833248b0228a643024537"
+        },
+        {
+            "name": "中国紫檀博物馆",
+            "location": {
+                "lat": 39.916944,
+                "lng": 116.532472
+            },
+            "address": "北京市朝阳区建国路23号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)85752818",
+            "detail": 0,
+            "uid": "8a50a67babaf84f40f0e6b2c"
+        },
+        {
+            "name": "北京今日美术馆",
+            "location": {
+                "lat": 39.905644,
+                "lng": 116.47424
+            },
+            "address": "朝阳区百子湾路32号苹果社区4号楼(近今日美术馆)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)58760600,(010)58760500",
+            "detail": 0,
+            "uid": "a3e8341c709c8b8c4bfd3fba"
+        }
+    ]
+}

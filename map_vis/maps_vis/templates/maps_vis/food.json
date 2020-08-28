@@ -1,0 +1,1661 @@
+{
+    "list": [
+        {
+            "name": "老舍茶馆(前门店)",
+            "location": {
+                "lat": 39.906059,
+                "lng": 116.399655
+            },
+            "address": "前门西大街正阳市场3号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "0ce65c2df95d8b402c4733b8",
+            "telephone": "(010)63036830",
+            "detail": 1,
+            "uid": "0ce65c2df95d8b402c4733b8"
+        },
+        {
+            "name": "润桥SPA养生会所(沙河店)",
+            "location": {
+                "lat": 40.152964,
+                "lng": 116.299967
+            },
+            "address": "昌平区东向南400米七天连锁酒店：家家福超市5层(经济管理学院向东100米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "5bea998204837b81a3acc499",
+            "detail": 1,
+            "uid": "5bea998204837b81a3acc499"
+        },
+        {
+            "name": "南宫温泉水世界",
+            "location": {
+                "lat": 39.812414,
+                "lng": 116.15983
+            },
+            "address": "北京市丰台区福宫路39号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "a5097bfaca97a77af03cba4d",
+            "telephone": "(010)83318308",
+            "detail": 1,
+            "uid": "a5097bfaca97a77af03cba4d"
+        },
+        {
+            "name": "权金城(顺义店)",
+            "location": {
+                "lat": 40.118696,
+                "lng": 116.666025
+            },
+            "address": "北京市石园北区85号楼1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "1eeed54649c7e6ebb4147fb9",
+            "telephone": "(010)89453333",
+            "detail": 1,
+            "uid": "1eeed54649c7e6ebb4147fb9"
+        },
+        {
+            "name": "昆仑沐歌洗浴休闲中心(迎宾路店)",
+            "location": {
+                "lat": 40.327771,
+                "lng": 116.643258
+            },
+            "address": "迎宾北路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "street_id": "d5464cf8d6237c4efda7784f",
+            "telephone": "(010)69683351",
+            "detail": 1,
+            "uid": "d5464cf8d6237c4efda7784f"
+        },
+        {
+            "name": "九华山庄温泉",
+            "location": {
+                "lat": 40.186402,
+                "lng": 116.42402
+            },
+            "address": "昌平区九华山庄16区1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "detail": 1,
+            "uid": "bba87388f39f51b9bca8225a"
+        },
+        {
+            "name": "温莎KTV(国贸店)",
+            "location": {
+                "lat": 39.912656,
+                "lng": 116.463541
+            },
+            "address": "北京市朝阳区建国门外大街甲6号中环世贸大厦B1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "ad233106f8479cf72d473300",
+            "telephone": "(010)85670777",
+            "detail": 1,
+            "uid": "ad233106f8479cf72d473300"
+        },
+        {
+            "name": "温莎KTV(花园店)",
+            "location": {
+                "lat": 39.9416,
+                "lng": 116.316009
+            },
+            "address": "北京市海淀区西三环北路87号国际财经中心B1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "38e48037f3afc550373a7159",
+            "telephone": "(010)88587777",
+            "detail": 1,
+            "uid": "38e48037f3afc550373a7159"
+        },
+        {
+            "name": "迷宫真人机械密室(簋街店)",
+            "location": {
+                "lat": 39.947922,
+                "lng": 116.423882
+            },
+            "address": "东直门内大街277号地铁商务楼B1(靠近北新桥地铁B口)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "telephone": "15501235896",
+            "detail": 1,
+            "uid": "b0a4ee9c10e4afc8ae080ffc"
+        },
+        {
+            "name": "炫音KTV(朗廷店)",
+            "location": {
+                "lat": 39.917149,
+                "lng": 116.604788
+            },
+            "address": "北京市朝阳区朝阳路8号杨闸环岛西朗廷大厦1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "55377fdf6c554a1ebda240c3",
+            "telephone": "(010)65735527",
+            "detail": 1,
+            "uid": "55377fdf6c554a1ebda240c3"
+        },
+        {
+            "name": "麦吧",
+            "location": {
+                "lat": 39.951881,
+                "lng": 116.409366
+            },
+            "address": "北京市东城区北锣鼓巷40号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "7c5e480b3eb319adadb22a55",
+            "telephone": "18301178873",
+            "detail": 1,
+            "uid": "7c5e480b3eb319adadb22a55"
+        },
+        {
+            "name": "天地飞扬网吧",
+            "location": {
+                "lat": 40.106282,
+                "lng": 116.37878
+            },
+            "address": "北京市昌平区北清路与宏福大道交叉路口往西南约100米(温都水城南侧约50米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "9a0b166bf22a088b5fbe8665",
+            "detail": 1,
+            "uid": "9a0b166bf22a088b5fbe8665"
+        },
+        {
+            "name": "德云社广德楼戏园(前门店)",
+            "location": {
+                "lat": 39.902301,
+                "lng": 116.401415
+            },
+            "address": "北京市西城区大栅栏街39号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "5e499983f88d153442ab9a9a",
+            "telephone": "(010)63032278",
+            "detail": 1,
+            "uid": "5e499983f88d153442ab9a9a"
+        },
+        {
+            "name": "北京德云社",
+            "location": {
+                "lat": 39.890319,
+                "lng": 116.404399
+            },
+            "address": "北京市西城区北纬路甲1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "5e53af1a5e9b305f4151c0f0",
+            "telephone": "(010)66552122",
+            "detail": 1,
+            "uid": "5e53af1a5e9b305f4151c0f0"
+        },
+        {
+            "name": "立行天地修脚(望京旗舰店)",
+            "location": {
+                "lat": 40.006867,
+                "lng": 116.468671
+            },
+            "address": "北京市朝阳区湖光北街129号底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "1ff183cc1084d55731870aa6",
+            "telephone": "15010228338,(010)57162006",
+            "detail": 1,
+            "uid": "c1a857535ef6a18f6240a9f1"
+        },
+        {
+            "name": "隐Hide Bar(朝阳大悦城店)",
+            "location": {
+                "lat": 39.928721,
+                "lng": 116.521379
+            },
+            "address": "青年汇102号东门305室",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "e57f3a2ac08bac4ea2046480",
+            "detail": 1,
+            "uid": "e57f3a2ac08bac4ea2046480"
+        },
+        {
+            "name": "若石连锁养生会馆(小汤山店)",
+            "location": {
+                "lat": 40.155702,
+                "lng": 116.298172
+            },
+            "address": "北京市昌平区松兰堡青年创业大厦2楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "19418f0bd8f07ecdae04578b",
+            "telephone": "(010)53053222",
+            "detail": 1,
+            "uid": "19418f0bd8f07ecdae04578b"
+        },
+        {
+            "name": "China Bar",
+            "location": {
+                "lat": 39.913329,
+                "lng": 116.465762
+            },
+            "address": "建国门外大街2号柏悦酒店65楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "22e11407bbb9d7add4b74ea0",
+            "detail": 1,
+            "uid": "22e11407bbb9d7add4b74ea0"
+        },
+        {
+            "name": "德云社新街口剧场",
+            "location": {
+                "lat": 39.950393,
+                "lng": 116.379766
+            },
+            "address": "北京市西城区新街口北大街74号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "044270fc6dedddac233bf2ea",
+            "detail": 1,
+            "uid": "044270fc6dedddac233bf2ea"
+        },
+        {
+            "name": "后海酒吧美食街",
+            "location": {
+                "lat": 39.945235,
+                "lng": 116.399537
+            },
+            "address": "北京市西城区后海南沿与前海北沿交叉路口西侧(什刹海公园东南侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "15a93810b642cea415c8f6bd",
+            "detail": 1,
+            "uid": "15a93810b642cea415c8f6bd"
+        },
+        {
+            "name": "漫咖啡(亦庄店)",
+            "location": {
+                "lat": 39.810066,
+                "lng": 116.500713
+            },
+            "address": "大兴区文化园西路林肯公园25号楼111号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "1f14cc0507b1f22ddc1e521b",
+            "telephone": "(010)67873788",
+            "detail": 1,
+            "uid": "1f14cc0507b1f22ddc1e521b"
+        },
+        {
+            "name": "星巴克(荟聚西红店)",
+            "location": {
+                "lat": 39.793945,
+                "lng": 116.334072
+            },
+            "address": "北京市西红门镇欣宁大街15号荟聚西红门购物中心L1层1-01-28-R",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "5c56502d99fb2ef3c4f50d65",
+            "telephone": "(010)50931855",
+            "detail": 1,
+            "uid": "5c56502d99fb2ef3c4f50d65"
+        },
+        {
+            "name": "世纪剧院",
+            "location": {
+                "lat": 39.957486,
+                "lng": 116.478908
+            },
+            "address": "北京市朝阳区亮马桥路40号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "9259a68dbea56adf95f08cc0",
+            "telephone": "(010)64628470",
+            "detail": 1,
+            "uid": "9259a68dbea56adf95f08cc0"
+        },
+        {
+            "name": "北展剧场",
+            "location": {
+                "lat": 39.947313,
+                "lng": 116.350543
+            },
+            "address": "北京市西城区西直门外大街135号北京展览馆内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "c1653405cd377579ab175a00",
+            "telephone": "(010)68354455",
+            "detail": 1,
+            "uid": "c1653405cd377579ab175a00"
+        },
+        {
+            "name": "漫咖啡(万柳店)",
+            "location": {
+                "lat": 39.974832,
+                "lng": 116.304163
+            },
+            "address": "北京市海淀区万柳中路6号(迪佳广场民生银行东侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "a7fa7945801297807bf796c9",
+            "telephone": "(010)61934587",
+            "detail": 1,
+            "uid": "a7fa7945801297807bf796c9"
+        },
+        {
+            "name": "星巴克(南锣鼓巷店)",
+            "location": {
+                "lat": 39.946054,
+                "lng": 116.409817
+            },
+            "address": "北京市南锣鼓巷20号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "b4802f292889fb5e09b93a9c",
+            "telephone": "(010)84084985",
+            "detail": 1,
+            "uid": "b4802f292889fb5e09b93a9c"
+        },
+        {
+            "name": "海淀剧院(中关村店)",
+            "location": {
+                "lat": 39.982536,
+                "lng": 116.32496
+            },
+            "address": "北京市海淀区中关村大街28号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "edd64ce1a6d799913ee231b3",
+            "telephone": "(010)82533588",
+            "detail": 1,
+            "uid": "edd64ce1a6d799913ee231b3"
+        },
+        {
+            "name": "美嘉欢乐影城(中关村店)",
+            "location": {
+                "lat": 39.989042,
+                "lng": 116.320096
+            },
+            "address": "北京市海淀区中关村广场购物中心津乐汇3层(鼎好一期西侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "d0b8923fc85f48fbb5f42f59",
+            "telephone": "(010)53657889,(010)53657890",
+            "detail": 1,
+            "uid": "d0b8923fc85f48fbb5f42f59"
+        },
+        {
+            "name": "藏书馆咖啡(牡丹园店)",
+            "location": {
+                "lat": 39.984851,
+                "lng": 116.376844
+            },
+            "address": "牡丹园西里11-16号底商牡丹园地铁B口东北口往北200米右侧即到(牡丹园十字路口东北角)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "dbf4d6eedf45b9336fa3cc5b",
+            "telephone": "(010)82092099",
+            "detail": 1,
+            "uid": "dbf4d6eedf45b9336fa3cc5b"
+        },
+        {
+            "name": "北京耀莱国际影城(五棵松店)",
+            "location": {
+                "lat": 39.919733,
+                "lng": 116.284103
+            },
+            "address": "北京市海淀区复兴路69号蓝色港湾购物中心北区5层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "4a9c0a50db3c682f17b54b16",
+            "telephone": "(010)68188877",
+            "detail": 1,
+            "uid": "08f1f1f52ad3b1d389db73e1"
+        },
+        {
+            "name": "长安大戏院",
+            "location": {
+                "lat": 39.915411,
+                "lng": 116.436813
+            },
+            "address": "北京市东城区建国门内大街7号光华长安大厦",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "85e14b68d90abc5ca8175a75",
+            "telephone": "(010)65526852,(010)65101309",
+            "detail": 1,
+            "uid": "85e14b68d90abc5ca8175a75"
+        },
+        {
+            "name": "天幕新彩云国际影城(云投大厦店)",
+            "location": {
+                "lat": 39.975596,
+                "lng": 116.374096
+            },
+            "address": "北京市海淀区北三环中路67号中视云投大厦1~3层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "8de3c99b28cfa00ecae33c14",
+            "telephone": "(010)58092222",
+            "detail": 1,
+            "uid": "47d440bf4d6fba708bb988b0"
+        },
+        {
+            "name": "星巴克(五道口购物中心店)",
+            "location": {
+                "lat": 39.998125,
+                "lng": 116.345803
+            },
+            "address": "北京市成府路28号1层101-10B及2层201-09号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "610852112d468fb8c51b7558",
+            "telephone": "(010)61647620",
+            "detail": 1,
+            "uid": "610852112d468fb8c51b7558"
+        },
+        {
+            "name": "星巴克(三里屯旗舰甄选店)",
+            "location": {
+                "lat": 39.940223,
+                "lng": 116.461323
+            },
+            "address": "北京市三里屯路19号10号楼10-1-5.10-1-6",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)64165281",
+            "detail": 0,
+            "uid": "edd64ce137b168883ee231a1"
+        },
+        {
+            "name": "漫咖啡(广渠门店)",
+            "location": {
+                "lat": 39.898337,
+                "lng": 116.452344
+            },
+            "address": "广渠门外大街名敦道7号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)87513628",
+            "detail": 0,
+            "uid": "70cd51230706fc8af7e73bc7"
+        },
+        {
+            "name": "星巴克(颐堤港中心NOW店)",
+            "location": {
+                "lat": 39.976547,
+                "lng": 116.498547
+            },
+            "address": "北京市酒仙桥路18号颐堤港商场L1-105号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)84260930",
+            "detail": 0,
+            "uid": "8291ba6465d8f73bc1f1cf85"
+        },
+        {
+            "name": "星巴克(前门大街店)",
+            "location": {
+                "lat": 39.90465,
+                "lng": 116.404078
+            },
+            "address": "北京市前门大街1-1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)63027966",
+            "detail": 0,
+            "uid": "d5464cf8d62a7c4efda77854"
+        },
+        {
+            "name": "北京UME国际影城(安贞店)",
+            "location": {
+                "lat": 39.972276,
+                "lng": 116.417312
+            },
+            "address": "北京市东城区北三环东路36号环球贸易中心E座B1-F1-F3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)58257733",
+            "detail": 0,
+            "uid": "64ff3be1fa8620a290114c50"
+        },
+        {
+            "name": "漫咖啡(石佛营店)",
+            "location": {
+                "lat": 39.935869,
+                "lng": 116.507959
+            },
+            "address": "北京市朝阳区石佛营路八里庄北里129号院10-101号底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)57722722",
+            "detail": 0,
+            "uid": "e259ebd9bf02fdf9d3ff239e"
+        },
+        {
+            "name": "星巴克(蓝色港湾1店)",
+            "location": {
+                "lat": 39.95498,
+                "lng": 116.480274
+            },
+            "address": "北京市朝阳公园路6号蓝色港湾国际商区1-2层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)59056343",
+            "detail": 0,
+            "uid": "2ad32cc3aebec2969c95dea6"
+        },
+        {
+            "name": "北京剧院",
+            "location": {
+                "lat": 39.997431,
+                "lng": 116.414901
+            },
+            "address": "北京市朝阳区安慧里三区10号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "e3a7fd135a105d4b28b97cd5",
+            "telephone": "(010)64975575",
+            "detail": 1,
+            "uid": "c2a762729eb6712b38221c88"
+        },
+        {
+            "name": "万达影城(北京CBD店)",
+            "location": {
+                "lat": 39.914974,
+                "lng": 116.477205
+            },
+            "address": "北京市朝阳区建国路93号万达广场B座3层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "49d959388b9d505ac61e5151",
+            "telephone": "(010)59603399",
+            "detail": 1,
+            "uid": "49d959388b9d505ac61e5151"
+        },
+        {
+            "name": "北京喜剧院",
+            "location": {
+                "lat": 39.935916,
+                "lng": 116.439479
+            },
+            "address": "北京市东城区朝阳门北大街11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "d588452b447ab1f67ab55c3b",
+            "telephone": "(010)84191616",
+            "detail": 1,
+            "uid": "d588452b447ab1f67ab55c3b"
+        },
+        {
+            "name": "花舍融合菜(慧中北里店)",
+            "location": {
+                "lat": 40.005341,
+                "lng": 116.419537
+            },
+            "address": "朝阳区安慧中北里逸园28号楼1楼西侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "",
+            "detail": 1,
+            "uid": "e2c734e4195e214414a190a6"
+        },
+        {
+            "name": "北京UME国际影城(华星店)",
+            "location": {
+                "lat": 39.973648,
+                "lng": 116.332704
+            },
+            "address": "北京市海淀区双榆树科学院南路44号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "56f2f696939903990aa8d45d",
+            "telephone": "(010)82115566,(010)82112851,(010)82111601",
+            "detail": 1,
+            "uid": "56f2f696939903990aa8d45d"
+        },
+        {
+            "name": "保利国际影城(天安门店)",
+            "location": {
+                "lat": 39.904569,
+                "lng": 116.403473
+            },
+            "address": "前门煤市街北京坊C1区B1-B2层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "9695ea62990089d42fb17e3a",
+            "telephone": "(010)63015188",
+            "detail": 1,
+            "uid": "9695ea62990089d42fb17e3a"
+        },
+        {
+            "name": "北京活力天宝国际影城(健翔大厦店)",
+            "location": {
+                "lat": 39.986494,
+                "lng": 116.387717
+            },
+            "address": "北京市朝阳区祁家豁子8号健翔大厦地下1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "fe2e8f12380b8b4bc6effb96",
+            "telephone": "(010)82994949",
+            "detail": 1,
+            "uid": "4fc3161a7cef43b03b13fdbf"
+        },
+        {
+            "name": "繁星戏剧村",
+            "location": {
+                "lat": 39.90721,
+                "lng": 116.379995
+            },
+            "address": "北京西城宣武门内大街抄手胡同64号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "07f3c8b578a97c7a6340a9b6",
+            "telephone": "(010)66035486",
+            "detail": 1,
+            "uid": "07f3c8b578a97c7a6340a9b6"
+        },
+        {
+            "name": "劲松电影院(劲松中街店)",
+            "location": {
+                "lat": 39.88889,
+                "lng": 116.462645
+            },
+            "address": "北京市朝阳区劲松中街404号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "beabdbf48fb9b3817169d3a1",
+            "telephone": "(010)67709306",
+            "detail": 1,
+            "uid": "beabdbf48fb9b3817169d3a1"
+        },
+        {
+            "name": "中影国际影城(千禧街店)",
+            "location": {
+                "lat": 39.896553,
+                "lng": 116.293455
+            },
+            "address": "北京市丰台区靛厂路千禧购物街4号楼F1-F3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "4c41838487971d9a9e82eac9",
+            "telephone": "(010)88177970",
+            "detail": 1,
+            "uid": "4c41838487971d9a9e82eac9"
+        },
+        {
+            "name": "中间影院(中间建筑店)",
+            "location": {
+                "lat": 39.95936,
+                "lng": 116.23753
+            },
+            "address": "杏石口路65号中间艺术区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "604aa791d4f52a6e57bfff26",
+            "telephone": "(010)62858257",
+            "detail": 1,
+            "uid": "604aa791d4f52a6e57bfff26"
+        },
+        {
+            "name": "星巴克(望京鹏景阁店)",
+            "location": {
+                "lat": 40.00345,
+                "lng": 116.473822
+            },
+            "address": "北京市望京湖光中街1号鹏景阁首层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "fd007c5e7b4b1075a9f729b8",
+            "telephone": "(010)84724218",
+            "detail": 1,
+            "uid": "fd007c5e7b4b1075a9f729b8"
+        },
+        {
+            "name": "1901咖啡(西四店)",
+            "location": {
+                "lat": 39.928917,
+                "lng": 116.384742
+            },
+            "address": "北京市西城区西安门大街101号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "31f9101b60d1e9a026e0a032",
+            "telephone": "(010)66160335",
+            "detail": 1,
+            "uid": "31f9101b60d1e9a026e0a032"
+        },
+        {
+            "name": "MAO Livehouse北京五棵松",
+            "location": {
+                "lat": 39.916367,
+                "lng": 116.283703
+            },
+            "address": "海淀区复兴路69号院2号136-G23",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "ba848557b4b3e35e2a02e16c",
+            "detail": 1,
+            "uid": "ba848557b4b3e35e2a02e16c"
+        },
+        {
+            "name": "星巴克(王府井百货店)",
+            "location": {
+                "lat": 39.920371,
+                "lng": 116.416027
+            },
+            "address": "北京市王府井大街253号王府井百货大楼首层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "24d05508601155b61288245c",
+            "telephone": "(010)65129138",
+            "detail": 1,
+            "uid": "24d05508601155b61288245c"
+        },
+        {
+            "name": "星巴克(汉光百货店)",
+            "location": {
+                "lat": 39.915352,
+                "lng": 116.382378
+            },
+            "address": "北京市西单北大街176号汉光百货1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)66017188",
+            "detail": 0,
+            "uid": "7388dffd72b70df2d3ff230d"
+        },
+        {
+            "name": "星巴克(金码大厦店)",
+            "location": {
+                "lat": 40.00748,
+                "lng": 116.360082
+            },
+            "address": "北京市清华东路2号金码大厦A座首层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)82838391",
+            "detail": 0,
+            "uid": "b9e5d0b8a47fc9a580a12eb8"
+        },
+        {
+            "name": "广安门电影院(白广路店)",
+            "location": {
+                "lat": 39.889851,
+                "lng": 116.366039
+            },
+            "address": "北京市西城区白广路8号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)63531507",
+            "detail": 0,
+            "uid": "2a7a25ec48a5e27a6d3e1ba3"
+        },
+        {
+            "name": "Cafe Zarah",
+            "location": {
+                "lat": 39.947073,
+                "lng": 116.412688
+            },
+            "address": "北京市东城区鼓楼东大街46号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)84039807",
+            "detail": 0,
+            "uid": "e2c734e4196a214415a1905a"
+        },
+        {
+            "name": "星巴克(国展天虹店)",
+            "location": {
+                "lat": 39.964951,
+                "lng": 116.448802
+            },
+            "address": "北京市左家庄北里58号楼天虹百货一层1037号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)57620436",
+            "detail": 0,
+            "uid": "923ffd0059a40baed92f28c2"
+        },
+        {
+            "name": "星巴克(天坛东路店)",
+            "location": {
+                "lat": 39.892777,
+                "lng": 116.426826
+            },
+            "address": "北京市天坛东路46号红桥市场1层001单元",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "3a1bae3d74327a3443ab9a93",
+            "telephone": "(010)67113708",
+            "detail": 1,
+            "uid": "3a1bae3d74327a3443ab9a93"
+        },
+        {
+            "name": "仟岛咖啡(花园桥店)",
+            "location": {
+                "lat": 39.937789,
+                "lng": 116.328949
+            },
+            "address": "北京市海淀区车公庄西路20号水电集团东侧(水科院北门旁)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "839705c3e158e567c1f1cfcb",
+            "telephone": "(010)68785863,(010)58481828",
+            "detail": 1,
+            "uid": "3156813460311c5774026992"
+        },
+        {
+            "name": "星巴克(望京新世界店)",
+            "location": {
+                "lat": 39.992766,
+                "lng": 116.486359
+            },
+            "address": "北京市广顺南大街16号1号楼新世界利莹百货首层010760A",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "d219bb1dc580b492f50e7757",
+            "telephone": "(010)84764786",
+            "detail": 1,
+            "uid": "d219bb1dc580b492f50e7757"
+        },
+        {
+            "name": "漫咖啡(蓝靛厂店)",
+            "location": {
+                "lat": 39.967557,
+                "lng": 116.295271
+            },
+            "address": "蓝靛厂东路2号院金源时代商务中心2号楼B座1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "1cbc67293e2af32f41d63ef6",
+            "telephone": "(010)88893029",
+            "detail": 1,
+            "uid": "1cbc67293e2af32f41d63ef6"
+        },
+        {
+            "name": "中影国际影城(永旺国际商城购物中心店)",
+            "location": {
+                "lat": 40.103705,
+                "lng": 116.294972
+            },
+            "address": "北京市昌平区北清路1号永旺F3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "9f97b1c5b681b81fb64f5452",
+            "detail": 1,
+            "uid": "9f97b1c5b681b81fb64f5452"
+        },
+        {
+            "name": "猫小院猫主题咖啡西餐(北锣店)",
+            "location": {
+                "lat": 39.94966,
+                "lng": 116.409925
+            },
+            "address": "北京市东城区北锣鼓巷北下洼子胡同14号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "33ed13d63a7159735c0d0254",
+            "telephone": "(010)59146478",
+            "detail": 1,
+            "uid": "33ed13d63a7159735c0d0254"
+        },
+        {
+            "name": "星巴克(朝外悠唐1店)",
+            "location": {
+                "lat": 39.927674,
+                "lng": 116.446727
+            },
+            "address": "北京市三丰北里2号楼悠唐购物中心1层F1-03,F1-30-1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "15e1e85ebc7b8abb5810935c",
+            "telephone": "(010)85611499",
+            "detail": 1,
+            "uid": "15e1e85ebc7b8abb5810935c"
+        },
+        {
+            "name": "星巴克(凯恒店)",
+            "location": {
+                "lat": 39.929728,
+                "lng": 116.439135
+            },
+            "address": "北京市朝阳门内大街2号凯恒中心B座1层04单元",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "69fcd6df9b5b7636ca291562",
+            "telephone": "(010)85197361",
+            "detail": 1,
+            "uid": "69fcd6df9b5b7636ca291562"
+        },
+        {
+            "name": "COSTA COFFEE(北苑路店)",
+            "location": {
+                "lat": 40.037975,
+                "lng": 116.423814
+            },
+            "address": "北京市朝阳区北苑路甲13号上品+F1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a4dff70e80b1126352e5c500",
+            "telephone": "(010)52725920",
+            "detail": 1,
+            "uid": "a4dff70e80b1126352e5c500"
+        },
+        {
+            "name": "那间咖啡(西四店)",
+            "location": {
+                "lat": 39.927193,
+                "lng": 116.379813
+            },
+            "address": "北京市西城区西四南大街59号一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "320c2f0be51254683717dc68",
+            "telephone": "(010)66166607",
+            "detail": 1,
+            "uid": "320c2f0be51254683717dc68"
+        },
+        {
+            "name": "星巴克臻选(世贸天阶店)",
+            "location": {
+                "lat": 39.922034,
+                "lng": 116.457815
+            },
+            "address": "北京市光华路9号世贸天阶中心A座一层L123号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "33fbfa832d8957d80bf5eb4d",
+            "telephone": "(010)65871579",
+            "detail": 1,
+            "uid": "33fbfa832d8957d80bf5eb4d"
+        },
+        {
+            "name": "六月花园咖啡馆(中关村东路店)",
+            "location": {
+                "lat": 39.994868,
+                "lng": 116.341467
+            },
+            "address": "北京市海淀区中关村东路16号院龙湖唐宁ONE2号A123号商铺",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "ea39734592cad8cb14b54bf5",
+            "detail": 1,
+            "uid": "ea39734592cad8cb14b54bf5"
+        },
+        {
+            "name": "巢咖啡(亚运村店)",
+            "location": {
+                "lat": 39.998089,
+                "lng": 116.409266
+            },
+            "address": "北京朝阳区亚运村北辰东路8号辰运大厦B区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "43b7e8896101b57359f6beb7",
+            "telephone": "(010)84971666",
+            "detail": 1,
+            "uid": "43b7e8896101b57359f6beb7"
+        },
+        {
+            "name": "帕拉图咖啡馆",
+            "location": {
+                "lat": 39.998669,
+                "lng": 116.33208
+            },
+            "address": "成府路69号蓝旗营2层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "598b50cceacb3aad40024540",
+            "telephone": "(010)62780637",
+            "detail": 1,
+            "uid": "850815e17234118243e19252"
+        },
+        {
+            "name": "C5Cafe",
+            "location": {
+                "lat": 39.948599,
+                "lng": 116.460432
+            },
+            "address": "北京市朝阳区三里屯西五街5号F座",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "57c84e4c3e6c4d5c373a71b2",
+            "detail": 1,
+            "uid": "57c84e4c3e6c4d5c373a71b2"
+        },
+        {
+            "name": "卢米埃影城(龙湖长楹天街购物中心店)",
+            "location": {
+                "lat": 39.931014,
+                "lng": 116.609407
+            },
+            "address": "北京市朝阳区常通路1号院1号楼长楹天街购物中心F5",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "d533df4c6e4489bf081cc7d2",
+            "telephone": "(010)85095626",
+            "detail": 1,
+            "uid": "d533df4c6e4489bf081cc7d2"
+        },
+        {
+            "name": "大地影院(顺义隆华店)",
+            "location": {
+                "lat": 40.132856,
+                "lng": 116.656844
+            },
+            "address": "北京市顺义区新顺南大街11号隆华购物中心F6",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)89472732,(010)89472733",
+            "detail": 0,
+            "uid": "7c1e5bed740b699570210b32"
+        },
+        {
+            "name": "KODO可多咖啡(鼓楼店)",
+            "location": {
+                "lat": 39.947066,
+                "lng": 116.406354
+            },
+            "address": "交道口街道后鼓楼苑胡同2号北京国际创意设计",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)64553868",
+            "detail": 0,
+            "uid": "2a9ba6c5670243b443ab9a9b"
+        },
+        {
+            "name": "COSTA COFFEE(盘古大观店)",
+            "location": {
+                "lat": 39.995524,
+                "lng": 116.393463
+            },
+            "address": "北四环中路27号盘古大观写字楼(近北辰西路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)59393112",
+            "detail": 0,
+            "uid": "00586108b80f98bc47e27499"
+        },
+        {
+            "name": "TheRug(朝阳公园店)",
+            "location": {
+                "lat": 39.938986,
+                "lng": 116.489913
+            },
+            "address": "六里屯4号丽水嘉园小区4号楼1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "telephone": "(010)63257152",
+            "detail": 0,
+            "uid": "befdb29207ae08f8861541f7"
+        },
+        {
+            "name": "爪哇咖啡西餐酒吧(回龙观店)",
+            "location": {
+                "lat": 40.087687,
+                "lng": 116.345519
+            },
+            "address": "北京市昌平区回龙观西大街9号院17号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "0ed20a15b5cee68e56bfff9a",
+            "telephone": "(010)60789401",
+            "detail": 1,
+            "uid": "0ed20a15b5cee68e56bfff9a"
+        },
+        {
+            "name": "双风车咖啡",
+            "location": {
+                "lat": 40.008939,
+                "lng": 116.355937
+            },
+            "address": "静淑南里翰澜庭2号楼1层110",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "d1469ee73579c47b853304fa",
+            "telephone": "(010)82365783",
+            "detail": 1,
+            "uid": "d1469ee73579c47b853304fa"
+        },
+        {
+            "name": "jamaicablue CoffeeShop(新城国际店)",
+            "location": {
+                "lat": 39.922795,
+                "lng": 116.461366
+            },
+            "address": "北京朝阳区朝阳门外大街6号新城国际公寓B期16号楼107号商铺",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "cb4fd1466c4fb0589d9d6830",
+            "telephone": "(010)65336556",
+            "detail": 1,
+            "uid": "cb4fd1466c4fb0589d9d6830"
+        },
+        {
+            "name": "致璞咖啡甜品(阜成门店)",
+            "location": {
+                "lat": 39.930128,
+                "lng": 116.377013
+            },
+            "address": "阜成门内大街89号二层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "ade5250ecdc60954d518b79b",
+            "telephone": "15601135658",
+            "detail": 1,
+            "uid": "ade5250ecdc60954d518b79b"
+        },
+        {
+            "name": "COSTA COFFEE(肖家河店)",
+            "location": {
+                "lat": 40.021388,
+                "lng": 116.277471
+            },
+            "address": "北京市海淀区龙背村路99号华联商厦F1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "0db4cc31bdec92886f4760e6",
+            "telephone": "(010)59012331",
+            "detail": 1,
+            "uid": "0db4cc31bdec92886f4760e6"
+        },
+        {
+            "name": "香菲小镇(上地店)",
+            "location": {
+                "lat": 40.036394,
+                "lng": 116.318361
+            },
+            "address": "上地信息路19号商服中心3楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "339751614bdbe7f95fbe860e",
+            "telephone": "(010)62976558",
+            "detail": 1,
+            "uid": "8fa14fc39c8c3c77f7eafc66"
+        },
+        {
+            "name": "太平洋咖啡",
+            "location": {
+                "lat": 39.938753,
+                "lng": 116.46257
+            },
+            "address": "工体北路甲六号中宇大厦首层010B",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "bf29b702abee9d9908b93a8e",
+            "telephone": "(010)59752650",
+            "detail": 1,
+            "uid": "bf29b702abee9d9908b93a8e"
+        },
+        {
+            "name": "上岛咖啡(环岛西站店)",
+            "location": {
+                "lat": 39.653305,
+                "lng": 116.079329
+            },
+            "address": "北京市房山区山水汇豪苑60",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "2b91ddc1fc1885098c55ec2e"
+        },
+        {
+            "name": "妫河渔家",
+            "location": {
+                "lat": 40.46148,
+                "lng": 115.960985
+            },
+            "address": "康安小区西侧1000米东屯路口处",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "4bde60e932bf08a7fb0cadf9",
+            "detail": 1,
+            "uid": "4bde60e932bf08a7fb0cadf9"
+        },
+        {
+            "name": "澳利咖啡(中央公馆店)",
+            "location": {
+                "lat": 39.802725,
+                "lng": 116.499129
+            },
+            "address": "北京市经济技术开发区天华园一里四区10号楼1至2层2107",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "df797d02e254dd30276e98cd",
+            "telephone": "(010)67896091",
+            "detail": 1,
+            "uid": "df797d02e254dd30276e98cd"
+        },
+        {
+            "name": "壹咖啡(鼓楼外大街店)",
+            "location": {
+                "lat": 39.971413,
+                "lng": 116.400318
+            },
+            "address": "北京市朝阳区鼓楼外大街19号北京歌华开元大酒店一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "25b56a6fe0801e90e5e965ac",
+            "telephone": "(010)62028888",
+            "detail": 1,
+            "uid": "25b56a6fe0801e90e5e965ac"
+        },
+        {
+            "name": "途尚咖啡(五道口店)",
+            "location": {
+                "lat": 39.998022,
+                "lng": 116.345212
+            },
+            "address": "北京市海淀区成府路28号1层101室29/30号及二层201室22/23/24/34号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "94c6d7243a893ba2cc06a4e6",
+            "detail": 1,
+            "uid": "94c6d7243a893ba2cc06a4e6"
+        },
+        {
+            "name": "良子健身(顺义店)",
+            "location": {
+                "lat": 40.133159,
+                "lng": 116.655271
+            },
+            "address": "北京市顺义区站前街,上街购物广场西门四楼良子健身",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "65c187affca4406e3517dcce",
+            "telephone": "(010)85515555",
+            "detail": 1,
+            "uid": "65c187affca4406e3517dcce"
+        },
+        {
+            "name": "蜗牛咖啡(双花园店)",
+            "location": {
+                "lat": 39.904938,
+                "lng": 116.462797
+            },
+            "address": "北京市朝阳区双花园南里三区5号楼1层101",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "f914eb115aab102cc9c3db89",
+            "telephone": "(010)56228270,18611527899",
+            "detail": 1,
+            "uid": "f914eb115aab102cc9c3db89"
+        },
+        {
+            "name": "千浔DIY蛋糕烘焙屋(双井店)",
+            "location": {
+                "lat": 39.898565,
+                "lng": 116.465203
+            },
+            "address": "双井优士阁大厦A座1508室",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "telephone": "18518371059",
+            "detail": 1,
+            "uid": "bee1b0ced327098ec4f025c1"
+        },
+        {
+            "name": "The Rug Cafe(王府中環店)",
+            "location": {
+                "lat": 39.918909,
+                "lng": 116.414822
+            },
+            "address": "北京市东城区王府井大街269号王府中環F2",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "telephone": "(010)65283966",
+            "detail": 1,
+            "uid": "f477229eb995f5bb1d1d1121"
+        },
+        {
+            "name": "慕尼黑啤酒屋(悠唐购物中心二期店)",
+            "location": {
+                "lat": 39.928054,
+                "lng": 116.446146
+            },
+            "address": "北京市朝阳区三丰胡同7号悠唐购物中心二期F1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "c61bd30571470d71c37da2a0",
+            "telephone": "(010)59096683",
+            "detail": 1,
+            "uid": "c61bd30571470d71c37da2a0"
+        },
+        {
+            "name": "太平洋咖啡(复星国际店)",
+            "location": {
+                "lat": 39.92963,
+                "lng": 116.462178
+            },
+            "address": "朝阳北路237号楼1层105",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "4642844abdf690c0c9fa5fc3",
+            "detail": 1,
+            "uid": "4642844abdf690c0c9fa5fc3"
+        },
+        {
+            "name": "Simple hair日系造型染发沙龙(华贸天地店)",
+            "location": {
+                "lat": 40.052718,
+                "lng": 116.439006
+            },
+            "address": "北京市朝阳区清苑路华贸天地1层A13号(麦当劳旁)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "93bb5b33dd03a456d4851ff1",
+            "telephone": "(010)84842966,(010)84913115",
+            "detail": 1,
+            "uid": "93bb5b33dd03a456d4851ff1"
+        },
+        {
+            "name": "美丽人生(亦庄店)",
+            "location": {
+                "lat": 39.791642,
+                "lng": 116.503001
+            },
+            "address": "北京市大兴区荣京西街荣京道B座",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "c17390a34c09a93df4e73b29",
+            "telephone": "(010)67806869",
+            "detail": 1,
+            "uid": "c17390a34c09a93df4e73b29"
+        },
+        {
+            "name": "咖啡茶自助餐厅(香格里拉饭店)",
+            "location": {
+                "lat": 39.950131,
+                "lng": 116.315037
+            },
+            "address": "北京市海淀区紫竹院路29号香格里拉饭店1楼(西三环北路与紫竹院路交叉口西北角)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "04409c0ea75eb6237bf79601",
+            "telephone": "(010)68412211",
+            "detail": 1,
+            "uid": "04409c0ea75eb6237bf79601"
+        },
+        {
+            "name": "思妍丽美容纤体SPA(万柳店)",
+            "location": {
+                "lat": 39.966979,
+                "lng": 116.307591
+            },
+            "address": "长春桥路11号万柳亿城中心C座裙房一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "926a18c356fc892cc51e51d7",
+            "telephone": "(010)58816322",
+            "detail": 1,
+            "uid": "926a18c356fc892cc51e51d7"
+        },
+        {
+            "name": "花园咖啡厅(北营房中街)",
+            "location": {
+                "lat": 39.929992,
+                "lng": 116.356586
+            },
+            "address": "北京市西城区阜成门外大街甲9号国宾酒店1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "34059f975098624d71455b5e",
+            "telephone": "(010)58585588-8690",
+            "detail": 1,
+            "uid": "34059f975098624d71455b5e"
+        },
+        {
+            "name": "绿洲咖啡园",
+            "location": {
+                "lat": 39.98445,
+                "lng": 116.359335
+            },
+            "address": "北京市海淀区学院路39号唯实国际文化交流中心3楼(近学知桥)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "be1ea5effe5083a614948e59",
+            "telephone": "(010)62308899-62",
+            "detail": 1,
+            "uid": "be1ea5effe5083a614948e59"
+        },
+        {
+            "name": "西贝凯森(望馨商业中心店)",
+            "location": {
+                "lat": 40.015063,
+                "lng": 116.46891
+            },
+            "address": "北京市朝阳区利泽西二路与利泽西街交叉路口往北约50米(望馨商业中心)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "6927b45e39fd50c8b45f1eed",
+            "telephone": "(010)64784816",
+            "detail": 1,
+            "uid": "6927b45e39fd50c8b45f1eed"
+        },
+        {
+            "name": "漫猫咖啡(望京SOHO店)",
+            "location": {
+                "lat": 40.00232,
+                "lng": 116.487758
+            },
+            "address": "望京SOHOT1-1119号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "9358674f4b7cf874a1a934ef",
+            "telephone": "(010)57076927",
+            "detail": 1,
+            "uid": "9358674f4b7cf874a1a934ef"
+        },
+        {
+            "name": "北京饭店-阳光咖啡厅",
+            "location": {
+                "lat": 39.91534,
+                "lng": 116.416843
+            },
+            "address": "东城区东长安街33号北京饭店A座1楼(近王府井大街)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "c21db9e5e7dba69a00ff2d55",
+            "telephone": "(010)65137766-1373",
+            "detail": 1,
+            "uid": "c21db9e5e7dba69a00ff2d55"
+        },
+        {
+            "name": "醒客咖啡(蓝旗营店)",
+            "location": {
+                "lat": 39.998656,
+                "lng": 116.331905
+            },
+            "address": "蓝旗营成府路59-1万圣书园2层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "72aa251300a2075e077ce84d",
+            "telephone": "(010)62768749",
+            "detail": 1,
+            "uid": "72aa251300a2075e077ce84d"
+        },
+        {
+            "name": "泰妃苑自助餐咖啡厅",
+            "location": {
+                "lat": 39.91462,
+                "lng": 116.461506
+            },
+            "address": "建国门外大街3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "e96b4420e2cc404082288a72",
+            "telephone": "(010)65002266",
+            "detail": 1,
+            "uid": "e96b4420e2cc404082288a72"
+        },
+        {
+            "name": "甜甜匠蛋糕订制Sweet Maker(丰台万达店)",
+            "location": {
+                "lat": 39.830379,
+                "lng": 116.304992
+            },
+            "address": "北京市丰台区丰科路与五圈路交叉路口往东南约100米(万达广场)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "telephone": "13146848845,18518648645",
+            "detail": 1,
+            "uid": "e0e6bfc992543af2c17da267"
+        },
+        {
+            "name": "啡扬咖啡厅",
+            "location": {
+                "lat": 40.004702,
+                "lng": 116.39463
+            },
+            "address": "北京市朝阳区北辰西路8号北辰洲际酒店1楼(近鸟巢)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "435d7aeaf480ad2c5bbbbc81",
+            "telephone": "(010)84371345",
+            "detail": 1,
+            "uid": "435d7aeaf480ad2c5bbbbc81"
+        },
+        {
+            "name": "欣妮咖啡厅",
+            "location": {
+                "lat": 39.924496,
+                "lng": 116.419683
+            },
+            "address": "北京东城区灯市口大街88号天伦松鹤大饭店1楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "8d96925c003ce15cc0f1cf85",
+            "telephone": "(010)58168999",
+            "detail": 1,
+            "uid": "8d96925c003ce15cc0f1cf85"
+        },
+        {
+            "name": "嘉华咖啡厅",
+            "location": {
+                "lat": 39.929025,
+                "lng": 116.448904
+            },
+            "address": "朝阳门外大街乙12号院2号楼昆泰嘉华酒店2层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "637df60a7bd2676b41afe6b9",
+            "telephone": "15001113334",
+            "detail": 1,
+            "uid": "637df60a7bd2676b41afe6b9"
+        }
+    ]
+}

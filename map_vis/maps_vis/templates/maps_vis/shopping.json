@@ -1,0 +1,1525 @@
+{
+    "list": [
+        {
+            "name": "朝阳大悦城",
+            "location": {
+                "lat": 39.930772,
+                "lng": 116.524819
+            },
+            "address": "北京市朝阳区朝阳北路101号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "481f4039ccfb15626849f3f7",
+            "telephone": "(010)85579871",
+            "detail": 1,
+            "uid": "7d5f3a0a6d3063522cb9086f"
+        },
+        {
+            "name": "华润·五彩城",
+            "location": {
+                "lat": 40.035916,
+                "lng": 116.340722
+            },
+            "address": "北京市海淀区清河中街68号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "e96b44200baa3b4082288acc",
+            "detail": 1,
+            "uid": "e96b44200baa3b4082288acc"
+        },
+        {
+            "name": "龙德广场",
+            "location": {
+                "lat": 40.066337,
+                "lng": 116.421971
+            },
+            "address": "北京市昌平区立汤路186号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "cb300a02bea4840c93114c59",
+            "telephone": "(010)84824566",
+            "detail": 1,
+            "uid": "cb300a02bea4840c93114c59"
+        },
+        {
+            "name": "华贸购物中心",
+            "location": {
+                "lat": 39.915056,
+                "lng": 116.48734
+            },
+            "address": "北京市朝阳区建国路79号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "72e57fd7b39e5ab6f8dc8569",
+            "telephone": "(010)65331155",
+            "detail": 1,
+            "uid": "72e57fd7b39e5ab6f8dc8569"
+        },
+        {
+            "name": "佳莲·时代广场",
+            "location": {
+                "lat": 40.229294,
+                "lng": 116.240841
+            },
+            "address": "鼓楼南大街4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "54a2cc3eb7ef2552c9c3db14",
+            "detail": 1,
+            "uid": "54a2cc3eb7ef2552c9c3db14"
+        },
+        {
+            "name": "新七彩商城",
+            "location": {
+                "lat": 39.943304,
+                "lng": 116.513595
+            },
+            "address": "姚家园路101号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "ef773a0f9638402d22022068",
+            "detail": 1,
+            "uid": "ef773a0f9638402d22022068"
+        },
+        {
+            "name": "龙湖北京长楹天街",
+            "location": {
+                "lat": 39.930766,
+                "lng": 116.603182
+            },
+            "address": "北京市朝阳区常通镇常通路2号院",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "0523a1412f2d9163b23c8106",
+            "detail": 1,
+            "uid": "0523a1412f2d9163b23c8106"
+        },
+        {
+            "name": "京客隆(甜水园店)",
+            "location": {
+                "lat": 39.93459,
+                "lng": 116.485729
+            },
+            "address": "北京市朝阳区甜水园北里16号楼4层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "31e7f8032c6a44a76fa3ccdc",
+            "telephone": "(010)65860070",
+            "detail": 1,
+            "uid": "31e7f8032c6a44a76fa3ccdc"
+        },
+        {
+            "name": "古北水镇游客中心超市",
+            "location": {
+                "lat": 40.651795,
+                "lng": 117.275363
+            },
+            "address": "北京市密云区古北口镇司马台村古北水镇游客中心广场",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)81008009",
+            "detail": 1,
+            "uid": "44e59b7113c946bbad0457e8"
+        },
+        {
+            "name": "世纪华联购物中心",
+            "location": {
+                "lat": 40.06046,
+                "lng": 116.987761
+            },
+            "address": "李菜街村后街南路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "15810179548",
+            "detail": 1,
+            "uid": "564e7ae205b99c074afc8d98"
+        },
+        {
+            "name": "天桥百货商场",
+            "location": {
+                "lat": 39.886834,
+                "lng": 116.404417
+            },
+            "address": "北京市西城区永定门内大街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "d6df91c120e00473f7b91645",
+            "detail": 1,
+            "uid": "d6df91c120e00473f7b91645"
+        },
+        {
+            "name": "世纪华联超市(夏和园店)",
+            "location": {
+                "lat": 40.132042,
+                "lng": 117.204285
+            },
+            "address": "夏各庄镇夏各庄新城夏和园小区12楼6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "9e1594b419bc7240d12dd6a7"
+        },
+        {
+            "name": "艺术乡村超市",
+            "location": {
+                "lat": 39.948625,
+                "lng": 116.781642
+            },
+            "address": "北京市通州区京榆旧线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "a3e5075a8a23fd03a10464ff",
+            "telephone": "13718673249",
+            "detail": 1,
+            "uid": "a3e5075a8a23fd03a10464ff"
+        },
+        {
+            "name": "新城子花园士兰超市",
+            "location": {
+                "lat": 40.656635,
+                "lng": 117.49251
+            },
+            "address": "251乡道西150米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)81023966",
+            "detail": 1,
+            "uid": "441ba3b485f05be096ca07b5"
+        },
+        {
+            "name": "朝元百货超市",
+            "location": {
+                "lat": 40.2833,
+                "lng": 117.080849
+            },
+            "address": "北京市平谷区平关路与胡熊路交叉口东50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "0949f25c5c0baf7c60180906"
+        },
+        {
+            "name": "海鹏副食超市",
+            "location": {
+                "lat": 40.907343,
+                "lng": 116.629247
+            },
+            "address": "北京市怀柔区京加路与喇碾路交叉路口向西南约50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "telephone": "(010)60623877,(010)60623630",
+            "detail": 1,
+            "uid": "504d6113710efeb34657266b"
+        },
+        {
+            "name": "北京利鑫忠福超市",
+            "location": {
+                "lat": 40.170388,
+                "lng": 117.162574
+            },
+            "address": "平蓟路68-4号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "4fd70fb65dffd472d5851f50"
+        },
+        {
+            "name": "占齐超市",
+            "location": {
+                "lat": 40.587656,
+                "lng": 117.052577
+            },
+            "address": "北京市密云区占奇超市(琉辛路西300米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "d82d669759c54da6d418b78c"
+        },
+        {
+            "name": "小磊批发超市",
+            "location": {
+                "lat": 40.800341,
+                "lng": 116.755059
+            },
+            "address": "靠近北京市怀柔区长哨营满族乡卫生院",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "detail": 1,
+            "uid": "0a11f4afbdf91425f942b266"
+        },
+        {
+            "name": "北京墙子路超市",
+            "location": {
+                "lat": 40.426836,
+                "lng": 117.224851
+            },
+            "address": "密兴路大城子检查站附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)61079118",
+            "detail": 1,
+            "uid": "764672e580c3e6ad95ec848c"
+        },
+        {
+            "name": "大星发超市(雾灵佳萃店)",
+            "location": {
+                "lat": 40.655718,
+                "lng": 117.434154
+            },
+            "address": "曹家路南50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)81021520",
+            "detail": 1,
+            "uid": "a5ef680fb3152cd7b8df8f8f"
+        },
+        {
+            "name": "鑫地旺超市",
+            "location": {
+                "lat": 40.167411,
+                "lng": 117.108721
+            },
+            "address": "北京市平谷区平关路与齐王路交叉路口往东北约100米(王辛庄镇人民政府西侧约100米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "3b362ca770dbfa64715e8049"
+        },
+        {
+            "name": "大星发超市(车道峪店)",
+            "location": {
+                "lat": 40.58653,
+                "lng": 117.208361
+            },
+            "address": "北京市密云区太师屯镇松曹路北京国昆民俗饭庄附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)69686178",
+            "detail": 1,
+            "uid": "272377906e27f46271210bdb"
+        },
+        {
+            "name": "世纪华联超市(东古店)",
+            "location": {
+                "lat": 40.188779,
+                "lng": 117.117477
+            },
+            "address": "北京市平谷区X015与平程路交叉口北50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "bee520a357a3615b33f71d45",
+            "detail": 1,
+            "uid": "bee520a357a3615b33f71d45"
+        },
+        {
+            "name": "大星发超市(中兴店)",
+            "location": {
+                "lat": 40.573649,
+                "lng": 116.991535
+            },
+            "address": "北京市密云区S310(琉辛路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "0fb2bcc81f305508d42ce2bb"
+        },
+        {
+            "name": "旺家福超市",
+            "location": {
+                "lat": 40.130845,
+                "lng": 117.202984
+            },
+            "address": "北京市平谷区纵三路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "15801149561",
+            "detail": 1,
+            "uid": "283df4bb5a32ce489868b426"
+        },
+        {
+            "name": "大星发超市(明英店)",
+            "location": {
+                "lat": 40.569843,
+                "lng": 117.017572
+            },
+            "address": "北京市密云区不老屯镇琉辛路柳树沟公交站",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)69686178",
+            "detail": 1,
+            "uid": "c7fb04bdd2b6f815fb0cad8c"
+        },
+        {
+            "name": "果菜浓便民店",
+            "location": {
+                "lat": 40.66843,
+                "lng": 117.453919
+            },
+            "address": "北京市密云区大角峪客运站(312省道东)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "35c518a93c6e78e759f6beb2"
+        },
+        {
+            "name": "旭辉奥都",
+            "location": {
+                "lat": 40.051597,
+                "lng": 116.421837
+            },
+            "address": "北京市朝阳区锦芳路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "f2aee0842f674acec61b75d2",
+            "telephone": "18033691985",
+            "detail": 1,
+            "uid": "f2aee0842f674acec61b75d2"
+        },
+        {
+            "name": "博泰国际商业广场",
+            "location": {
+                "lat": 40.007959,
+                "lng": 116.473403
+            },
+            "address": "北京市朝阳区南湖东园122号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a0a75a0f7743d44dfe0eb049",
+            "detail": 1,
+            "uid": "a0a75a0f7743d44dfe0eb049"
+        },
+        {
+            "name": "光耀东方广场",
+            "location": {
+                "lat": 39.905156,
+                "lng": 116.328762
+            },
+            "address": "北京市海淀区羊坊店路18号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "d5f93c0e9f582045eddfca1f",
+            "telephone": "(010)63986398",
+            "detail": 1,
+            "uid": "d5f93c0e9f582045eddfca1f"
+        },
+        {
+            "name": "苏宁易购(亚运村店)",
+            "location": {
+                "lat": 40.002411,
+                "lng": 116.424341
+            },
+            "address": "北京市朝阳区北苑路168号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a20408b479fe440bb020a879",
+            "detail": 1,
+            "uid": "a20408b479fe440bb020a879"
+        },
+        {
+            "name": "大中电器(团结湖店)",
+            "location": {
+                "lat": 39.929346,
+                "lng": 116.47315
+            },
+            "address": "北京市朝阳区朝阳北路219号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "5cc2ff198d42485e4afd3f18",
+            "telephone": "(010)56085088",
+            "detail": 1,
+            "uid": "5cc2ff198d42485e4afd3f18"
+        },
+        {
+            "name": "北京图书批发交易市场",
+            "location": {
+                "lat": 39.934431,
+                "lng": 116.485735
+            },
+            "address": "北京市朝阳区甜水园北里16号楼(水锥子中街交路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "2f413b5944e56631abf72945",
+            "telephone": "(010)65062680",
+            "detail": 1,
+            "uid": "2f413b5944e56631abf72945"
+        },
+        {
+            "name": "山货大集",
+            "location": {
+                "lat": 40.804124,
+                "lng": 116.763431
+            },
+            "address": "北京市怀柔区长哨营满族乡遥岭村京加路与滦赤路交叉口东",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "detail": 1,
+            "uid": "37d60a465776ce601e1d116b"
+        },
+        {
+            "name": "快乐娃孕婴童用品特卖场(平谷店)",
+            "location": {
+                "lat": 40.152241,
+                "lng": 117.115297
+            },
+            "address": "新平北路57号世纪广场正北大中电器2-3楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "e56bf5e3843ef95d0782c268",
+            "telephone": "(010)52795066",
+            "detail": 1,
+            "uid": "e56bf5e3843ef95d0782c268"
+        },
+        {
+            "name": "建昆堂灯笼铺",
+            "location": {
+                "lat": 40.654224,
+                "lng": 117.279492
+            },
+            "address": "北京市密云区古北口镇司马台村古北水镇景区水街历史风情区内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "97c6026c60797482eb56fa29"
+        },
+        {
+            "name": "几米熊烘焙手作(乐东店)",
+            "location": {
+                "lat": 40.160443,
+                "lng": 117.127657
+            },
+            "address": "北京市平谷区平翔路2号院-5-6",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "18518791616",
+            "detail": 1,
+            "uid": "763c24e516a95a530e3ddaf1"
+        },
+        {
+            "name": "大中电器(密云广场店)",
+            "location": {
+                "lat": 40.382731,
+                "lng": 116.860276
+            },
+            "address": "北京市密云区鼓楼东大街23-6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "808b363797e90fcbb5147f32",
+            "telephone": "(010)69027566,(010)69020988",
+            "detail": 1,
+            "uid": "808b363797e90fcbb5147f32"
+        },
+        {
+            "name": "国美电器(平谷店)",
+            "location": {
+                "lat": 40.146945,
+                "lng": 117.119526
+            },
+            "address": "北京市平谷区府前街29号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "42962443922e2b280869d9fa",
+            "telephone": "(010)89994518",
+            "detail": 1,
+            "uid": "42962443922e2b280869d9fa"
+        },
+        {
+            "name": "虾折腾海鲜水产",
+            "location": {
+                "lat": 40.138571,
+                "lng": 117.129973
+            },
+            "address": "京市平谷区新平东路263号8室",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "18518086668",
+            "detail": 1,
+            "uid": "b20a785fef537391c9291551"
+        },
+        {
+            "name": "京烟零售连锁(平谷一店)",
+            "location": {
+                "lat": 40.145063,
+                "lng": 117.111653
+            },
+            "address": "平谷镇林荫南街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "25dd88559fa61e2ac6effb16",
+            "telephone": "(010)89988507,(010)89987210",
+            "detail": 1,
+            "uid": "25dd88559fa61e2ac6effb16"
+        },
+        {
+            "name": "中国烟草(林荫南街店)",
+            "location": {
+                "lat": 40.144962,
+                "lng": 117.111615
+            },
+            "address": "林荫南街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "630225339943ac9e38221cbf",
+            "telephone": "(010)69962712",
+            "detail": 1,
+            "uid": "630225339943ac9e38221cbf"
+        },
+        {
+            "name": "渔具店",
+            "location": {
+                "lat": 40.187211,
+                "lng": 117.273072
+            },
+            "address": "北京市平谷区胡靠路与金海西路交叉路口往东北约50米(金海湖镇人民政府北侧约50米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "2f65a7f45d984d5a49fd3f6d"
+        },
+        {
+            "name": "北京学友成才书店",
+            "location": {
+                "lat": 40.149279,
+                "lng": 117.132086
+            },
+            "address": "北京市平谷区城关镇太平街197号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "(010)69973396",
+            "detail": 1,
+            "uid": "a582c9d4bc62e4bf9b68b4e0"
+        },
+        {
+            "name": "布偶外贸仓库(密云店)",
+            "location": {
+                "lat": 40.326004,
+                "lng": 116.826293
+            },
+            "address": "北京市密云区S203(顺密路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "15210480480",
+            "detail": 1,
+            "uid": "20edba0424ef2640ee74f8f8"
+        },
+        {
+            "name": "罗曼花舍",
+            "location": {
+                "lat": 40.378067,
+                "lng": 116.856845
+            },
+            "address": "北京市密云区东斜街3号楼附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "13716569019",
+            "detail": 1,
+            "uid": "620f769ba463f534a3acc498"
+        },
+        {
+            "name": "小东沟油菜花",
+            "location": {
+                "lat": 40.209483,
+                "lng": 117.358205
+            },
+            "address": "北京市平谷区靠烟路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "68031d419242f5f517948e4d"
+        },
+        {
+            "name": "北京驰风(水陆装备旗舰店)",
+            "location": {
+                "lat": 40.125213,
+                "lng": 117.12083
+            },
+            "address": "北京市平谷区平三路与音乐环岛交叉路口往南约100米(清风园南侧约150米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "3a599de0a7119cec4107c15e"
+        },
+        {
+            "name": "马六烟酒",
+            "location": {
+                "lat": 40.148738,
+                "lng": 117.127291
+            },
+            "address": "北京市平谷区滨河街道新开街13号楼一层底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "5f19a324505c9ab076e5b652",
+            "telephone": "(010)89985192",
+            "detail": 1,
+            "uid": "5f19a324505c9ab076e5b652"
+        },
+        {
+            "name": "鸿泽天下家具大世界",
+            "location": {
+                "lat": 39.950376,
+                "lng": 116.763699
+            },
+            "address": "任庄路与013县道交叉口西北100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "telephone": "(010)69599241",
+            "detail": 1,
+            "uid": "60bbdf6a27f47e9011882457"
+        },
+        {
+            "name": "丽质亲子健康定制中心(银河购物中心店)",
+            "location": {
+                "lat": 40.133502,
+                "lng": 117.183396
+            },
+            "address": "北京市平谷区东南路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "c5c9b616f099a61b734b87ae"
+        },
+        {
+            "name": "北方红日五金经销部",
+            "location": {
+                "lat": 40.368489,
+                "lng": 116.843631
+            },
+            "address": "密云镇阳光建材街791-12",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "13141195652,13121397344",
+            "detail": 1,
+            "uid": "00d4579ce4f2342aa1a93496"
+        },
+        {
+            "name": "星月绿都建材",
+            "location": {
+                "lat": 40.164327,
+                "lng": 117.121808
+            },
+            "address": "平谷大街18-8",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "481c5e3cc59e5634a8059dbf",
+            "telephone": "(010)69955188,18600895539,(010)69961234",
+            "detail": 1,
+            "uid": "481c5e3cc59e5634a8059dbf"
+        },
+        {
+            "name": "旧家具市场",
+            "location": {
+                "lat": 40.13485,
+                "lng": 117.12955
+            },
+            "address": "北京市平谷区新平东路渔阳东寺渠大桥南",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "e1347c3b08f50c46c27da2b7"
+        },
+        {
+            "name": "北京九龙酒业发展有限公司",
+            "location": {
+                "lat": 40.046212,
+                "lng": 116.812475
+            },
+            "address": "北京市顺义区北务镇木燕路小珠宝公交站南100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "telephone": "(010)61420036",
+            "detail": 1,
+            "uid": "1289509ac83421652cb96d28"
+        },
+        {
+            "name": "钢材市场",
+            "location": {
+                "lat": 40.377284,
+                "lng": 116.815966
+            },
+            "address": "北京市密云区京沈路辅路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "ec3b88bb0590d4f33a221c74"
+        },
+        {
+            "name": "京华佳林五金经销部",
+            "location": {
+                "lat": 40.375477,
+                "lng": 116.858318
+            },
+            "address": "北京市密云区新中街50-1号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "f4d6dd44207eb4cc28d7ab89"
+        },
+        {
+            "name": "鲁兴日用品商店",
+            "location": {
+                "lat": 40.154046,
+                "lng": 117.077909
+            },
+            "address": "北京市平谷区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "12576bad19ce74833a04b187"
+        },
+        {
+            "name": "北京·金海湖渔具店",
+            "location": {
+                "lat": 40.183224,
+                "lng": 117.260957
+            },
+            "address": "北京市平谷区平蓟路与胡洙路交叉路口往西南约100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "e60ea40d37d00afba2046486"
+        },
+        {
+            "name": "北兴顺",
+            "location": {
+                "lat": 40.653644,
+                "lng": 117.2784
+            },
+            "address": "北京市密云区古北镇古北水镇景区内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "f47bc8a97281d9a4ad31e51e"
+        },
+        {
+            "name": "英力信达文体用品商店",
+            "location": {
+                "lat": 40.14152,
+                "lng": 117.117973
+            },
+            "address": "文化南街15号院4",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "ad26e6219371776554bfff48",
+            "detail": 1,
+            "uid": "ad26e6219371776554bfff48"
+        },
+        {
+            "name": "首都农资连锁佳丽佳宾店",
+            "location": {
+                "lat": 40.155165,
+                "lng": 117.193606
+            },
+            "address": "北京市平谷区夏鱼路与陈太务路交叉路口东南侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "c2172f5c5fd20d67d8d891e8"
+        },
+        {
+            "name": "KELME(国泰百货店)",
+            "location": {
+                "lat": 40.147096,
+                "lng": 117.117426
+            },
+            "address": "北京市平谷区文化北街13号国泰百货F3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "71db48ecc66b8621d22dd6a8"
+        },
+        {
+            "name": "FOCALS(国泰百货店)",
+            "location": {
+                "lat": 40.147967,
+                "lng": 117.117542
+            },
+            "address": "北京市平谷区文化北街13号国泰百货F2",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "b919c3433acfb46696f08c5b"
+        },
+        {
+            "name": "安莉芬(国泰百货店)",
+            "location": {
+                "lat": 40.148098,
+                "lng": 117.117332
+            },
+            "address": "北京市平谷区文化北街13号国泰百货F3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "61ba5aea65cdb8e4c8e33cb9"
+        },
+        {
+            "name": "九洲揽月(平谷总代理)",
+            "location": {
+                "lat": 40.158719,
+                "lng": 117.142461
+            },
+            "address": "北京市平谷区新平北路全友家私南侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "263be8165874b584e8e58267",
+            "telephone": "(010)69988040",
+            "detail": 1,
+            "uid": "263be8165874b584e8e58267"
+        },
+        {
+            "name": "锁具批发",
+            "location": {
+                "lat": 40.141003,
+                "lng": 117.125503
+            },
+            "address": "向阳南街84号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "0542ae17774b42e8b01e362d"
+        },
+        {
+            "name": "大红门冷鲜肉",
+            "location": {
+                "lat": 40.133789,
+                "lng": 117.1287
+            },
+            "address": "北京市平谷区新平东路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "13241315035,15001273123",
+            "detail": 1,
+            "uid": "50e71d37bd70d4fd3a13fd81"
+        },
+        {
+            "name": "千喜鹤冷鲜肉",
+            "location": {
+                "lat": 40.153357,
+                "lng": 117.121216
+            },
+            "address": "北京市平谷区农贸街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "46675f83aa6713f0f4231036"
+        },
+        {
+            "name": "精品汇",
+            "location": {
+                "lat": 40.143485,
+                "lng": 117.117335
+            },
+            "address": "北京市平谷区建设西街1-14",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "8e95520a0f24e2264afc8de1",
+            "detail": 1,
+            "uid": "8e95520a0f24e2264afc8de1"
+        },
+        {
+            "name": "小刀电动车",
+            "location": {
+                "lat": 40.122877,
+                "lng": 117.120204
+            },
+            "address": "平三路附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "dc44f3ac8005be33b7265554"
+        },
+        {
+            "name": "夏凉宫度假村-商品部",
+            "location": {
+                "lat": 40.968607,
+                "lng": 116.492383
+            },
+            "address": "北京市怀柔区孙栅子村西夏凉宫度假村内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "detail": 1,
+            "uid": "b557470d8df3bb4f0a5cb3fa"
+        },
+        {
+            "name": "荣晟堂",
+            "location": {
+                "lat": 40.479604,
+                "lng": 116.846326
+            },
+            "address": "密关路与313省道交叉口南200米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "94055538f5cae7e63010af99"
+        },
+        {
+            "name": "星空小镇水果屋",
+            "location": {
+                "lat": 40.652095,
+                "lng": 117.273421
+            },
+            "address": "北京市密云区古北驿大街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "bc9710d2f36d0bbf00ec01b9"
+        },
+        {
+            "name": "东邦建材",
+            "location": {
+                "lat": 40.139396,
+                "lng": 117.130379
+            },
+            "address": "新平东路144号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "cce326af26da8183306212f3",
+            "telephone": "15801482842",
+            "detail": 1,
+            "uid": "cce326af26da8183306212f3"
+        },
+        {
+            "name": "玉松平价商店",
+            "location": {
+                "lat": 40.192981,
+                "lng": 117.151195
+            },
+            "address": "山东庄镇大北关村南街15号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "39d43f82ed685085a8059d27",
+            "telephone": "13810351278",
+            "detail": 1,
+            "uid": "39d43f82ed685085a8059d27"
+        },
+        {
+            "name": "杨晓云鲜菜特菜批发配送中心",
+            "location": {
+                "lat": 40.133032,
+                "lng": 117.13046
+            },
+            "address": "北京市平谷区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "b3a3fb634f688afef03cbaa5"
+        },
+        {
+            "name": "北京恒华彩钢",
+            "location": {
+                "lat": 40.573481,
+                "lng": 116.992955
+            },
+            "address": "琉辛路与107乡道交叉口西北100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "b411b1cf339cda94f423104c"
+        },
+        {
+            "name": "建军电料商店",
+            "location": {
+                "lat": 40.133608,
+                "lng": 117.183552
+            },
+            "address": "北京市平谷区东南路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "13601121060",
+            "detail": 1,
+            "uid": "95675f7f018b2d8cb33c81ad"
+        },
+        {
+            "name": "汇美佳缘整装",
+            "location": {
+                "lat": 40.156183,
+                "lng": 117.124836
+            },
+            "address": "北京市平谷区北环路与平乐街交叉路口西南侧(光明西小区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "ed53bc6411dd13eec9fa5fc2"
+        },
+        {
+            "name": "果蔬美超市(上纸寨店)",
+            "location": {
+                "lat": 40.16273,
+                "lng": 117.146456
+            },
+            "address": "兴谷街道办事处上纸寨95号(兴谷东路与平蓟路交叉口东200米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "e647cecd93c7a2a6601c670c",
+            "telephone": "13146608930",
+            "detail": 1,
+            "uid": "e647cecd93c7a2a6601c670c"
+        },
+        {
+            "name": "雅庭漆",
+            "location": {
+                "lat": 40.573506,
+                "lng": 116.992881
+            },
+            "address": "琉辛路与107乡道交叉口西北100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "38326336b8b5a21c52e5c5ae"
+        },
+        {
+            "name": "德海蔬菜水果批发零售商店",
+            "location": {
+                "lat": 40.574566,
+                "lng": 116.986718
+            },
+            "address": "琉辛路北50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "16183fb885cccc4e626858a3"
+        },
+        {
+            "name": "北京兴新海旺果品商店",
+            "location": {
+                "lat": 40.54301,
+                "lng": 117.137116
+            },
+            "address": "正阳街58号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "9eba27df207bfa1d1894c6c7"
+        },
+        {
+            "name": "信聚众缘商店",
+            "location": {
+                "lat": 40.335945,
+                "lng": 117.22709
+            },
+            "address": "关张路与胡关路交叉口东北50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "a369af625ddc6b6ccc04ef41"
+        },
+        {
+            "name": "水库鱼",
+            "location": {
+                "lat": 40.48074,
+                "lng": 116.868444
+            },
+            "address": "313省道南50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "007883751910524fab0dd8ac"
+        },
+        {
+            "name": "华夏爱婴(广渠门分部)",
+            "location": {
+                "lat": 39.899005,
+                "lng": 116.448154
+            },
+            "address": "北京市东城区广渠门南小街领行国际1号楼1单元21层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "591c81b6d74d51e0fb2d61c9",
+            "detail": 1,
+            "uid": "591c81b6d74d51e0fb2d61c9"
+        },
+        {
+            "name": "首都农资(德良店)",
+            "location": {
+                "lat": 40.407136,
+                "lng": 117.126551
+            },
+            "address": "北京市密云区X025(密兴路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "a219e3af19fc6d9b9a005018"
+        },
+        {
+            "name": "首都农资连锁(荣腾富民店)",
+            "location": {
+                "lat": 40.54336,
+                "lng": 117.13691
+            },
+            "address": "北京市密云区正阳街35号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "13436876580",
+            "detail": 1,
+            "uid": "5a625a267b46daba7dc87630"
+        },
+        {
+            "name": "供销e家东马各庄村环湖超市综合服务社",
+            "location": {
+                "lat": 40.191261,
+                "lng": 117.343988
+            },
+            "address": "北京市平谷区S314(平蓟路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "d72a5fb49007240d94ec84f7"
+        },
+        {
+            "name": "方老四烟酒批发",
+            "location": {
+                "lat": 40.205608,
+                "lng": 117.326953
+            },
+            "address": "土靠路与靠郭路交叉口西南100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "6148fee029022122f4b91663"
+        },
+        {
+            "name": "湘伟家具店",
+            "location": {
+                "lat": 40.645494,
+                "lng": 117.337329
+            },
+            "address": "北京市密云区S312(松曹路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "faa63e6cd6d218e6f7eafcee"
+        },
+        {
+            "name": "无公害蔬菜农药配送服务站(怀柔区喇叭沟门满族乡卫生院东南)",
+            "location": {
+                "lat": 40.905284,
+                "lng": 116.629627
+            },
+            "address": "京加路(怀柔区喇叭沟门满族乡卫生院东南)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "detail": 1,
+            "uid": "2fa0a56bb56f9ca37069d3ee"
+        },
+        {
+            "name": "华益门业",
+            "location": {
+                "lat": 40.18309,
+                "lng": 117.257648
+            },
+            "address": "北京市平谷区平蓟路与胡黑路交叉路口往东约50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "cd1c873d2b4dfe252afc487d"
+        },
+        {
+            "name": "龙谷缘全屋订制",
+            "location": {
+                "lat": 40.173995,
+                "lng": 117.189138
+            },
+            "address": "北京市平谷区S314(平蓟路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "21053479f5429cb14307c1af"
+        },
+        {
+            "name": "木真整屋集成装饰",
+            "location": {
+                "lat": 40.177134,
+                "lng": 117.22944
+            },
+            "address": "北京市平谷区S314(平蓟路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "02b531c30b0d42d43c9a5eb1"
+        },
+        {
+            "name": "龙辉铁艺不锈钢",
+            "location": {
+                "lat": 40.183052,
+                "lng": 117.256756
+            },
+            "address": "北京市平谷区平蓟路与胡黑路交叉路口东北侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "80e4a9c7ccdf6c460af5eb81"
+        },
+        {
+            "name": "于学良商店",
+            "location": {
+                "lat": 40.543666,
+                "lng": 117.137551
+            },
+            "address": "北京市密云区正阳街与沙太路交叉口南100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "(010)69034199",
+            "detail": 1,
+            "uid": "c515623459cb64bb4354d741"
+        },
+        {
+            "name": "福海商店",
+            "location": {
+                "lat": 40.961335,
+                "lng": 116.51145
+            },
+            "address": "喇叭沟门",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "detail": 1,
+            "uid": "8d96925c90761145c1f1cf6b"
+        },
+        {
+            "name": "北京福文顺发建材商店",
+            "location": {
+                "lat": 40.564743,
+                "lng": 117.156046
+            },
+            "address": "京密路与密古路交叉口南100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "15811301787,18210689257",
+            "detail": 1,
+            "uid": "dc8ca518b312f27e100daae2"
+        },
+        {
+            "name": "太合路通商店",
+            "location": {
+                "lat": 40.545036,
+                "lng": 117.132464
+            },
+            "address": "密云区太师屯镇中心街40号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "13439231033",
+            "detail": 1,
+            "uid": "b405905b1edd8b0efe0eb092"
+        },
+        {
+            "name": "北京金源祥瑞建材商店",
+            "location": {
+                "lat": 40.196357,
+                "lng": 117.167605
+            },
+            "address": "北京市平谷区北山路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "13552010915,13716163667",
+            "detail": 1,
+            "uid": "6f3c610cc2fba960871541ad"
+        },
+        {
+            "name": "晓英布店定做窗帘",
+            "location": {
+                "lat": 40.17657,
+                "lng": 117.227825
+            },
+            "address": "平蓟路与熊南路交叉口东北150米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "telephone": "13241629169",
+            "detail": 1,
+            "uid": "63cdc702f1d2e4c6fa42b243"
+        },
+        {
+            "name": "大角峪综合商店",
+            "location": {
+                "lat": 40.668317,
+                "lng": 117.453922
+            },
+            "address": "北京市密云区新城子镇大角峪客运站",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "70e2514bc1990561e856fa2e"
+        },
+        {
+            "name": "朱元瑞五金建材商店",
+            "location": {
+                "lat": 40.80011,
+                "lng": 116.755533
+            },
+            "address": "京加路东50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "telephone": "(010)60621906",
+            "detail": 1,
+            "uid": "5af3b4131cc62c05364aae3e"
+        },
+        {
+            "name": "正阳五金商店",
+            "location": {
+                "lat": 40.541848,
+                "lng": 117.140865
+            },
+            "address": "永安街13",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "cb8a4343655e42cd6849f377"
+        },
+        {
+            "name": "美的(密云古北口专卖店)",
+            "location": {
+                "lat": 40.695165,
+                "lng": 117.171434
+            },
+            "address": "北京市密云区石桥南街34号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "telephone": "18710257355",
+            "detail": 1,
+            "uid": "d129e88b1f31ac1c63180926"
+        },
+        {
+            "name": "下营日用百货商店",
+            "location": {
+                "lat": 40.685123,
+                "lng": 116.930305
+            },
+            "address": "008县道东50米附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "b56fd991eb8f2a952b11d116"
+        },
+        {
+            "name": "乐民钢材五金店",
+            "location": {
+                "lat": 40.177929,
+                "lng": 117.232321
+            },
+            "address": "北京市平谷区S314(平蓟路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "detail": 1,
+            "uid": "0e02385f37d1a854aecb66e0"
+        },
+        {
+            "name": "雅庭漆五金建材商店",
+            "location": {
+                "lat": 40.548652,
+                "lng": 116.828674
+            },
+            "address": "北京市密云区密关路与双石路交叉路口东北侧(桃园新区南侧约100米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "cebe80dd3e4687207ec876c9"
+        }
+    ]
+}

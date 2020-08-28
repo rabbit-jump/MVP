@@ -1,0 +1,1925 @@
+{
+    "list": [
+        {
+            "name": "7天优品酒店(五棵松301解放军总医院店)",
+            "location": {
+                "lat": 39.896072,
+                "lng": 116.284258
+            },
+            "address": "北京市丰台区靛厂路50号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "08f1f1f522aab9d388db7348",
+            "detail": 1,
+            "uid": "08f1f1f522aab9d388db7348"
+        },
+        {
+            "name": "北京丽豪酒店(首都机场国展店)",
+            "location": {
+                "lat": 40.082212,
+                "lng": 116.593581
+            },
+            "address": "朝阳区首都机场货运路海关一号楼A区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "4159c5d69edaa4e69d9d6849",
+            "telephone": "(010)64508080",
+            "detail": 1,
+            "uid": "4159c5d69edaa4e69d9d6849"
+        },
+        {
+            "name": "如家酒店(北京西客站北广场店)",
+            "location": {
+                "lat": 39.902431,
+                "lng": 116.323998
+            },
+            "address": "北京市丰台区莲花池东路120-2号北恒大厦6层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "5c2dc21da7209e1d6fc02c37",
+            "telephone": "(010)52601111",
+            "detail": 1,
+            "uid": "5c2dc21da7209e1d6fc02c37"
+        },
+        {
+            "name": "汉庭酒店(平谷世纪广场店)",
+            "location": {
+                "lat": 40.152348,
+                "lng": 117.113493
+            },
+            "address": "北京市平谷区新平北路57号世纪广场正对面",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "平谷区",
+            "street_id": "923ffd00636401aed82f2882",
+            "telephone": "(010)57912088",
+            "detail": 1,
+            "uid": "923ffd00636401aed82f2882"
+        },
+        {
+            "name": "速8酒店(北京西单店)",
+            "location": {
+                "lat": 39.919917,
+                "lng": 116.378106
+            },
+            "address": "北京市西城区华远北街1号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "6762a37f4495fe5ebb17e739",
+            "telephone": "(010)66135559",
+            "detail": 1,
+            "uid": "6762a37f4495fe5ebb17e739"
+        },
+        {
+            "name": "北京粤财JW万豪酒店",
+            "location": {
+                "lat": 39.901742,
+                "lng": 116.382122
+            },
+            "address": "北京市宣武门外大街18号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "654c78182e2dfee7e856fa29",
+            "telephone": "(010)63916666",
+            "detail": 1,
+            "uid": "654c78182e2dfee7e856fa29"
+        },
+        {
+            "name": "速8酒店(石景山衙门口桥店)",
+            "location": {
+                "lat": 39.901867,
+                "lng": 116.212077
+            },
+            "address": "北京市石景山区景阳东街65号院2号楼内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "1bb2e1881404021bbca82241",
+            "telephone": "(010)88607688",
+            "detail": 1,
+            "uid": "1bb2e1881404021bbca82241"
+        },
+        {
+            "name": "7天酒店(北京通州梨园店)",
+            "location": {
+                "lat": 39.884876,
+                "lng": 116.683945
+            },
+            "address": "北京市通州区梨园南小街328号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "606289fd9beebd54a30464ae",
+            "telephone": "(010)52975000",
+            "detail": 1,
+            "uid": "606289fd9beebd54a30464ae"
+        },
+        {
+            "name": "海友酒店(前门店)",
+            "location": {
+                "lat": 39.902356,
+                "lng": 116.402077
+            },
+            "address": "北京市西城区大栅栏街25号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "89fd4ea323f40d5ee4e965f6",
+            "telephone": "(010)63011696",
+            "detail": 1,
+            "uid": "89fd4ea323f40d5ee4e965f6"
+        },
+        {
+            "name": "99旅馆连锁(天通东苑店)",
+            "location": {
+                "lat": 40.076807,
+                "lng": 116.443602
+            },
+            "address": "北京市昌平区太平庄东一路天通苑东三区56号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "fc76892b9da291b77f29bd0a",
+            "telephone": "(010)80781189",
+            "detail": 1,
+            "uid": "fc76892b9da291b77f29bd0a"
+        },
+        {
+            "name": "7天酒店(管庄地铁站店)",
+            "location": {
+                "lat": 39.915576,
+                "lng": 116.600144
+            },
+            "address": "北京市朝阳区建国路6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "925c550fecbe73ab5b3ac8b1",
+            "telephone": "(010)65761033",
+            "detail": 1,
+            "uid": "925c550fecbe73ab5b3ac8b1"
+        },
+        {
+            "name": "北京丽亭华苑酒店",
+            "location": {
+                "lat": 39.982935,
+                "lng": 116.351768
+            },
+            "address": "北京市知春路25号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "606289fd91b8b754a304649c",
+            "telephone": "(010)82356699",
+            "detail": 1,
+            "uid": "606289fd91b8b754a304649c"
+        },
+        {
+            "name": "7天酒店(北京西站南广场二店)",
+            "location": {
+                "lat": 39.892862,
+                "lng": 116.329588
+            },
+            "address": "北京市丰台区太平桥东里16号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "45f4d291469ba7ffce04ef60",
+            "telephone": "(010)87600068",
+            "detail": 1,
+            "uid": "45f4d291469ba7ffce04ef60"
+        },
+        {
+            "name": "IU酒店(生命科学园地铁站店)",
+            "location": {
+                "lat": 40.105547,
+                "lng": 116.298159
+            },
+            "address": "北京市昌平区回龙观镇北清路1号院珠江摩尔国际大厦3号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "75534577a682ef3321026245",
+            "telephone": "(010)80703588",
+            "detail": 1,
+            "uid": "75534577a682ef3321026245"
+        },
+        {
+            "name": "速8酒店(北京首都机场后沙峪地铁站店)",
+            "location": {
+                "lat": 40.121004,
+                "lng": 116.576058
+            },
+            "address": "北京市顺义区后沙峪福德路临1号后沙峪地铁站东北角",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "0090bacc080c036052e5c5ce",
+            "telephone": "(010)53062288,(010)53062299",
+            "detail": 1,
+            "uid": "0090bacc080c036052e5c5ce"
+        },
+        {
+            "name": "7天酒店(肖村地铁站店)",
+            "location": {
+                "lat": 39.843147,
+                "lng": 116.452868
+            },
+            "address": "北京市朝阳区成寿寺路185号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "7f74c28eaa1dc63af6c59c12",
+            "telephone": "(010)56673377",
+            "detail": 1,
+            "uid": "7f74c28eaa1dc63af6c59c12"
+        },
+        {
+            "name": "7天酒店(北京天通苑北地铁站店)",
+            "location": {
+                "lat": 40.085435,
+                "lng": 116.414948
+            },
+            "address": "北京市昌平区太平庄北街天通苑西3区北门2号楼3门",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "5bb1a09d0c59e5a532f71d14",
+            "telephone": "(010)57255177",
+            "detail": 1,
+            "uid": "5bb1a09d0c59e5a532f71d14"
+        },
+        {
+            "name": "速8酒店(欣福良苑假日酒店)",
+            "location": {
+                "lat": 39.732848,
+                "lng": 116.13395
+            },
+            "address": "北京市房山区良乡镇苏庄东街9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "80353e293afa1a804307c1e7",
+            "telephone": "(010)69379800",
+            "detail": 1,
+            "uid": "80353e293afa1a804307c1e7"
+        },
+        {
+            "name": "速8酒店(东大街地铁站店)",
+            "location": {
+                "lat": 40.087219,
+                "lng": 116.367645
+            },
+            "address": "北京市昌平区回龙观东大街3号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "4dffdada249c7bbd0e3dda64",
+            "telephone": "(010)60789998",
+            "detail": 1,
+            "uid": "4dffdada249c7bbd0e3dda64"
+        },
+        {
+            "name": "布丁酒店(北京西站店)",
+            "location": {
+                "lat": 39.88792,
+                "lng": 116.319732
+            },
+            "address": "北京市丰台区太平桥西站华源一里8号院内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "a12baa407e77544fe856fafc",
+            "telephone": "(010)63334266",
+            "detail": 1,
+            "uid": "a12baa407e77544fe856fafc"
+        },
+        {
+            "name": "如家酒店(潘家园店)",
+            "location": {
+                "lat": 39.876845,
+                "lng": 116.458794
+            },
+            "address": "北京市朝阳区华威南路弘善家园304号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "ed1cb3b373722c4b15c905a6",
+            "telephone": "(010)67049122",
+            "detail": 1,
+            "uid": "ed1cb3b373722c4b15c905a6"
+        },
+        {
+            "name": "汉庭酒店(天安门店)",
+            "location": {
+                "lat": 39.917903,
+                "lng": 116.409873
+            },
+            "address": "北京市东城区南池子大街102号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "14c29dfa2b61be2959bbbc7b",
+            "telephone": "(010)65278388",
+            "detail": 1,
+            "uid": "14c29dfa2b61be2959bbbc7b"
+        },
+        {
+            "name": "如家酒店(新街口地铁站店)",
+            "location": {
+                "lat": 39.947994,
+                "lng": 116.370255
+            },
+            "address": "北京市西城区新街口街道北草厂胡同玉桃园3区11号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "2d60a30478e392ba2b3a9fe1",
+            "telephone": "(010)82221666",
+            "detail": 1,
+            "uid": "2d60a30478e392ba2b3a9fe1"
+        },
+        {
+            "name": "昆泰嘉禾酒店",
+            "location": {
+                "lat": 40.082144,
+                "lng": 116.327529
+            },
+            "address": "北京市昌平区回龙观西大街107号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "48eb00588dbd1bb42fe67b06",
+            "telephone": "(010)59910088",
+            "detail": 1,
+            "uid": "48eb00588dbd1bb42fe67b06"
+        },
+        {
+            "name": "汉庭酒店(北京花乡天坛医院新店)",
+            "location": {
+                "lat": 39.840157,
+                "lng": 116.334381
+            },
+            "address": "北京市丰台区巴庄子路139号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "17a1dc1008a3b492adee7adc",
+            "telephone": "(010)83629118",
+            "detail": 1,
+            "uid": "17a1dc1008a3b492adee7adc"
+        },
+        {
+            "name": "速8酒店(石门地铁站店)",
+            "location": {
+                "lat": 40.136569,
+                "lng": 116.646451
+            },
+            "address": "北京市顺义区顺于路石门地铁站A口右侧50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "92e0e6b2931164c0e812e4b6",
+            "telephone": "(010)69462788",
+            "detail": 1,
+            "uid": "92e0e6b2931164c0e812e4b6"
+        },
+        {
+            "name": "美居酒店(北京中关村店)",
+            "location": {
+                "lat": 39.952532,
+                "lng": 116.329588
+            },
+            "address": "北京市海淀区中关村南大街31号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "detail": 1,
+            "uid": "3b0471b4d59fa49af4c59cbe"
+        },
+        {
+            "name": "北京银保建国酒店",
+            "location": {
+                "lat": 39.94946,
+                "lng": 116.191051
+            },
+            "address": "北京市石景山区金府路32号院1号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "telephone": "(010)81138899",
+            "detail": 1,
+            "uid": "624ff75df644ced7eb1e979d"
+        },
+        {
+            "name": "如家酒店(科创五街店)",
+            "location": {
+                "lat": 39.815693,
+                "lng": 116.551771
+            },
+            "address": "北京市通州区科创五街3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "341779d99da6ea324f3a5942",
+            "telephone": "(010)56455888",
+            "detail": 1,
+            "uid": "341779d99da6ea324f3a5942"
+        },
+        {
+            "name": "如家酒店(对外经贸大学店)",
+            "location": {
+                "lat": 39.985713,
+                "lng": 116.437923
+            },
+            "address": "北京市朝阳区育慧南路芍药居甲2号内12号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "1b0a60245694d9d3631809cc",
+            "telephone": "(010)84611118",
+            "detail": 1,
+            "uid": "1b0a60245694d9d3631809cc"
+        },
+        {
+            "name": "速8酒店(北京潘家园华威南路店)",
+            "location": {
+                "lat": 39.876837,
+                "lng": 116.45792
+            },
+            "address": "北京市朝阳区华威南路弘善家园304号楼内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "577770402088f0ed4e2fdffd",
+            "telephone": "(010)87638886",
+            "detail": 1,
+            "uid": "577770402088f0ed4e2fdffd"
+        },
+        {
+            "name": "北京维景国际大酒店",
+            "location": {
+                "lat": 39.964393,
+                "lng": 116.458136
+            },
+            "address": "北京市朝阳区北三环东路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "95d660a2c214b6d459f6be82",
+            "telephone": "(010)64622288",
+            "detail": 1,
+            "uid": "95d660a2c214b6d459f6be82"
+        },
+        {
+            "name": "速8酒店(陶然亭地铁站西店)",
+            "location": {
+                "lat": 39.882454,
+                "lng": 116.370188
+            },
+            "address": "北京市西城区右安门内大街59号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "d7d0f9770e45111ba21de984",
+            "telephone": "(010)63521724",
+            "detail": 1,
+            "uid": "d7d0f9770e45111ba21de984"
+        },
+        {
+            "name": "速8酒店(立水桥地铁南站店)",
+            "location": {
+                "lat": 40.050155,
+                "lng": 116.420632
+            },
+            "address": "北京市朝阳区北苑路18号院3号楼4层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "47ddc2a13ed5b08bc33644c4",
+            "telephone": "(010)64126868",
+            "detail": 1,
+            "uid": "47ddc2a13ed5b08bc33644c4"
+        },
+        {
+            "name": "99旅馆连锁(北京清华大学店)",
+            "location": {
+                "lat": 39.998468,
+                "lng": 116.331433
+            },
+            "address": "北京市海淀区成府路85号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "d5f7198122201be56240a91e",
+            "telephone": "(010)82888382",
+            "detail": 1,
+            "uid": "d5f7198122201be56240a91e"
+        },
+        {
+            "name": "海友酒店(生物基地地铁站店)",
+            "location": {
+                "lat": 39.695936,
+                "lng": 116.328142
+            },
+            "address": "北京市大兴区永大路1号院8号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "telephone": "(010)89266079",
+            "detail": 1,
+            "uid": "0f5c8b8ed1d245f34f5547ad"
+        },
+        {
+            "name": "秋果酒店(北京三元桥燕莎店)",
+            "location": {
+                "lat": 39.963822,
+                "lng": 116.468742
+            },
+            "address": "北京市朝阳区霄云路35号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "9ed805a2da72f8b5f33cba7f",
+            "telephone": "(010)53965155",
+            "detail": 1,
+            "uid": "9ed805a2da72f8b5f33cba7f"
+        },
+        {
+            "name": "7天连锁酒店(北京潘家园古玩城肿瘤医院店)",
+            "location": {
+                "lat": 39.880132,
+                "lng": 116.459794
+            },
+            "address": "北京市朝阳区华威西里25号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "1bf85b25b5fa3abda1a9343c",
+            "telephone": "(010)64210088",
+            "detail": 1,
+            "uid": "1bf85b25b5fa3abda1a9343c"
+        },
+        {
+            "name": "布丁酒店(锣鼓巷后海鼓楼店)",
+            "location": {
+                "lat": 39.951417,
+                "lng": 116.406624
+            },
+            "address": "北京市东城区宝钞胡同38号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "24d05508485e2db6138824e5",
+            "telephone": "(010)84042268",
+            "detail": 1,
+            "uid": "24d05508485e2db6138824e5"
+        },
+        {
+            "name": "汉庭酒店(北京站前广场店)",
+            "location": {
+                "lat": 39.910075,
+                "lng": 116.438276
+            },
+            "address": "北京市东城区北京站东街8号信通大厦B座内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "b6a3559816257ca2704b877a",
+            "telephone": "(010)85266466",
+            "detail": 1,
+            "uid": "b6a3559816257ca2704b877a"
+        },
+        {
+            "name": "四川龙爪树宾馆",
+            "location": {
+                "lat": 39.855731,
+                "lng": 116.461637
+            },
+            "address": "北京市朝阳区小红门路312号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "7bfa08fc3dd84a6624d2bbf1",
+            "telephone": "(010)87699988",
+            "detail": 1,
+            "uid": "7bfa08fc3dd84a6624d2bbf1"
+        },
+        {
+            "name": "北京顺义宾馆",
+            "location": {
+                "lat": 40.138191,
+                "lng": 116.662393
+            },
+            "address": "北京市顺义区府前中街3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "34e485088952dbfbd8d89105",
+            "detail": 1,
+            "uid": "34e485088952dbfbd8d89105"
+        },
+        {
+            "name": "北京朝阳悠唐皇冠假日酒店",
+            "location": {
+                "lat": 39.927978,
+                "lng": 116.445704
+            },
+            "address": "北京市朝阳区三丰北里3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "61e7cc143b4d3d6579b55ca2",
+            "telephone": "(010)59096688",
+            "detail": 1,
+            "uid": "4cf8d24eba4845fd9cf77914"
+        },
+        {
+            "name": "美达宾馆(北五村小区外环路)",
+            "location": {
+                "lat": 39.770997,
+                "lng": 116.555777
+            },
+            "address": "北京市通州区北五村小区路与S302交叉路口西南侧(百尚家居建材城东北侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "01225b8cfdc7b304b6f42f2d",
+            "telephone": "(010)60509337",
+            "detail": 1,
+            "uid": "01225b8cfdc7b304b6f42f2d"
+        },
+        {
+            "name": "如家酒店(东大桥地铁站店)",
+            "location": {
+                "lat": 39.93021,
+                "lng": 116.45763
+            },
+            "address": "北京市朝阳区工体东路20号春平广场五层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "ef718957da45056e210262ee",
+            "telephone": "(010)65959388",
+            "detail": 1,
+            "uid": "ef718957da45056e210262ee"
+        },
+        {
+            "name": "如家酒店(东直门店)",
+            "location": {
+                "lat": 39.946575,
+                "lng": 116.446679
+            },
+            "address": "北京市东城区新中街甲2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "34f68ab0a671a5138f55ec07",
+            "telephone": "(010)51203288",
+            "detail": 1,
+            "uid": "34f68ab0a671a5138f55ec07"
+        },
+        {
+            "name": "首都宾馆",
+            "location": {
+                "lat": 39.908091,
+                "lng": 116.415653
+            },
+            "address": "北京市东城区前门东大街3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "bd5046e80460e458d72ce23f",
+            "telephone": "(010)58159988",
+            "detail": 1,
+            "uid": "bd5046e80460e458d72ce23f"
+        },
+        {
+            "name": "速8酒店(珠市口东大街店)",
+            "location": {
+                "lat": 39.898288,
+                "lng": 116.409373
+            },
+            "address": "北京市东城区珠市口东大街16号崇文劳动保障大厦1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "1be838045b728f7216c905a5",
+            "telephone": "(010)67062688",
+            "detail": 1,
+            "uid": "1be838045b728f7216c905a5"
+        },
+        {
+            "name": "速8酒店(天通苑地铁总站店)",
+            "location": {
+                "lat": 40.085399,
+                "lng": 116.415143
+            },
+            "address": "北京市昌平区太平庄北街天通苑西三区北门2号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "b921c02a9996a6eb87330405",
+            "telephone": "(010)64117006",
+            "detail": 1,
+            "uid": "b921c02a9996a6eb87330405"
+        },
+        {
+            "name": "北京丽都皇冠假日酒店",
+            "location": {
+                "lat": 39.983953,
+                "lng": 116.485228
+            },
+            "address": "北京市朝阳区将台路6号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "1ea3104eb9145d0ac1f1cf0a",
+            "telephone": "(010)64373388",
+            "detail": 1,
+            "uid": "1ea3104eb9145d0ac1f1cf0a"
+        },
+        {
+            "name": "汉庭酒店(兴盛街店)",
+            "location": {
+                "lat": 39.762934,
+                "lng": 116.323501
+            },
+            "address": "北京市大兴区兴盛街13甲号楼内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "44de65e58fd30f59c6f50d97",
+            "telephone": "(010)80259099",
+            "detail": 1,
+            "uid": "44de65e58fd30f59c6f50d97"
+        },
+        {
+            "name": "如家酒店(新源里店)",
+            "location": {
+                "lat": 39.953868,
+                "lng": 116.455676
+            },
+            "address": "北京市朝阳区新源西里中街12号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "f4a33da9b145fb103010af06",
+            "telephone": "(010)64666680",
+            "detail": 1,
+            "uid": "8317983de3abcff132870a24"
+        },
+        {
+            "name": "速8酒店(火神庙一中店)",
+            "location": {
+                "lat": 39.732026,
+                "lng": 116.351341
+            },
+            "address": "北京市大兴区兴政街3号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "0100ef7049addaee2cb96dab",
+            "telephone": "(010)69256626",
+            "detail": 1,
+            "uid": "0100ef7049addaee2cb96dab"
+        },
+        {
+            "name": "万方苑国际酒店",
+            "location": {
+                "lat": 39.862706,
+                "lng": 116.38372
+            },
+            "address": "北京市丰台区南三环西路4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "8cba4bb0976d6a9dad045707",
+            "telephone": "(010)67526666",
+            "detail": 1,
+            "uid": "8cba4bb0976d6a9dad045707"
+        },
+        {
+            "name": "速8酒店(万源街地铁站店)",
+            "location": {
+                "lat": 39.807438,
+                "lng": 116.504883
+            },
+            "address": "北京市大兴区天华北街5号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "",
+            "telephone": "(010)67879031",
+            "detail": 1,
+            "uid": "85e1a660c6b0815916a19046"
+        },
+        {
+            "name": "汉庭酒店(水立方店)",
+            "location": {
+                "lat": 39.979457,
+                "lng": 116.396953
+            },
+            "address": "北京市朝阳区裕民路3号院1号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "012edaa3881d8576ede4a5fa",
+            "telephone": "(010)52828055",
+            "detail": 1,
+            "uid": "012edaa3881d8576ede4a5fa"
+        },
+        {
+            "name": "广西大厦",
+            "location": {
+                "lat": 39.878887,
+                "lng": 116.463249
+            },
+            "address": "北京市朝阳区潘家园华威里26号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "0a46dc0f111ad04730621236",
+            "telephone": "(010)67796688",
+            "detail": 1,
+            "uid": "0a46dc0f111ad04730621236"
+        },
+        {
+            "name": "7天酒店(北京师范大学店)",
+            "location": {
+                "lat": 39.967977,
+                "lng": 116.382032
+            },
+            "address": "北京市西城区新风街3号院内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "6a997715323a80a01ce999ef",
+            "telephone": "(010)62035833,(010)62362899",
+            "detail": 1,
+            "uid": "6a997715323a80a01ce999ef"
+        },
+        {
+            "name": "鑫海锦江大酒店",
+            "location": {
+                "lat": 39.922069,
+                "lng": 116.43209
+            },
+            "address": "北京市东城区金宝街61号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "637df60a6500616b40afe6cf",
+            "telephone": "(010)58163388",
+            "detail": 1,
+            "uid": "637df60a6500616b40afe6cf"
+        },
+        {
+            "name": "京泰龙国际大酒店",
+            "location": {
+                "lat": 39.898576,
+                "lng": 116.406413
+            },
+            "address": "北京市东城区珠市口东大街19号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "c5ddcc085c5469dfd81318c4",
+            "detail": 1,
+            "uid": "c5ddcc085c5469dfd81318c4"
+        },
+        {
+            "name": "汉庭酒店(回龙观东大街地铁站店)",
+            "location": {
+                "lat": 40.087045,
+                "lng": 116.365355
+            },
+            "address": "北京市昌平区回龙观东大街5号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "d426eab8e942303ba2d23002",
+            "telephone": "(010)80199899",
+            "detail": 1,
+            "uid": "d426eab8e942303ba2d23002"
+        },
+        {
+            "name": "东方君悦大酒店",
+            "location": {
+                "lat": 39.916116,
+                "lng": 116.42095
+            },
+            "address": "北京市东城区东长安街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "504d6113c1140eaa46572655",
+            "telephone": "(010)85181234,(010)65109000",
+            "detail": 1,
+            "uid": "669775d035a11b42fd0eb03d"
+        },
+        {
+            "name": "格林豪泰快捷酒店(北京房山饶乐府地铁站店)",
+            "location": {
+                "lat": 39.709593,
+                "lng": 116.019936
+            },
+            "address": "北京市房山区京周路城关街道办事处公交站东南50米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "afb38807036e2c1b9fec2b10",
+            "telephone": "(010)81368799,(010)81368599",
+            "detail": 1,
+            "uid": "afb38807036e2c1b9fec2b10"
+        },
+        {
+            "name": "昊天假日酒店",
+            "location": {
+                "lat": 39.749579,
+                "lng": 116.147486
+            },
+            "address": "北京市房山区良乡拱辰北大街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "925c550f80570fab5a3ac80e",
+            "telephone": "(010)89350800",
+            "detail": 1,
+            "uid": "925c550f80570fab5a3ac80e"
+        },
+        {
+            "name": "汉庭酒店(北京欢乐谷店)",
+            "location": {
+                "lat": 39.859872,
+                "lng": 116.490493
+            },
+            "address": "北京市朝阳区十八里店乡周家庄村308号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "2e00c5ddc32b0305d6851f95",
+            "telephone": "(010)67474998",
+            "detail": 1,
+            "uid": "2e00c5ddc32b0305d6851f95"
+        },
+        {
+            "name": "九华山庄贵宾楼酒店",
+            "location": {
+                "lat": 40.162211,
+                "lng": 116.429938
+            },
+            "address": "北京市昌平区立汤路26号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "41572e00e266ffadb45f1e3d",
+            "telephone": "(010)61782288",
+            "detail": 1,
+            "uid": "41572e00e266ffadb45f1e3d"
+        },
+        {
+            "name": "99优选酒店(赵公口店)",
+            "location": {
+                "lat": 39.865205,
+                "lng": 116.420897
+            },
+            "address": "北京市丰台区定安路11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "663737f3b55e69a1aeb22ac4",
+            "telephone": "(010)67682035",
+            "detail": 1,
+            "uid": "663737f3b55e69a1aeb22ac4"
+        },
+        {
+            "name": "北大博雅国际酒店",
+            "location": {
+                "lat": 40.003645,
+                "lng": 116.320356
+            },
+            "address": "北京市海淀区中关村北大街127号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "17c35f53398694db2cb96d3e",
+            "telephone": "(010)82689999",
+            "detail": 1,
+            "uid": "17c35f53398694db2cb96d3e"
+        },
+        {
+            "name": "格林豪泰快捷酒店(同济南路地铁站康定街店)",
+            "location": {
+                "lat": 39.777857,
+                "lng": 116.54451
+            },
+            "address": "北京市通州区康定街18号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "cc46b1ecd811be90c4f50def",
+            "telephone": "(010)62078999",
+            "detail": 1,
+            "uid": "cc46b1ecd811be90c4f50def"
+        },
+        {
+            "name": "速8酒店(北京来广营店)",
+            "location": {
+                "lat": 40.042792,
+                "lng": 116.442294
+            },
+            "address": "北京市朝阳区红军营东路18号朝来荣盛商业中心一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a660f3ef49498c94b13c8179",
+            "telephone": "(010)84955997",
+            "detail": 1,
+            "uid": "a660f3ef49498c94b13c8179"
+        },
+        {
+            "name": "和颐至尚酒店(天坛店)",
+            "location": {
+                "lat": 39.869932,
+                "lng": 116.419869
+            },
+            "address": "北京市东城区安乐林路10号院22号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "4279424d12fdd1397ec87626",
+            "telephone": "(010)67266668",
+            "detail": 1,
+            "uid": "4279424d12fdd1397ec87626"
+        },
+        {
+            "name": "速8精选酒店(北京北苑易事达广场店)",
+            "location": {
+                "lat": 40.04808,
+                "lng": 116.428247
+            },
+            "address": "北京市朝阳区秋实街1号易事达广场7-9层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "2655a838d9c1f42eebe582b3",
+            "telephone": "(010)84821881",
+            "detail": 1,
+            "uid": "2655a838d9c1f42eebe582b3"
+        },
+        {
+            "name": "汉庭酒店(公益东桥店)",
+            "location": {
+                "lat": 39.840357,
+                "lng": 116.393816
+            },
+            "address": "北京市丰台区马家堡东路永外大红门西马场甲14号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "7bc3fc5b336754b76e20b90d",
+            "telephone": "(010)63820888",
+            "detail": 1,
+            "uid": "7bc3fc5b336754b76e20b90d"
+        },
+        {
+            "name": "如家酒店(百子湾地铁站店)",
+            "location": {
+                "lat": 39.904367,
+                "lng": 116.505361
+            },
+            "address": "北京市朝阳区石门中路2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "d5464cf8d7f97b4efda77801",
+            "telephone": "(010)67712211",
+            "detail": 1,
+            "uid": "d5464cf8d7f97b4efda77801"
+        },
+        {
+            "name": "西西友谊酒店",
+            "location": {
+                "lat": 39.920128,
+                "lng": 116.379412
+            },
+            "address": "北京市西城区西单北大街109号西单婚庆大楼F1",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "504d6113c0c409aa46572605",
+            "telephone": "(010)59319898",
+            "detail": 1,
+            "uid": "504d6113c0c409aa46572605"
+        },
+        {
+            "name": "如家酒店(星城商厦店)",
+            "location": {
+                "lat": 39.736685,
+                "lng": 116.345734
+            },
+            "address": "北京市大兴区兴丰大街15号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "9d39ad8c9be0b46e2efaa7aa",
+            "telephone": "(010)69263699",
+            "detail": 1,
+            "uid": "9d39ad8c9be0b46e2efaa7aa"
+        },
+        {
+            "name": "7天酒店(北京传媒大学南门店)",
+            "location": {
+                "lat": 39.911827,
+                "lng": 116.576194
+            },
+            "address": "北京市朝阳区双桥路水郡长安家园2号院7号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "2eb11e52dd18c31eb4f42f8d",
+            "telephone": "(010)65468577",
+            "detail": 1,
+            "uid": "2eb11e52dd18c31eb4f42f8d"
+        },
+        {
+            "name": "北京亚美国际酒店",
+            "location": {
+                "lat": 40.050695,
+                "lng": 116.613579
+            },
+            "address": "北京市顺义区天竺镇首都机场岗山路42号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "3c0b884db45d597cfb22136a",
+            "telephone": "(010)64577373",
+            "detail": 1,
+            "uid": "3c0b884db45d597cfb22136a"
+        },
+        {
+            "name": "北京贵都大酒店",
+            "location": {
+                "lat": 39.895877,
+                "lng": 116.37397
+            },
+            "address": "北京市西城区广安门内大街217号(近教子胡同)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "9df14e49c6e5d714f8dc85f2",
+            "detail": 1,
+            "uid": "9df14e49c6e5d714f8dc85f2"
+        },
+        {
+            "name": "汉庭酒店(西直门店)",
+            "location": {
+                "lat": 39.944961,
+                "lng": 116.37039
+            },
+            "address": "北京市西城区南草厂街11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "4642844a93bcf2c0c9fa5f05",
+            "telephone": "(010)66078585",
+            "detail": 1,
+            "uid": "4642844a93bcf2c0c9fa5f05"
+        },
+        {
+            "name": "金地来大酒店",
+            "location": {
+                "lat": 40.375548,
+                "lng": 116.856945
+            },
+            "address": "北京市密云区新南路86号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "d146b3880d3953c774026937",
+            "detail": 1,
+            "uid": "d146b3880d3953c774026937"
+        },
+        {
+            "name": "锦江之星(北京国际展览中心店)",
+            "location": {
+                "lat": 39.963228,
+                "lng": 116.446562
+            },
+            "address": "北京市朝阳区左家庄北里5号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "750368351378b3b65e0d02d8",
+            "telephone": "(010)64668166",
+            "detail": 1,
+            "uid": "750368351378b3b65e0d02d8"
+        },
+        {
+            "name": "7天酒店(西客站北广场店)",
+            "location": {
+                "lat": 39.902078,
+                "lng": 116.32278
+            },
+            "address": "北京市丰台区莲花池东路126号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "",
+            "telephone": "(010)63977719",
+            "detail": 1,
+            "uid": "1db963d7bc9be42cc4f02572"
+        },
+        {
+            "name": "民族饭店",
+            "location": {
+                "lat": 39.913888,
+                "lng": 116.373269
+            },
+            "address": "北京市西城区复兴门内大街51号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "5cf8b35c1ea39842705e801e",
+            "telephone": "(010)66014466",
+            "detail": 1,
+            "uid": "5cf8b35c1ea39842705e801e"
+        },
+        {
+            "name": "汉庭酒店(北京西站北广场店)",
+            "location": {
+                "lat": 39.901839,
+                "lng": 116.323946
+            },
+            "address": "北京市丰台区莲花池东路120-2号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "fcbc4c929dca3329d418b7b9",
+            "telephone": "(010)51761111",
+            "detail": 1,
+            "uid": "fcbc4c929dca3329d418b7b9"
+        },
+        {
+            "name": "7天优品酒店(北京劲松地铁站店)",
+            "location": {
+                "lat": 39.887803,
+                "lng": 116.464829
+            },
+            "address": "北京市朝阳区劲松南路5号楼内",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "ffd6d4039c03869617b54b0b",
+            "telephone": "(010)87722388",
+            "detail": 1,
+            "uid": "ffd6d4039c03869617b54b0b"
+        },
+        {
+            "name": "侨园饭店",
+            "location": {
+                "lat": 39.875464,
+                "lng": 116.382959
+            },
+            "address": "北京市丰台区右安门外开阳东路6号侨园饭店",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "3f9337d6143aeeaaf723107c",
+            "telephone": "(010)63038861",
+            "detail": 1,
+            "uid": "3f9337d6143aeeaaf723107c"
+        },
+        {
+            "name": "速8酒店(西直门店)",
+            "location": {
+                "lat": 39.945908,
+                "lng": 116.352531
+            },
+            "address": "北京市西城区西外大街德宝新园11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "bd1e6dfe81f93386de1e52c7",
+            "telephone": "(010)68367008,(010)68367010,(010)68367011",
+            "detail": 1,
+            "uid": "bd1e6dfe81f93386de1e52c7"
+        },
+        {
+            "name": "汉庭酒店(北京站店)",
+            "location": {
+                "lat": 39.894202,
+                "lng": 116.452005
+            },
+            "address": "北京市朝阳区广渠门南滨河路劲松九区907号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "b743c06405bbc2f05a3ac891",
+            "telephone": "(010)67765566",
+            "detail": 1,
+            "uid": "29fda296a1ce26275cbe86ce"
+        },
+        {
+            "name": "富驿时尚酒店(中关村店)",
+            "location": {
+                "lat": 39.990348,
+                "lng": 116.311066
+            },
+            "address": "北京市海淀区北四环西路68号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "d146b3880d4e53c774026904",
+            "telephone": "(010)58986688",
+            "detail": 1,
+            "uid": "d146b3880d4e53c774026904"
+        },
+        {
+            "name": "北京亚奥国际酒店",
+            "location": {
+                "lat": 40.007121,
+                "lng": 116.377818
+            },
+            "address": "北京市朝阳区北沙滩大屯路甲1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "f633606ad54f64570b69d919",
+            "telephone": "(010)64874433",
+            "detail": 1,
+            "uid": "f633606ad54f64570b69d919"
+        },
+        {
+            "name": "北农酒店(北农路店)",
+            "location": {
+                "lat": 40.096984,
+                "lng": 116.312056
+            },
+            "address": "北京市昌平区北农路7号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "2a7a25ec4b38e57a6c3e1b34",
+            "telephone": "(010)80797788",
+            "detail": 1,
+            "uid": "2a7a25ec4b38e57a6c3e1b34"
+        },
+        {
+            "name": "速8酒店(北京七里庄店)",
+            "location": {
+                "lat": 39.876038,
+                "lng": 116.300151
+            },
+            "address": "北京市丰台区万丰路300号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "a839b71890ddd9c16e20b938",
+            "telephone": "(010)52370602",
+            "detail": 1,
+            "uid": "a839b71890ddd9c16e20b938"
+        },
+        {
+            "name": "如家酒店(朝阳公园店)",
+            "location": {
+                "lat": 39.941431,
+                "lng": 116.509375
+            },
+            "address": "北京市朝阳区石佛营路石佛营东里小区105号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "3be122e1a74b35511ef74d51",
+            "telephone": "(010)85833388",
+            "detail": 1,
+            "uid": "3be122e1a74b35511ef74d51"
+        },
+        {
+            "name": "北京香江戴斯酒店",
+            "location": {
+                "lat": 39.9162,
+                "lng": 116.41206
+            },
+            "address": "北京市东城区南河沿大街南湾子胡同1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "d0b8923fcbb54ffbb5f42f07",
+            "telephone": "(010)65127788",
+            "detail": 1,
+            "uid": "d0b8923fcbb54ffbb5f42f07"
+        },
+        {
+            "name": "格林豪泰商务酒店(北京林萃路店)",
+            "location": {
+                "lat": 40.03977,
+                "lng": 116.37898
+            },
+            "address": "北京市海淀区黑泉路观景园小区西侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "ca79011f36cb00782202202f",
+            "telephone": "(010)82830998,(010)82816660",
+            "detail": 1,
+            "uid": "ca79011f36cb00782202202f"
+        },
+        {
+            "name": "舒客优酒店",
+            "location": {
+                "lat": 39.822231,
+                "lng": 116.548297
+            },
+            "address": "北京市通州区亦庄光机电产业园区科创东三街11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "6c44a3d4e3770a4dbd48427a",
+            "telephone": "18601136338",
+            "detail": 1,
+            "uid": "6c44a3d4e3770a4dbd48427a"
+        },
+        {
+            "name": "99优选酒店(北苑地铁站店)",
+            "location": {
+                "lat": 39.913173,
+                "lng": 116.642902
+            },
+            "address": "北京市通州区新华西街与北苑北路交口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "84d08f98fbf512ef2ce67ba5",
+            "telephone": "(010)69543237",
+            "detail": 1,
+            "uid": "84d08f98fbf512ef2ce67ba5"
+        },
+        {
+            "name": "易佰连锁旅店(北京南站店)",
+            "location": {
+                "lat": 39.869986,
+                "lng": 116.38625
+            },
+            "address": "北京市丰台区永外大街12号北京南站B1层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "c6e283a8924fafd6b5f42f94",
+            "telephone": "(010)83100910",
+            "detail": 1,
+            "uid": "c6e283a8924fafd6b5f42f94"
+        },
+        {
+            "name": "花园饭店",
+            "location": {
+                "lat": 39.983202,
+                "lng": 116.378171
+            },
+            "address": "北京市海淀区花园东路30号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "88e7bea6d5f7e2b10782c229",
+            "telephone": "(010)62011188",
+            "detail": 1,
+            "uid": "88e7bea6d5f7e2b10782c229"
+        },
+        {
+            "name": "布丁酒店(十八里店南桥店)",
+            "location": {
+                "lat": 39.845708,
+                "lng": 116.476581
+            },
+            "address": "北京市朝阳区南桥吕营大街观筑庭园801号楼B座一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "08a036fec51e21441188244c",
+            "telephone": "(010)87678488,(010)87641820",
+            "detail": 1,
+            "uid": "08a036fec51e21441188244c"
+        },
+        {
+            "name": "如家酒店(广安门内地铁站店)",
+            "location": {
+                "lat": 39.89889,
+                "lng": 116.363719
+            },
+            "address": "北京市西城区广义街4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "b7caa2920d9a570e4351c05c",
+            "telephone": "(010)63178688",
+            "detail": 1,
+            "uid": "b7caa2920d9a570e4351c05c"
+        },
+        {
+            "name": "汉庭优佳酒店(北京首都机场店)",
+            "location": {
+                "lat": 40.067783,
+                "lng": 116.592924
+            },
+            "address": "北京市顺义区府前二街1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "dbcc047e645364af0b69d9a9",
+            "telephone": "(010)84166969",
+            "detail": 1,
+            "uid": "dbcc047e645364af0b69d9a9"
+        },
+        {
+            "name": "海友酒店(明光桥店)",
+            "location": {
+                "lat": 39.963056,
+                "lng": 116.358873
+            },
+            "address": "北京市海淀区学院南路40号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "24284d7f2cc4a3848bdb7305",
+            "telephone": "(010)62222196",
+            "detail": 1,
+            "uid": "24284d7f2cc4a3848bdb7305"
+        },
+        {
+            "name": "海友酒店(天华西路店)",
+            "location": {
+                "lat": 39.803385,
+                "lng": 116.499336
+            },
+            "address": "北京市大兴区天华西路天华园一里四区10号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "a6ff08ebdc299dee2bb97c70",
+            "telephone": "(010)87163133",
+            "detail": 1,
+            "uid": "a6ff08ebdc299dee2bb97c70"
+        },
+        {
+            "name": "便宜居连锁酒店(北京大成路店)",
+            "location": {
+                "lat": 39.894482,
+                "lng": 116.252805
+            },
+            "address": "北京市丰台区吴家村路甲8号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "923ffd003d736fc9d82f28b2",
+            "telephone": "(010)52971999",
+            "detail": 1,
+            "uid": "923ffd003d736fc9d82f28b2"
+        },
+        {
+            "name": "北京鸿炜亿家连锁酒店(右安门店)",
+            "location": {
+                "lat": 39.8823,
+                "lng": 116.370056
+            },
+            "address": "北京市西城区右安门内大街59号1幢(右安门内大街与新安中里交汇处)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "78bd50f72999d04231870ad8",
+            "telephone": "(010)63538353",
+            "detail": 1,
+            "uid": "78bd50f72999d04231870ad8"
+        },
+        {
+            "name": "格林豪泰快捷酒店(太平庄东路店)",
+            "location": {
+                "lat": 40.080887,
+                "lng": 116.44395
+            },
+            "address": "北京市昌平区天通苑东三区商业2号楼13门",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "d06b92e545198f5336b06cfb",
+            "telephone": "(010)80781998",
+            "detail": 1,
+            "uid": "d06b92e545198f5336b06cfb"
+        },
+        {
+            "name": "北京中航泊悦酒店(霄云路店)",
+            "location": {
+                "lat": 39.962862,
+                "lng": 116.470219
+            },
+            "address": "北京市朝阳区霄云路36号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "e96b4420e58e414082288a30",
+            "telephone": "(010)64689999",
+            "detail": 1,
+            "uid": "e96b4420e58e414082288a30"
+        },
+        {
+            "name": "金泰之家连锁酒店(劲松店)",
+            "location": {
+                "lat": 39.891821,
+                "lng": 116.455287
+            },
+            "address": "北京市朝阳区广和南里二条9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a1418eb47784897feae582bf",
+            "telephone": "(010)67747168",
+            "detail": 1,
+            "uid": "a1418eb47784897feae582bf"
+        },
+        {
+            "name": "德宝饭店",
+            "location": {
+                "lat": 39.945742,
+                "lng": 116.354894
+            },
+            "address": "北京市西城区西直门外大街22号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "fa01e9371d450753774ff105",
+            "telephone": "(010)68318866",
+            "detail": 1,
+            "uid": "fa01e9371d450753774ff105"
+        },
+        {
+            "name": "北京国汉鸿伟宾馆",
+            "location": {
+                "lat": 39.801127,
+                "lng": 116.375157
+            },
+            "address": "北京市丰台区槐房西路南口1号(与西红门路交汇处)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "89fd4ea321f90f5ee4e965f3",
+            "telephone": "(010)67957288",
+            "detail": 1,
+            "uid": "89fd4ea321f90f5ee4e965f3"
+        },
+        {
+            "name": "北京莱悦清行酒店(天通苑店)",
+            "location": {
+                "lat": 40.083977,
+                "lng": 116.418782
+            },
+            "address": "北京市昌平区天通西苑三区26号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "177c8a8c49164af6c9e33c8c",
+            "telephone": "(010)64110771",
+            "detail": 1,
+            "uid": "177c8a8c49164af6c9e33c8c"
+        },
+        {
+            "name": "锦江之星品尚(东直门使馆区店)",
+            "location": {
+                "lat": 39.95282,
+                "lng": 116.452493
+            },
+            "address": "北京市朝阳区新源西里中街23号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "a814ecc60fcbd66f4bcc4a4f",
+            "telephone": "(010)64663988",
+            "detail": 1,
+            "uid": "a814ecc60fcbd66f4bcc4a4f"
+        },
+        {
+            "name": "鸿岗达商务酒店",
+            "location": {
+                "lat": 39.840147,
+                "lng": 116.30159
+            },
+            "address": "恒富中街9号(怡海花园西门向西100米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "38b94608b1f92b2440ab9a47",
+            "telephone": "(010)63796838",
+            "detail": 1,
+            "uid": "38b94608b1f92b2440ab9a47"
+        },
+        {
+            "name": "斯维登度假酒店(红云阁店)",
+            "location": {
+                "lat": 39.954898,
+                "lng": 116.419999
+            },
+            "address": "北京市东城区安定门东大街57号(地铁5号线雍和宫站E口直行200米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "faa8039fe4c082f10b69d9f9",
+            "telephone": "(010)64056119",
+            "detail": 1,
+            "uid": "faa8039fe4c082f10b69d9f9"
+        },
+        {
+            "name": "汇商阁商务酒店(大红门地铁站店)",
+            "location": {
+                "lat": 39.843668,
+                "lng": 116.407829
+            },
+            "address": "北京市丰台区南苑路与大红门路交叉路口北侧(亨泰写字楼)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "373cf757a1fe65774254d7e8",
+            "telephone": "15210906657",
+            "detail": 1,
+            "uid": "373cf757a1fe65774254d7e8"
+        },
+        {
+            "name": "太平龙逸宾馆",
+            "location": {
+                "lat": 39.738679,
+                "lng": 116.128312
+            },
+            "address": "北京市房山区良乡太平庄村1幢",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "8e64e68d7fe5dbcf130daa80",
+            "telephone": "(010)89350111",
+            "detail": 1,
+            "uid": "8e64e68d7fe5dbcf130daa80"
+        },
+        {
+            "name": "北京考拉酒店(文慧园斜街店)",
+            "location": {
+                "lat": 39.957662,
+                "lng": 116.369101
+            },
+            "address": "北京市海淀区文慧园斜街9号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "b82c3a73fae403872811d17b",
+            "telephone": "(010)62226599",
+            "detail": 1,
+            "uid": "b82c3a73fae403872811d17b"
+        },
+        {
+            "name": "海友酒店(北京火车站店)",
+            "location": {
+                "lat": 39.909068,
+                "lng": 116.43915
+            },
+            "address": "北京市东城区盔甲厂胡同4号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "61f616c7fe080754ce04ef3a",
+            "telephone": "(010)65243257",
+            "detail": 1,
+            "uid": "61f616c7fe080754ce04ef3a"
+        },
+        {
+            "name": "北京昆伯商务酒店",
+            "location": {
+                "lat": 39.938759,
+                "lng": 116.175234
+            },
+            "address": "北京市石景山区金顶北街59号院甲1栋4层401",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "89f01818a937dc51b13c81fd",
+            "telephone": "(010)88731688",
+            "detail": 1,
+            "uid": "89f01818a937dc51b13c81fd"
+        },
+        {
+            "name": "顺天盛宾馆",
+            "location": {
+                "lat": 40.080653,
+                "lng": 116.439271
+            },
+            "address": "北京市昌平区天通苑北三区34号楼4单元102号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "13c33cc45a9cc668afee7abf",
+            "detail": 1,
+            "uid": "13c33cc45a9cc668afee7abf"
+        },
+        {
+            "name": "世家精品酒店",
+            "location": {
+                "lat": 39.940569,
+                "lng": 116.470112
+            },
+            "address": "北京市朝阳区农展馆南里12号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "3810c8799c18a2929d09f7e3",
+            "detail": 1,
+            "uid": "3810c8799c18a2929d09f7e3"
+        },
+        {
+            "name": "勿忘我商务酒店",
+            "location": {
+                "lat": 39.715427,
+                "lng": 115.989989
+            },
+            "address": "北京市房山区城关北大街50号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "(010)89332169",
+            "detail": 1,
+            "uid": "cdb1be532ac154e85d17c343"
+        },
+        {
+            "name": "唐府酒店(锣鼓巷店)",
+            "location": {
+                "lat": 39.947791,
+                "lng": 116.41438
+            },
+            "address": "北京市东城区安定门内大街291号(交道口东大街与安定门内大街交汇地带)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "d4034eb30b32acefc13644fa",
+            "telephone": "(010)84010296",
+            "detail": 1,
+            "uid": "d4034eb30b32acefc13644fa"
+        },
+        {
+            "name": "团圆假日饭店",
+            "location": {
+                "lat": 40.33746,
+                "lng": 116.63596
+            },
+            "address": "北京市怀柔区青春路45号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "怀柔区",
+            "street_id": "6ed3083af33e1fae2b3a9f34",
+            "detail": 1,
+            "uid": "6ed3083af33e1fae2b3a9f34"
+        },
+        {
+            "name": "北京安贞医院途家公寓",
+            "location": {
+                "lat": 39.978944,
+                "lng": 116.407295
+            },
+            "address": "北京朝阳区安贞西里五区一号楼(邮政楼上)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "9f427cdfefa4594d8b2fb541",
+            "telephone": "13716858674",
+            "detail": 1,
+            "uid": "9f427cdfefa4594d8b2fb541"
+        },
+        {
+            "name": "九凯宾馆",
+            "location": {
+                "lat": 39.910029,
+                "lng": 116.669254
+            },
+            "address": "北京市通州区车站路46号(通州车站路中仓小区西侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "50fb64ffff2e6b44e9f85328",
+            "detail": 1,
+            "uid": "50fb64ffff2e6b44e9f85328"
+        },
+        {
+            "name": "北京简约时尚公寓(原果然时尚公寓)",
+            "location": {
+                "lat": 40.050778,
+                "lng": 116.615061
+            },
+            "address": "北京市顺义区岗山路42号13栋B座附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "顺义区",
+            "street_id": "9f23f0dda303ad5d1c3894d5",
+            "telephone": "15101602102",
+            "detail": 1,
+            "uid": "9f23f0dda303ad5d1c3894d5"
+        }
+    ]
+}

@@ -1,0 +1,987 @@
+{
+    "list": [
+        {
+            "name": "龙熙房地产",
+            "location": {
+                "lat": 39.737639,
+                "lng": 116.333112
+            },
+            "address": "北京市大兴区黄村西大街99号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "49d959383f8ac442c61e5172",
+            "telephone": "(010)69258681",
+            "detail": 1,
+            "uid": "49d959383f8ac442c61e5172"
+        },
+        {
+            "name": "麦田房产(显龙山路店)",
+            "location": {
+                "lat": 40.054998,
+                "lng": 116.185192
+            },
+            "address": "北京市海淀区西北旺显龙山路19号1幢1层a座",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "4a079fd726331470246e9805",
+            "detail": 1,
+            "uid": "4a079fd726331470246e9805"
+        },
+        {
+            "name": "宇盛房地产",
+            "location": {
+                "lat": 39.773459,
+                "lng": 116.170551
+            },
+            "address": "长阳镇加州水郡西区2号门披萨店西侧",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "3df7cbf163d4cf66ca291518",
+            "detail": 1,
+            "uid": "3df7cbf163d4cf66ca291518"
+        },
+        {
+            "name": "新镇房地产",
+            "location": {
+                "lat": 39.739921,
+                "lng": 116.066111
+            },
+            "address": "北京市房山区阎河路与原新东路交叉路口西侧(金太阳双语幼儿园东侧约50米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "78e23e43892625bc4054d774"
+        },
+        {
+            "name": "北京城建和泰房地产开发有限责任公司",
+            "location": {
+                "lat": 39.719756,
+                "lng": 116.137706
+            },
+            "address": "良乡凯旋大街54号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "422c418f023fac0cadb22ab7"
+        },
+        {
+            "name": "兴城丽源房地产开发公司",
+            "location": {
+                "lat": 39.758609,
+                "lng": 116.325009
+            },
+            "address": "丽园b区27号楼底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "33fbfa83bd1ca7c10bf5ebe6",
+            "detail": 1,
+            "uid": "33fbfa83bd1ca7c10bf5ebe6"
+        },
+        {
+            "name": "宏创房地产",
+            "location": {
+                "lat": 39.93525,
+                "lng": 116.284939
+            },
+            "address": "八里庄街道八里庄路61号东3号亮",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "detail": 1,
+            "uid": "acaac79ff92079b733621292"
+        },
+        {
+            "name": "永泰房地产集团有限公司(四季青路)",
+            "location": {
+                "lat": 39.960435,
+                "lng": 116.277608
+            },
+            "address": "北京市海淀区四季青路七号院一号楼102",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "7c36bbc1d3859750c51b75a5",
+            "telephone": "(010)88498888",
+            "detail": 1,
+            "uid": "7c36bbc1d3859750c51b75a5"
+        },
+        {
+            "name": "中海云筑中海地产",
+            "location": {
+                "lat": 39.636361,
+                "lng": 116.314561
+            },
+            "address": "北京市大兴区团结路与隆昌大街北段交叉路口往西约100米(龙景湾四区西北侧约50米)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "telephone": "17800852946",
+            "detail": 1,
+            "uid": "d4cde874f4bb682c4c6d46dc"
+        },
+        {
+            "name": "北方地产大厦",
+            "location": {
+                "lat": 39.953352,
+                "lng": 116.3047
+            },
+            "address": "北京市海淀区紫竹院路81号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "b703e96b4616b3fa8e1a89af",
+            "detail": 1,
+            "uid": "b703e96b4616b3fa8e1a89af"
+        },
+        {
+            "name": "长辛店太子裕周转房",
+            "location": {
+                "lat": 39.859776,
+                "lng": 116.180825
+            },
+            "address": "北京市丰台区太子峪路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "87330414d33ed15d725e809d",
+            "detail": 1,
+            "uid": "87330414d33ed15d725e809d"
+        },
+        {
+            "name": "张家场周转房",
+            "location": {
+                "lat": 39.755328,
+                "lng": 116.205061
+            },
+            "address": "长阳路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "32b6fec13661470b4bcc4a6d"
+        },
+        {
+            "name": "北京市石景山区房产交易中心",
+            "location": {
+                "lat": 39.931896,
+                "lng": 116.202639
+            },
+            "address": "今鼎时代广场D座4层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "04968ebafb928daa88db73b7"
+        },
+        {
+            "name": "金泰地产大厦",
+            "location": {
+                "lat": 39.874723,
+                "lng": 116.348165
+            },
+            "address": "北京市丰台区丽泽路5号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "287de15526b2e50cd81318da",
+            "telephone": "(010)63386802",
+            "detail": 1,
+            "uid": "287de15526b2e50cd81318da"
+        },
+        {
+            "name": "羊头岗周转房",
+            "location": {
+                "lat": 39.728698,
+                "lng": 116.022544
+            },
+            "address": "北京市房山区城关街道大件路羊头岗新村东南200米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "f2243ec90cd42b7d87154189"
+        },
+        {
+            "name": "北京市石景山区不动产登记事务中心",
+            "location": {
+                "lat": 39.931768,
+                "lng": 116.202744
+            },
+            "address": "北京市石景山区阜石路165号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "telephone": "(010)68865488",
+            "detail": 1,
+            "uid": "6aff394f33db72829b68b406"
+        },
+        {
+            "name": "亚林西保障房",
+            "location": {
+                "lat": 39.863759,
+                "lng": 116.36529
+            },
+            "address": "北京市丰台区福宜街与西铁营中路交叉路口往东约100米(亚林西西街西北侧)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "527bbf005dc06df5a8f0cde7",
+            "detail": 1,
+            "uid": "527bbf005dc06df5a8f0cde7"
+        },
+        {
+            "name": "北京市房山区不动产登记事务中心",
+            "location": {
+                "lat": 39.770221,
+                "lng": 116.171093
+            },
+            "address": "昊天北大街38号CSD二号门1层大厅",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "(010)81312689",
+            "detail": 1,
+            "uid": "25cbd5c487047badf503b858"
+        },
+        {
+            "name": "房山金林嘉苑共有产权房(在建)",
+            "location": {
+                "lat": 39.718875,
+                "lng": 116.134056
+            },
+            "address": "北京市房山区翠柳南街与良园二路交叉口东北150米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "17310815120",
+            "detail": 1,
+            "uid": "282533ab9cc575659cec2bc2"
+        },
+        {
+            "name": "华升房地产",
+            "location": {
+                "lat": 39.728567,
+                "lng": 116.175638
+            },
+            "address": "北京市房山区长虹东路辅路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "cee66f2241ee56f0babd63b7"
+        },
+        {
+            "name": "北京景西房地产开发有限公司",
+            "location": {
+                "lat": 39.973611,
+                "lng": 116.131904
+            },
+            "address": "北京市石景山区隆恩寺路28号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "1d68121482b28ace0f0e6b94"
+        },
+        {
+            "name": "北京一诺房地产经纪有限公司",
+            "location": {
+                "lat": 40.050306,
+                "lng": 116.191328
+            },
+            "address": "北京市海淀区温泉路67号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "detail": 1,
+            "uid": "13c1f46524079427a8059db3"
+        },
+        {
+            "name": "北京石开房地产开发有限公司",
+            "location": {
+                "lat": 39.909291,
+                "lng": 116.215956
+            },
+            "address": "体育场南路2号景阳宏昌大厦6-7层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "88c054f25538dc60f6c59c2e",
+            "detail": 1,
+            "uid": "88c054f25538dc60f6c59c2e"
+        },
+        {
+            "name": "麦田房产(郦城店)",
+            "location": {
+                "lat": 39.959863,
+                "lng": 116.278024
+            },
+            "address": "常青园路8号四季青桥北",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "2a463e0c5cc31e08abf72964",
+            "telephone": "(010)88493731",
+            "detail": 1,
+            "uid": "2a463e0c5cc31e08abf72964"
+        },
+        {
+            "name": "北京长龙房地产开发有限公司",
+            "location": {
+                "lat": 39.811782,
+                "lng": 116.215203
+            },
+            "address": "北京市房山区京深路与001县道交叉口西南100米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "70bfa8e030ec9597a8059de7",
+            "detail": 1,
+            "uid": "70bfa8e030ec9597a8059de7"
+        },
+        {
+            "name": "正元天宇房地产",
+            "location": {
+                "lat": 39.789123,
+                "lng": 116.296895
+            },
+            "address": "北京市大兴区芦花路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "121885d76120112f1894c6e4"
+        },
+        {
+            "name": "北京稻香四季房地产开发有限公司",
+            "location": {
+                "lat": 39.807319,
+                "lng": 116.224422
+            },
+            "address": "北京市房山区长阳镇长韩路10号院1号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "(010)56452755",
+            "detail": 1,
+            "uid": "9863f3a81fc4e79d0782c27e"
+        },
+        {
+            "name": "北京住总京房房地产开发有限公司",
+            "location": {
+                "lat": 39.603598,
+                "lng": 116.025648
+            },
+            "address": "北京市房山区琉璃河镇琉璃河检查站公交旁",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "2ad06aebe1ec53ee15a19047"
+        },
+        {
+            "name": "润泽佳业房产",
+            "location": {
+                "lat": 39.914425,
+                "lng": 116.205973
+            },
+            "address": "八角西街66号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "f2a9055d13c18239213bf254"
+        },
+        {
+            "name": "宾昊轩房地产",
+            "location": {
+                "lat": 39.966511,
+                "lng": 116.276971
+            },
+            "address": "四季青和泓四季6号楼底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "6b28a13fd78d5aafa11de988",
+            "telephone": "13910885643",
+            "detail": 1,
+            "uid": "6b28a13fd78d5aafa11de988"
+        },
+        {
+            "name": "中铁二十二局集团房地产开发有限公司",
+            "location": {
+                "lat": 39.944983,
+                "lng": 116.199195
+            },
+            "address": "实兴大街30号院6号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "125831bfb5a1df8ceb56fa59"
+        },
+        {
+            "name": "中合联宇房地产开发有限公司",
+            "location": {
+                "lat": 39.950263,
+                "lng": 116.100633
+            },
+            "address": "门头沟区门头沟路24号2幢",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "1b19d24fb87662dea0acc4e9",
+            "telephone": "(010)69827188",
+            "detail": 1,
+            "uid": "1b19d24fb87662dea0acc4e9"
+        },
+        {
+            "name": "中铁房地产集团设计咨询有限公司",
+            "location": {
+                "lat": 39.912375,
+                "lng": 116.192015
+            },
+            "address": "古城街道金融街(长安)中心1号楼8层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "daf37a80d428eafc3913fdf2",
+            "detail": 1,
+            "uid": "daf37a80d428eafc3913fdf2"
+        },
+        {
+            "name": "中国铁建房地产集团有限公司",
+            "location": {
+                "lat": 39.926588,
+                "lng": 116.207091
+            },
+            "address": "北京市石景山区阜石路166号泽洋大厦717H3",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "street_id": "8a270f126f838bceae080f18",
+            "detail": 1,
+            "uid": "8a270f126f838bceae080f18"
+        },
+        {
+            "name": "北京市门头沟区不动产登记事务中心",
+            "location": {
+                "lat": 39.945621,
+                "lng": 116.10978
+            },
+            "address": "北京市门头沟区新桥大街48号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "3d790814ef66148f100daaef",
+            "telephone": "(010)69829621,(010)69861022",
+            "detail": 1,
+            "uid": "3d790814ef66148f100daaef"
+        },
+        {
+            "name": "西辛房村",
+            "location": {
+                "lat": 39.936716,
+                "lng": 116.077659
+            },
+            "address": "北京市门头沟区西辛房后街44号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "f0e1eb468b554503b7265528",
+            "detail": 1,
+            "uid": "f0e1eb468b554503b7265528"
+        },
+        {
+            "name": "三师经适房",
+            "location": {
+                "lat": 39.948472,
+                "lng": 116.28659
+            },
+            "address": "北京市海淀区西四环北路116号北70米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "8b6396547e867f849e95de33",
+            "detail": 1,
+            "uid": "8b6396547e867f849e95de33"
+        },
+        {
+            "name": "日兴房地产",
+            "location": {
+                "lat": 39.776043,
+                "lng": 116.177152
+            },
+            "address": "长阳镇昊天北大街48号加州水郡金桥酒店B座14层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "bbdbee3de212989c6240a9ac",
+            "detail": 1,
+            "uid": "bbdbee3de212989c6240a9ac"
+        },
+        {
+            "name": "吴家场经济适用房",
+            "location": {
+                "lat": 39.902312,
+                "lng": 116.306096
+            },
+            "address": "北京市海淀区莲花池西路辅路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "737dffe35893cf386cc02c18",
+            "detail": 1,
+            "uid": "737dffe35893cf386cc02c18"
+        },
+        {
+            "name": "北京乐家置业房地产有限公司",
+            "location": {
+                "lat": 39.888355,
+                "lng": 116.335482
+            },
+            "address": "北京市西城区世纪茶贸中心2号楼2层2单元223",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "telephone": "(010)63268672",
+            "detail": 1,
+            "uid": "355abc4e0951169beddfcaa9"
+        },
+        {
+            "name": "我爱我家房地产公司",
+            "location": {
+                "lat": 39.756514,
+                "lng": 116.186847
+            },
+            "address": "长阳镇碧波园1号楼底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "726f661468a9aa36bca822be",
+            "detail": 1,
+            "uid": "726f661468a9aa36bca822be"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.636907,
+                "lng": 116.320225
+            },
+            "address": "北京市大兴区隆兴大街与团结路交叉路口往东北约50米(富力飞常HAOS)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "telephone": "(010)59258604",
+            "detail": 1,
+            "uid": "67d104bee30b6e93213bf20d"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 40.055311,
+                "lng": 116.180214
+            },
+            "address": "北京市海淀区双坡路与御风路交叉路口往北约50米(温泉凯盛家园-一区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "detail": 1,
+            "uid": "ac521ee4bdd48ee9601c673e"
+        },
+        {
+            "name": "世纪不动产",
+            "location": {
+                "lat": 39.93302,
+                "lng": 116.339842
+            },
+            "address": "北京市海淀区甘家口北街与三里河路交叉路口往西北约50米(甘家口大厦)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "detail": 1,
+            "uid": "e9ffd417eb67691632870a6b"
+        },
+        {
+            "name": "21世纪房产",
+            "location": {
+                "lat": 39.761916,
+                "lng": 115.97099
+            },
+            "address": "东风三巷5号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "006cf9ac2aab1caa882fb5ba"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.700114,
+                "lng": 115.990429
+            },
+            "address": "北京市房山区永安路与房山南大街交叉路口西侧(永安路住宅区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "833cef5b30e2b22f62685823"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.852285,
+                "lng": 116.240463
+            },
+            "address": "卢沟桥南里10号院7号楼5-101",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "85710169de72cc3aeaf853cc",
+            "detail": 1,
+            "uid": "85710169de72cc3aeaf853cc"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.679844,
+                "lng": 116.327253
+            },
+            "address": "北京市大兴区华佗路与新源大街交叉路口北侧(保利春天里)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "d99466ac7912bdc89ff77984"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.727186,
+                "lng": 116.353776
+            },
+            "address": "北京市大兴区京开辅路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "c4b55d5eb2622544deee8b95"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.942203,
+                "lng": 116.258834
+            },
+            "address": "北京市海淀区旱河路椿楸嘉园小区南门",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "telephone": "13717675812",
+            "detail": 1,
+            "uid": "52e677de12ee5defcac3db54"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.847939,
+                "lng": 116.296716
+            },
+            "address": "北京市丰台区新华街四里6号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "detail": 1,
+            "uid": "bbc4b8974113672d1fe99933"
+        },
+        {
+            "name": "银昌日盛房地产",
+            "location": {
+                "lat": 39.843387,
+                "lng": 116.29756
+            },
+            "address": "北京市丰台区科兴路韩庄子三里9号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "detail": 1,
+            "uid": "9cbfb814913bb756240bd094"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.735003,
+                "lng": 116.164727
+            },
+            "address": "良乡阳光邑上南门底商45-9",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "a0577c9ce178cf232b3a9f8b"
+        },
+        {
+            "name": "麦田房产(鲁谷村路店)",
+            "location": {
+                "lat": 39.906238,
+                "lng": 116.247469
+            },
+            "address": "远洋山水南区22号楼22-2底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "telephone": "13651010651",
+            "detail": 1,
+            "uid": "cd83e4f8ce1fd5179cec2b7e"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.935997,
+                "lng": 116.230659
+            },
+            "address": "北京市海淀区碧桐园小区3号楼111室",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "a3920f294f3f65289fec2b72",
+            "telephone": "4000870021",
+            "detail": 1,
+            "uid": "a3920f294f3f65289fec2b72"
+        },
+        {
+            "name": "北京市石景山区税务局第三税务所(不动产交易专业厅)",
+            "location": {
+                "lat": 39.934005,
+                "lng": 116.203718
+            },
+            "address": "石景山区杨庄东街51号一层",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "telephone": "(010)68862198",
+            "detail": 1,
+            "uid": "e2ab67cf05bafb860c0a70ba"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.868955,
+                "lng": 116.30681
+            },
+            "address": "北京市丰台区泥洼路16号附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "detail": 1,
+            "uid": "c2c6240b9ae54bab4302459d"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.677323,
+                "lng": 116.075925
+            },
+            "address": "北京市房山区X007(大窦路)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "72715a882f2b1df6c9c3db53"
+        },
+        {
+            "name": "21世纪不动产(水墨林溪店)",
+            "location": {
+                "lat": 39.692445,
+                "lng": 116.072912
+            },
+            "address": "窦店镇大窦路腾龙家园底商物业南200米",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "15699739780",
+            "detail": 1,
+            "uid": "d0f22e6a97787a49f90cadc6"
+        },
+        {
+            "name": "21世纪不动产(新居里店)",
+            "location": {
+                "lat": 39.74542,
+                "lng": 116.362912
+            },
+            "address": "北京市大兴区",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "911b570b043243991e5800ae"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.727075,
+                "lng": 116.154657
+            },
+            "address": "长虹东路16号瑞雪春堂二里19号楼底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "e378eac05feacd8980a00cce"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.824624,
+                "lng": 116.338292
+            },
+            "address": "北京市丰台区六圈路与银地西路交叉路口往南约100米(银地家园-B区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "e028b0cf8755be9efd0eb0fa",
+            "detail": 1,
+            "uid": "e028b0cf8755be9efd0eb0fa"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.773618,
+                "lng": 116.172192
+            },
+            "address": "北京市房山区长阳加州水郡生活广场2层附近",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "telephone": "15699858170",
+            "detail": 1,
+            "uid": "4455cd8212cc2679adb22a7f"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.90317,
+                "lng": 116.247646
+            },
+            "address": "远洋山水34号楼底商34-5",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "e1a67290a3544826343a7139"
+        },
+        {
+            "name": "深信乐居房地产有限公司",
+            "location": {
+                "lat": 39.923215,
+                "lng": 116.204747
+            },
+            "address": "北京市石景山区八角北路与杨庄东街交叉路口西南侧(石景山杨庄小区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "石景山区",
+            "detail": 1,
+            "uid": "76d533dcd132eb7f90114ce9"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.853179,
+                "lng": 116.237065
+            },
+            "address": "北京市丰台区卢沟桥宛平城镇晓月东路新月家园7号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "detail": 1,
+            "uid": "455160607eb14489a6da39a3"
+        },
+        {
+            "name": "21世纪不动产",
+            "location": {
+                "lat": 39.705318,
+                "lng": 116.304055
+            },
+            "address": "北京市大兴区文新南街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "550638da541ea230b7265541"
+        },
+        {
+            "name": "21世纪不动产(保利春天里店)",
+            "location": {
+                "lat": 39.67648,
+                "lng": 116.327156
+            },
+            "address": "北京市大兴区新源大街与思邈路交叉路口北侧(保利春天里)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "detail": 1,
+            "uid": "560e96ed2221678149cc4a8a"
+        },
+        {
+            "name": "21世纪不动产(绿城百合店)",
+            "location": {
+                "lat": 39.718445,
+                "lng": 116.081041
+            },
+            "address": "北京市房山区绿城百合公寓北区底商",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "ce982f27e8bb66363010afc8"
+        },
+        {
+            "name": "21世纪不动产(磁各庄店)",
+            "location": {
+                "lat": 39.709877,
+                "lng": 116.411034
+            },
+            "address": "北京市大兴区盛顺街20号1层2102号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "telephone": "(010)61260372",
+            "detail": 1,
+            "uid": "644e7ae09b8f508b246e983c"
+        },
+        {
+            "name": "21世纪不动产(丰桥路店)",
+            "location": {
+                "lat": 39.855202,
+                "lng": 116.315693
+            },
+            "address": "丰桥路8号院12号楼107",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "detail": 1,
+            "uid": "411aab6ce2b7e984da2f2856"
+        },
+        {
+            "name": "21世纪不动产(丰台南路店)",
+            "location": {
+                "lat": 39.847106,
+                "lng": 116.309399
+            },
+            "address": "北京市丰台区彩虹街区底商13号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "",
+            "detail": 1,
+            "uid": "97d46d6e5a9a6e5eb45f1ecd"
+        }
+    ]
+}

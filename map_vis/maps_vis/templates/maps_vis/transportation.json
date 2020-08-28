@@ -1,0 +1,1938 @@
+{
+    "list": [
+        {
+            "name": "东直门",
+            "location": {
+                "lat": 39.947769,
+                "lng": 116.441365
+            },
+            "address": "地铁13号线;地铁2号线;首都机场线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "d600d97d2e2bce8caa059dde"
+        },
+        {
+            "name": "回龙观",
+            "location": {
+                "lat": 40.076423,
+                "lng": 116.342667
+            },
+            "address": "地铁13号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "686b080d95d0f74fefe4a5de"
+        },
+        {
+            "name": "西二旗",
+            "location": {
+                "lat": 40.059036,
+                "lng": 116.312555
+            },
+            "address": "地铁13号线;地铁昌平线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "4e2e5e35444596fbf4eafc53"
+        },
+        {
+            "name": "朝阳门",
+            "location": {
+                "lat": 39.93046,
+                "lng": 116.44019
+            },
+            "address": "地铁2号线;地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "19f06b69d2a493b92a06cede"
+        },
+        {
+            "name": "芍药居",
+            "location": {
+                "lat": 39.9835,
+                "lng": 116.443517
+            },
+            "address": "地铁10号线;地铁13号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "34cf35fa9be7ff62c07da2de"
+        },
+        {
+            "name": "崇文门",
+            "location": {
+                "lat": 39.9072,
+                "lng": 116.424427
+            },
+            "address": "地铁2号线;地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "1f7f3d0b961641927269d3de"
+        },
+        {
+            "name": "常营",
+            "location": {
+                "lat": 39.93154,
+                "lng": 116.606123
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "a7ea35ee92e17dabc71b75cc"
+        },
+        {
+            "name": "潞城",
+            "location": {
+                "lat": 39.908938,
+                "lng": 116.754522
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "5e713cd3b1594a282102620c"
+        },
+        {
+            "name": "新宫",
+            "location": {
+                "lat": 39.818302,
+                "lng": 116.372097
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "888bb80548045569f23cba6d"
+        },
+        {
+            "name": "土桥",
+            "location": {
+                "lat": 39.877731,
+                "lng": 116.692727
+            },
+            "address": "地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "cabe562f160a30200c3ddade"
+        },
+        {
+            "name": "呼家楼",
+            "location": {
+                "lat": 39.92898,
+                "lng": 116.468113
+            },
+            "address": "地铁10号线;地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "3c35f2f82d1625bed7b74ede"
+        },
+        {
+            "name": "惠新西街南口",
+            "location": {
+                "lat": 39.983276,
+                "lng": 116.424044
+            },
+            "address": "地铁10号线;地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "68923af04a242554326212de"
+        },
+        {
+            "name": "菜市口",
+            "location": {
+                "lat": 39.895379,
+                "lng": 116.380956
+            },
+            "address": "地铁4号线大兴线;地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "d2bae5a69b799790631c67e0"
+        },
+        {
+            "name": "健德门",
+            "location": {
+                "lat": 39.982833,
+                "lng": 116.387816
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "27d78ecaa35f3ba55c0d02de"
+        },
+        {
+            "name": "劲松",
+            "location": {
+                "lat": 39.890027,
+                "lng": 116.46801
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "329c192994fb88054acc4ade"
+        },
+        {
+            "name": "北苑路北",
+            "location": {
+                "lat": 40.036821,
+                "lng": 116.424525
+            },
+            "address": "地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "bc362b624525bbe9c5f50dde"
+        },
+        {
+            "name": "宣武门",
+            "location": {
+                "lat": 39.905881,
+                "lng": 116.380848
+            },
+            "address": "地铁2号线;地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "538300116f2a781d240bd0de"
+        },
+        {
+            "name": "平安里",
+            "location": {
+                "lat": 39.939262,
+                "lng": 116.378599
+            },
+            "address": "地铁4号线大兴线;地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "7387684bcf598975e9e58228"
+        },
+        {
+            "name": "鼓楼大街",
+            "location": {
+                "lat": 39.954611,
+                "lng": 116.400238
+            },
+            "address": "地铁2号线;地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "c97c95779f05a5aabea822de"
+        },
+        {
+            "name": "西小口",
+            "location": {
+                "lat": 40.052628,
+                "lng": 116.358248
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "f34d2b573370194b9de321ac"
+        },
+        {
+            "name": "北新桥",
+            "location": {
+                "lat": 39.947112,
+                "lng": 116.423298
+            },
+            "address": "地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "b00b773e7f6bf160f5b916de"
+        },
+        {
+            "name": "回龙观东大街",
+            "location": {
+                "lat": 40.086835,
+                "lng": 116.369733
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "19bff3e301afe8b63b221cac"
+        },
+        {
+            "name": "石榴庄",
+            "location": {
+                "lat": 39.852109,
+                "lng": 116.42057
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "28582c4f09219f8eaf0457cc"
+        },
+        {
+            "name": "大屯路东",
+            "location": {
+                "lat": 40.009611,
+                "lng": 116.424567
+            },
+            "address": "地铁15号线;地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "6a08051d8d65c36b82a00cde"
+        },
+        {
+            "name": "顺义",
+            "location": {
+                "lat": 40.136136,
+                "lng": 116.663674
+            },
+            "address": "地铁15号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "175f291a9040548903ff2dac"
+        },
+        {
+            "name": "九棵树",
+            "location": {
+                "lat": 39.89646,
+                "lng": 116.66393
+            },
+            "address": "地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "81172e17b6cba6dc4f2fdfde"
+        },
+        {
+            "name": "花梨坎",
+            "location": {
+                "lat": 40.090312,
+                "lng": 116.564223
+            },
+            "address": "地铁15号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "d39910fa9be7ff62c07da26d"
+        },
+        {
+            "name": "沙河高教园",
+            "location": {
+                "lat": 40.171012,
+                "lng": 116.286757
+            },
+            "address": "地铁昌平线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "ef818d4cf5cb2cfcc236446c"
+        },
+        {
+            "name": "三元桥",
+            "location": {
+                "lat": 39.96688,
+                "lng": 116.463573
+            },
+            "address": "地铁10号线;首都机场线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "7becb6042407fd57dd1e52de"
+        },
+        {
+            "name": "永安里",
+            "location": {
+                "lat": 39.914223,
+                "lng": 116.457086
+            },
+            "address": "地铁1号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "76056ee5681fc6473804b1de"
+        },
+        {
+            "name": "北运河西",
+            "location": {
+                "lat": 39.908841,
+                "lng": 116.694826
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "8bbde5f001a2885a4351c001"
+        },
+        {
+            "name": "黄渠",
+            "location": {
+                "lat": 39.929936,
+                "lng": 116.584911
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "c7ba06f712e914af44e274cc"
+        },
+        {
+            "name": "什刹海",
+            "location": {
+                "lat": 39.943977,
+                "lng": 116.402555
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "ebf314200e805ddd2fe67bb8"
+        },
+        {
+            "name": "荣昌东街",
+            "location": {
+                "lat": 39.789194,
+                "lng": 116.528038
+            },
+            "address": "地铁亦庄线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "296d62d4eab8d63de315f96d"
+        },
+        {
+            "name": "通州北苑",
+            "location": {
+                "lat": 39.910064,
+                "lng": 116.64361
+            },
+            "address": "地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "7829cc2c6c3b0e5e09ccddde"
+        },
+        {
+            "name": "分钟寺",
+            "location": {
+                "lat": 39.857891,
+                "lng": 116.460381
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "f8da37042407fd57dd1e52cc"
+        },
+        {
+            "name": "东四",
+            "location": {
+                "lat": 39.93053,
+                "lng": 116.423282
+            },
+            "address": "地铁5号线;地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "4d388f0396275777c06c14de"
+        },
+        {
+            "name": "善各庄",
+            "location": {
+                "lat": 40.03309,
+                "lng": 116.484762
+            },
+            "address": "地铁14号线东段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "debbab5fba8abe05a21de96a"
+        },
+        {
+            "name": "森林公园南门",
+            "location": {
+                "lat": 40.016211,
+                "lng": 116.399036
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "9c0ff1ecaf8ffcb9455726ac"
+        },
+        {
+            "name": "东湖渠",
+            "location": {
+                "lat": 40.016019,
+                "lng": 116.474041
+            },
+            "address": "地铁14号线东段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "a2ec780036eaf0294c6d467c"
+        },
+        {
+            "name": "清华东路西口",
+            "location": {
+                "lat": 40.0063,
+                "lng": 116.345527
+            },
+            "address": "地铁15号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "dbae86e3bffebcf5badf8f94"
+        },
+        {
+            "name": "广渠门内",
+            "location": {
+                "lat": 39.899617,
+                "lng": 116.440734
+            },
+            "address": "地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "5b4a42dab2673818b35c6a8b"
+        },
+        {
+            "name": "传媒大学",
+            "location": {
+                "lat": 39.915197,
+                "lng": 116.56137
+            },
+            "address": "地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "e01a5baf0610a96b2802e1de"
+        },
+        {
+            "name": "双井",
+            "location": {
+                "lat": 39.899171,
+                "lng": 116.469147
+            },
+            "address": "地铁10号线;地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "ed4a14ef925b4fe1bbbd63fa"
+        },
+        {
+            "name": "花庄",
+            "location": {
+                "lat": 39.862395,
+                "lng": 116.701597
+            },
+            "address": "地铁7号线;地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "37f13adeb8e58b529fec2b4b"
+        },
+        {
+            "name": "奥林匹克公园",
+            "location": {
+                "lat": 40.007933,
+                "lng": 116.39876
+            },
+            "address": "地铁15号线;地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "5644cf50f6cf052382a12ec3"
+        },
+        {
+            "name": "黄厂",
+            "location": {
+                "lat": 39.855018,
+                "lng": 116.560434
+            },
+            "address": "地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "b46a7f0dfa86ab6ad91318a9"
+        },
+        {
+            "name": "高碑店",
+            "location": {
+                "lat": 39.915798,
+                "lng": 116.538006
+            },
+            "address": "地铁八通线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "a139b531fda8805e9022e0de"
+        },
+        {
+            "name": "德茂",
+            "location": {
+                "lat": 39.778312,
+                "lng": 116.448258
+            },
+            "address": "地铁8号线南段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "1324aed17b30f176d23ce311"
+        },
+        {
+            "name": "亦庄文化园",
+            "location": {
+                "lat": 39.812839,
+                "lng": 116.49701
+            },
+            "address": "地铁亦庄线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "fb0adf155551fea63786f46d"
+        },
+        {
+            "name": "枣营",
+            "location": {
+                "lat": 39.949941,
+                "lng": 116.481589
+            },
+            "address": "地铁14号线东段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "2effad64d800a58c9d9d6890"
+        },
+        {
+            "name": "永定门外",
+            "location": {
+                "lat": 39.872783,
+                "lng": 116.405989
+            },
+            "address": "地铁14号线东段;地铁8号线南段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "23675194c3166c00246e98f3"
+        },
+        {
+            "name": "安德里北街",
+            "location": {
+                "lat": 39.963579,
+                "lng": 116.401546
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "644aa46befb94d90b45f1ed8"
+        },
+        {
+            "name": "天安门西",
+            "location": {
+                "lat": 39.913776,
+                "lng": 116.398036
+            },
+            "address": "地铁1号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "002975204d3b1e9b9968b4de"
+        },
+        {
+            "name": "朝阳公园",
+            "location": {
+                "lat": 39.939443,
+                "lng": 116.484946
+            },
+            "address": "地铁14号线东段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "3f60bf93763b9ef14054d744"
+        },
+        {
+            "name": "关庄",
+            "location": {
+                "lat": 40.007136,
+                "lng": 116.437889
+            },
+            "address": "地铁15号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "5e5458247083bc730d3ddad4"
+        },
+        {
+            "name": "海淀黄庄",
+            "location": {
+                "lat": 39.981865,
+                "lng": 116.324346
+            },
+            "address": "地铁10号线;地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "c9332a87cf26bf7a14c905de"
+        },
+        {
+            "name": "西直门",
+            "location": {
+                "lat": 39.946471,
+                "lng": 116.361446
+            },
+            "address": "地铁13号线;地铁2号线;地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "fa69125c7d51c145374aaede"
+        },
+        {
+            "name": "海淀五路居",
+            "location": {
+                "lat": 39.938607,
+                "lng": 116.282952
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "8815b6b9de1f0ace70210bcc"
+        },
+        {
+            "name": "五棵松",
+            "location": {
+                "lat": 39.913834,
+                "lng": 116.280661
+            },
+            "address": "地铁1号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "53889c15034f2e3f58bbbcde"
+        },
+        {
+            "name": "丰台科技园",
+            "location": {
+                "lat": 39.831449,
+                "lng": 116.303639
+            },
+            "address": "地铁9号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "79df95223da7fcbc86420eac"
+        },
+        {
+            "name": "桥湾",
+            "location": {
+                "lat": 39.899013,
+                "lng": 116.415256
+            },
+            "address": "地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "9a6587ccccaea46a81288a2e"
+        },
+        {
+            "name": "北京大学东门",
+            "location": {
+                "lat": 39.998006,
+                "lng": 116.322265
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "6cc50f9404d8b0f08d1a8928"
+        },
+        {
+            "name": "人民大学",
+            "location": {
+                "lat": 39.97277,
+                "lng": 116.32809
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "ae80941a3f2fe5a796ec8428"
+        },
+        {
+            "name": "广安门内",
+            "location": {
+                "lat": 39.89543,
+                "lng": 116.364636
+            },
+            "address": "地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "654839149f81a6c682288a1e"
+        },
+        {
+            "name": "北宫门",
+            "location": {
+                "lat": 40.008678,
+                "lng": 116.28399
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "60d8431028f771b516948e28"
+        },
+        {
+            "name": "安河桥北",
+            "location": {
+                "lat": 40.018657,
+                "lng": 116.276432
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "fae158e1e517aeb948fc8d28"
+        },
+        {
+            "name": "复兴门",
+            "location": {
+                "lat": 39.913025,
+                "lng": 116.36376
+            },
+            "address": "地铁1号线;地铁2号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "afdc9d0548045569f23cbade"
+        },
+        {
+            "name": "军事博物馆",
+            "location": {
+                "lat": 39.913343,
+                "lng": 116.329311
+            },
+            "address": "地铁1号线;地铁9号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "e55c41bbc12e63bf8405bfde"
+        },
+        {
+            "name": "西钓鱼台",
+            "location": {
+                "lat": 39.929644,
+                "lng": 116.304189
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "79ea4fb7bf2e12b5b14c49cc"
+        },
+        {
+            "name": "八宝山",
+            "location": {
+                "lat": 39.913187,
+                "lng": 116.2424
+            },
+            "address": "地铁1号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "a047555503a5bc5cbc4842d9"
+        },
+        {
+            "name": "黄村西大街",
+            "location": {
+                "lat": 39.73738,
+                "lng": 116.339128
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "4115b62fc8e2ee51ff0eb06d"
+        },
+        {
+            "name": "古城",
+            "location": {
+                "lat": 39.913414,
+                "lng": 116.197076
+            },
+            "address": "地铁1号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "291c5802f26a751cbca240d9"
+        },
+        {
+            "name": "次渠南",
+            "location": {
+                "lat": 39.800804,
+                "lng": 116.587934
+            },
+            "address": "地铁亦庄线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "e79bcd2d4aed015a5ed4fe6d"
+        },
+        {
+            "name": "马连洼",
+            "location": {
+                "lat": 40.038769,
+                "lng": 116.279261
+            },
+            "address": "地铁16号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "fcf4ac0162375d4683a00c0f"
+        },
+        {
+            "name": "苏庄",
+            "location": {
+                "lat": 39.729197,
+                "lng": 116.131898
+            },
+            "address": "地铁房山线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "14ea87df36beb45380288a6d"
+        },
+        {
+            "name": "高米店北",
+            "location": {
+                "lat": 39.779548,
+                "lng": 116.337331
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "237e50204d3b1e9b9968b46d"
+        },
+        {
+            "name": "义和庄",
+            "location": {
+                "lat": 39.718296,
+                "lng": 116.325538
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "ad98eb184009014dfb42b26d"
+        },
+        {
+            "name": "化工",
+            "location": {
+                "lat": 39.893437,
+                "lng": 116.510091
+            },
+            "address": "地铁7号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "77ed7dacc17501cfae045745"
+        },
+        {
+            "name": "动物园",
+            "location": {
+                "lat": 39.943923,
+                "lng": 116.345204
+            },
+            "address": "地铁4号线大兴线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "f6d78fec45db67f7714b8728"
+        },
+        {
+            "name": "育知路",
+            "location": {
+                "lat": 40.093698,
+                "lng": 116.333754
+            },
+            "address": "地铁8号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "32c90b23cc4790a87369d332"
+        },
+        {
+            "name": "丰台东大街",
+            "location": {
+                "lat": 39.86144,
+                "lng": 116.300215
+            },
+            "address": "地铁9号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "689b5a3a996927a041ab9a63"
+        },
+        {
+            "name": "天通苑南",
+            "location": {
+                "lat": 40.072752,
+                "lng": 116.419113
+            },
+            "address": "地铁5号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "218bdcf5384596412eb908de"
+        },
+        {
+            "name": "稻香湖路",
+            "location": {
+                "lat": 40.074788,
+                "lng": 116.194753
+            },
+            "address": "地铁16号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "0dfcb1edc4f3013b0869d919"
+        },
+        {
+            "name": "四惠交通枢纽",
+            "location": {
+                "lat": 39.913092,
+                "lng": 116.502784
+            },
+            "address": "北京市朝阳区建国路72号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "朝阳区",
+            "street_id": "5ec58ae17372c9bcf8f0cb43",
+            "detail": 1,
+            "uid": "5ec58ae17372c9bcf8f0cb43"
+        },
+        {
+            "name": "车公庄西",
+            "location": {
+                "lat": 39.938074,
+                "lng": 116.350736
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "5b3c1e33abceb3b597ca07cc"
+        },
+        {
+            "name": "广阳城",
+            "location": {
+                "lat": 39.754016,
+                "lng": 116.191395
+            },
+            "address": "地铁房山线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "27a57de1e517aeb948fc8d6d"
+        },
+        {
+            "name": "永丰南",
+            "location": {
+                "lat": 40.071669,
+                "lng": 116.254611
+            },
+            "address": "地铁16号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "8c71966addaa3ebbc72ba172"
+        },
+        {
+            "name": "房山城关",
+            "location": {
+                "lat": 39.711685,
+                "lng": 115.996258
+            },
+            "address": "地铁燕房线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "75e029ecec27276fe215f942"
+        },
+        {
+            "name": "上岸",
+            "location": {
+                "lat": 39.911139,
+                "lng": 116.128714
+            },
+            "address": "地铁S1线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "ef7a9f2e9bafc62d88fc062c"
+        },
+        {
+            "name": "天桥",
+            "location": {
+                "lat": 39.888891,
+                "lng": 116.405247
+            },
+            "address": "地铁8号线南段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "3a86cbf0ee81e395095cb358"
+        },
+        {
+            "name": "石厂",
+            "location": {
+                "lat": 39.895137,
+                "lng": 116.106975
+            },
+            "address": "地铁S1线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "c32bc896c9d017370b69d987"
+        },
+        {
+            "name": "金安桥",
+            "location": {
+                "lat": 39.929569,
+                "lng": 116.169048
+            },
+            "address": "地铁6号线;地铁S1线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "4d39b0a0751f44c988b9886b"
+        },
+        {
+            "name": "大红门南",
+            "location": {
+                "lat": 39.842626,
+                "lng": 116.407454
+            },
+            "address": "地铁8号线南段",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "13ab86fd1af3d21beb56fafa"
+        },
+        {
+            "name": "大石河东",
+            "location": {
+                "lat": 39.716115,
+                "lng": 116.046084
+            },
+            "address": "地铁燕房线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "11525aaf4f3b1411343a71a3"
+        },
+        {
+            "name": "植物园",
+            "location": {
+                "lat": 39.999231,
+                "lng": 116.222398
+            },
+            "address": "地铁西郊线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "af96812f26cbdbe92b11d1ae"
+        },
+        {
+            "name": "杨庄",
+            "location": {
+                "lat": 39.93417,
+                "lng": 116.194174
+            },
+            "address": "地铁6号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "区",
+            "detail": 1,
+            "uid": "c0ddbff33009f725601809d5"
+        },
+        {
+            "name": "车道沟",
+            "location": {
+                "lat": 39.954052,
+                "lng": 116.300321
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "35c61ad9a883a6a9e856fa8e"
+        },
+        {
+            "name": "西苑交通枢纽",
+            "location": {
+                "lat": 40.006068,
+                "lng": 116.296507
+            },
+            "address": "北京市海淀区西苑站a口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "db2a2bfba99c1e34e315f96c",
+            "detail": 1,
+            "uid": "17923d438edee46b88f15de0"
+        },
+        {
+            "name": "紫草坞",
+            "location": {
+                "lat": 39.730266,
+                "lng": 116.093276
+            },
+            "address": "地铁燕房线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "e3ba8e85fde9a08136b06c89"
+        },
+        {
+            "name": "东直门交通枢纽",
+            "location": {
+                "lat": 39.947792,
+                "lng": 116.442384
+            },
+            "address": "东直门外大街39号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "detail": 1,
+            "uid": "5200949fba1681f3fd0eb05a"
+        },
+        {
+            "name": "巴沟",
+            "location": {
+                "lat": 39.980453,
+                "lng": 116.300281
+            },
+            "address": "地铁10号线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "092337b9de1f0ace70210bde"
+        },
+        {
+            "name": "开发区交通服务中心",
+            "location": {
+                "lat": 39.78913,
+                "lng": 116.530647
+            },
+            "address": "324路;453路;542路;578路;652路;665路;开发区1路内环;开发区1路外环;开发区2路;开发区3路;开发区4路;开发区5路;开发区7路;开发区8路;快速直达专线120路;快速直达专线188路;快速直达专线1路;通31路;兴16路;兴32路;兴32路快车;兴38路;兴47路;兴51路;兴56路;兴58路;专41路;专96路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "55d49e8cd14ff7add72ce291"
+        },
+        {
+            "name": "北京交通大学-停车场",
+            "location": {
+                "lat": 39.953899,
+                "lng": 116.348568
+            },
+            "address": "北京市海淀区高梁桥斜街19号院2号楼",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "2e7302c626983357c72ba171",
+            "detail": 1,
+            "uid": "2e7302c626983357c72ba171"
+        },
+        {
+            "name": "云佛山滑雪场-停车场",
+            "location": {
+                "lat": 40.481557,
+                "lng": 116.887337
+            },
+            "address": "北京市密云区溪翁庄镇水库南线云佛山滑雪场西北门",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "243fd22701e6585140e19270",
+            "detail": 1,
+            "uid": "243fd22701e6585140e19270"
+        },
+        {
+            "name": "草桥",
+            "location": {
+                "lat": 39.852616,
+                "lng": 116.355155
+            },
+            "address": "大兴机场线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 1,
+            "uid": "3250872cd68f12b393114cfd"
+        },
+        {
+            "name": "北京交通大学(东校区)-停车场",
+            "location": {
+                "lat": 39.954205,
+                "lng": 116.355338
+            },
+            "address": "北京市海淀区高粱桥斜街44号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "bd5046e89b687d3cd72ce22a",
+            "detail": 1,
+            "uid": "bd5046e89b687d3cd72ce22a"
+        },
+        {
+            "name": "北京交通大学",
+            "location": {
+                "lat": 39.952281,
+                "lng": 116.349902
+            },
+            "address": "16路;26路;305路;603路;快速直达专线35路;夜14路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "465b1e31ad7b7a18306212a3"
+        },
+        {
+            "name": "金叵罗",
+            "location": {
+                "lat": 40.466662,
+                "lng": 116.844716
+            },
+            "address": "密15路;密56路;密60路;密60路番字牌;密60路梁营子;密60路南台子;密63路;密65路;密67路;密68路;密8路;密8路大云峰寺支线;密8路支线",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "04099080922e4ce0e21103e9"
+        },
+        {
+            "name": "高岭部队",
+            "location": {
+                "lat": 40.607369,
+                "lng": 117.127695
+            },
+            "address": "密19路;密19路石佛;密19路支线;密20路;密21路;密24路;密26路;密27路;密28路;密34路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "",
+            "detail": 0,
+            "uid": "40d87a3801d3d3ef6f476018"
+        },
+        {
+            "name": "房山区篱笆房交通枢纽",
+            "location": {
+                "lat": 39.767262,
+                "lng": 116.195473
+            },
+            "address": "篱笆房地铁站A口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "f99b04f9aaad79b3441a3294",
+            "detail": 1,
+            "uid": "f99b04f9aaad79b3441a3294"
+        },
+        {
+            "name": "交通银行(北太平庄支行)-地上停车场",
+            "location": {
+                "lat": 39.983736,
+                "lng": 116.376903
+            },
+            "address": "海淀区花园东路32号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "fc38009bf42daa739e95de14",
+            "detail": 1,
+            "uid": "fc38009bf42daa739e95de14"
+        },
+        {
+            "name": "北京南站-公交换乘大厅",
+            "location": {
+                "lat": 39.872231,
+                "lng": 116.384311
+            },
+            "address": "北京市丰台区永外大街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "93dec4c3aba566cbe011031d",
+            "detail": 1,
+            "uid": "93dec4c3aba566cbe011031d"
+        },
+        {
+            "name": "延庆站(客运站)",
+            "location": {
+                "lat": 40.442811,
+                "lng": 115.988921
+            },
+            "address": "北京市延庆区妫水南街59号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "171a808a47ec6b41abf0cd66",
+            "detail": 1,
+            "uid": "171a808a47ec6b41abf0cd66"
+        },
+        {
+            "name": "北京站",
+            "location": {
+                "lat": 39.909462,
+                "lng": 116.433547
+            },
+            "address": "北京市东城区毛家湾胡同甲13号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "东城区",
+            "street_id": "e04d046aa2db8c11c5effb85",
+            "telephone": "(010)51834122",
+            "detail": 1,
+            "uid": "e04d046aa2db8c11c5effb85"
+        },
+        {
+            "name": "北京南站",
+            "location": {
+                "lat": 39.87128,
+                "lng": 116.385488
+            },
+            "address": "北京市丰台区永外大街车站路12号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "41f4c72d01938d04cd04ef45",
+            "telephone": "(010)51867688",
+            "detail": 1,
+            "uid": "41f4c72d01938d04cd04ef45"
+        },
+        {
+            "name": "北京西站",
+            "location": {
+                "lat": 39.900835,
+                "lng": 116.328103
+            },
+            "address": "北京市丰台区莲花池东路118号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "e1bfdd9c943c3796f32d8389",
+            "detail": 1,
+            "uid": "e1bfdd9c943c3796f32d8389"
+        },
+        {
+            "name": "昌平北站",
+            "location": {
+                "lat": 40.237231,
+                "lng": 116.237789
+            },
+            "address": "北京市昌平区北环路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "fcb47ab51ff2fac34251c00c",
+            "detail": 1,
+            "uid": "fcb47ab51ff2fac34251c00c"
+        },
+        {
+            "name": "北京北站",
+            "location": {
+                "lat": 39.951655,
+                "lng": 116.359489
+            },
+            "address": "北京市西城区西直门北大街北滨河路1号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "西城区",
+            "street_id": "17656b5ae320d26b1c38946a",
+            "detail": 1,
+            "uid": "17656b5ae320d26b1c38946a"
+        },
+        {
+            "name": "通州西站",
+            "location": {
+                "lat": 39.910779,
+                "lng": 116.633522
+            },
+            "address": "北京市通州区五里店西路11号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "通州区",
+            "street_id": "f4460918f22d296ab11e3665",
+            "telephone": "(010)51839495",
+            "detail": 1,
+            "uid": "f4460918f22d296ab11e3665"
+        },
+        {
+            "name": "昌平站",
+            "location": {
+                "lat": 40.196127,
+                "lng": 116.200665
+            },
+            "address": "北京市昌平区马池口镇昌流路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "96b839df056714fff6eafc82",
+            "detail": 1,
+            "uid": "96b839df056714fff6eafc82"
+        },
+        {
+            "name": "黄村站",
+            "location": {
+                "lat": 39.725999,
+                "lng": 116.338216
+            },
+            "address": "北京市大兴区黄村镇林校路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "大兴区",
+            "street_id": "9ce0ac6cef6f965ffb2213b2",
+            "detail": 1,
+            "uid": "9ce0ac6cef6f965ffb2213b2"
+        },
+        {
+            "name": "清河站",
+            "location": {
+                "lat": 40.047221,
+                "lng": 116.322224
+            },
+            "address": "北京市海淀区安宁庄西路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "海淀区",
+            "street_id": "ca6f78072518a93716a1902f",
+            "detail": 1,
+            "uid": "ca6f78072518a93716a1902f"
+        },
+        {
+            "name": "丰台西站",
+            "location": {
+                "lat": 39.842652,
+                "lng": 116.258225
+            },
+            "address": "北京市丰台区丰西北里362号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "e281538d516185d96240a91d",
+            "detail": 1,
+            "uid": "e281538d516185d96240a91d"
+        },
+        {
+            "name": "八达岭站",
+            "location": {
+                "lat": 40.365971,
+                "lng": 116.008134
+            },
+            "address": "北京市延庆区八达岭镇216省道与G6国道交叉口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "3b650efbc7a581789e82ea30",
+            "detail": 1,
+            "uid": "3b650efbc7a581789e82ea30"
+        },
+        {
+            "name": "密云北站",
+            "location": {
+                "lat": 40.403071,
+                "lng": 116.868705
+            },
+            "address": "北京市密云区车站路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "aeb01f50eb37eef70bccddb9",
+            "detail": 1,
+            "uid": "aeb01f50eb37eef70bccddb9"
+        },
+        {
+            "name": "三家店站",
+            "location": {
+                "lat": 39.957477,
+                "lng": 116.126622
+            },
+            "address": "北京市门头沟区三家店四局东31排",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "6efa8cd1fea0bdc02dfaa7cf",
+            "telephone": "(010)51860284",
+            "detail": 1,
+            "uid": "6efa8cd1fea0bdc02dfaa7cf"
+        },
+        {
+            "name": "古北口站",
+            "location": {
+                "lat": 40.698345,
+                "lng": 117.148311
+            },
+            "address": "密云区古北口镇河西村(近万寿行宫)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "e14e587891adf4199d95de95"
+        },
+        {
+            "name": "石景山南站",
+            "location": {
+                "lat": 39.880251,
+                "lng": 116.221299
+            },
+            "address": "卢沟桥小郭庄西路52号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "丰台区",
+            "street_id": "788ed9fe4a6832906c3e1bb6",
+            "detail": 1,
+            "uid": "788ed9fe4a6832906c3e1bb6"
+        },
+        {
+            "name": "南口站",
+            "location": {
+                "lat": 40.245607,
+                "lng": 116.135332
+            },
+            "address": "北京市昌平区南口镇兴隆街与交通街交叉口",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "昌平区",
+            "street_id": "51122b0645b34863f90cad22",
+            "telephone": "(010)51869292",
+            "detail": 1,
+            "uid": "51122b0645b34863f90cad22"
+        },
+        {
+            "name": "良乡站",
+            "location": {
+                "lat": 39.747862,
+                "lng": 116.16388
+            },
+            "address": "北京市房山区良乡镇火车站北巷",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "street_id": "02bded503aab49e64354d75f",
+            "detail": 1,
+            "uid": "02bded503aab49e64354d75f"
+        },
+        {
+            "name": "燕山站",
+            "location": {
+                "lat": 39.754739,
+                "lng": 115.965184
+            },
+            "address": "北京市房山区燕山中路7号",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "e369652924be756c734b8720"
+        },
+        {
+            "name": "康庄站",
+            "location": {
+                "lat": 40.385972,
+                "lng": 115.904888
+            },
+            "address": "北京市延庆区康庄镇站北街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "e71a519040f9059b1df74dbc",
+            "detail": 1,
+            "uid": "e71a519040f9059b1df74dbc"
+        },
+        {
+            "name": "琉璃河站",
+            "location": {
+                "lat": 39.603716,
+                "lng": 116.047427
+            },
+            "address": "北京市房山区琉璃河镇车站前街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "8dfade5c17c58947d42ce26c"
+        },
+        {
+            "name": "大城子收费站",
+            "location": {
+                "lat": 40.395286,
+                "lng": 117.094911
+            },
+            "address": "北京市密云区大城子收费站(京承高速公路南)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "a0c28215dbca58cdda2f2830"
+        },
+        {
+            "name": "延庆北站",
+            "location": {
+                "lat": 40.481619,
+                "lng": 116.004599
+            },
+            "address": "北京市延庆区庆园街",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "延庆区",
+            "street_id": "902e13fafa8fc133b75f1e5c",
+            "detail": 1,
+            "uid": "902e13fafa8fc133b75f1e5c"
+        },
+        {
+            "name": "雁翅站",
+            "location": {
+                "lat": 40.04161,
+                "lng": 115.903663
+            },
+            "address": "北京市门头沟区雁翅镇",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "e780acc9a3f796799e9d683f",
+            "detail": 1,
+            "uid": "e780acc9a3f796799e9d683f"
+        },
+        {
+            "name": "司马台收费站",
+            "location": {
+                "lat": 40.636351,
+                "lng": 117.263443
+            },
+            "address": "北京市密云区司马台收费站(京承高速公路东)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "0d5a0b17f56ff4a8e115f91b"
+        },
+        {
+            "name": "房山站",
+            "location": {
+                "lat": 39.71347,
+                "lng": 115.998881
+            },
+            "address": "北京市房山区房山站路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "7bb2888af241a466c17da214"
+        },
+        {
+            "name": "石塘路站",
+            "location": {
+                "lat": 40.557663,
+                "lng": 116.843832
+            },
+            "address": "北京市密云区石城镇双石路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "8b8f65453416e291c6effb8f"
+        },
+        {
+            "name": "窦店站",
+            "location": {
+                "lat": 39.676105,
+                "lng": 116.10943
+            },
+            "address": "北京市房山区窦店镇侯家坟",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "cc58bb520a9c92c4f01937eb"
+        },
+        {
+            "name": "巨各庄站",
+            "location": {
+                "lat": 40.372137,
+                "lng": 117.005057
+            },
+            "address": "北京市密云区巨各庄镇巨各庄村",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "street_id": "57e5678381dc7b44b45f1ede",
+            "detail": 1,
+            "uid": "57e5678381dc7b44b45f1ede"
+        },
+        {
+            "name": "野溪站",
+            "location": {
+                "lat": 39.9921,
+                "lng": 116.075171
+            },
+            "address": "北京市门头沟区011县道",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "street_id": "d2e7fd6a6660881fc16c141d",
+            "detail": 1,
+            "uid": "d2e7fd6a6660881fc16c141d"
+        },
+        {
+            "name": "珠窝站",
+            "location": {
+                "lat": 40.057903,
+                "lng": 115.807238
+            },
+            "address": "北京市门头沟区珠窝村(近珍珠湖景区)",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "门头沟区",
+            "telephone": "(010)51860580",
+            "detail": 1,
+            "uid": "c69fe57285e40a5ecac3db82"
+        },
+        {
+            "name": "兵马营站",
+            "location": {
+                "lat": 40.6001,
+                "lng": 117.016858
+            },
+            "address": "北京市密云区后半路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "密云区",
+            "detail": 1,
+            "uid": "aa0db68730cbe770b05c6a6b"
+        },
+        {
+            "name": "平峪站",
+            "location": {
+                "lat": 39.667224,
+                "lng": 115.54381
+            },
+            "address": "北京市房山区十大路",
+            "province": "北京市",
+            "city": "北京市",
+            "area": "房山区",
+            "detail": 1,
+            "uid": "0aa2abe6474bd8c9b64f5432"
+        }
+    ]
+}
